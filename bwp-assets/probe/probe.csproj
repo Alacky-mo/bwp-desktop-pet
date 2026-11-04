@@ -1,0 +1,21 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net8.0</TargetFramework>
+    <Nullable>disable</Nullable>
+    <AssemblyName>bwp-probe</AssemblyName>
+    <RootNamespace>BwpProbe</RootNamespace>
+    <InvariantGlobalization>true</InvariantGlobalization>
+    <LangVersion>latest</LangVersion>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="SpineRuntime36">
+      <HintPath>C:\Program Files\DeskSpine\SpineRuntime36.dll</HintPath>
+      <Private>true</Private>
+    </Reference>
+    <Reference Include="SpineRuntime38">
+      <HintPath>C:\Program Files\DeskSpine\SpineRuntime38.dll</HintPath>
+      <Private>true</Private>
+    </Reference>
+  </ItemGroup>
+</Project>

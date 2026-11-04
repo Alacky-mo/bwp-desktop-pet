@@ -1,0 +1,51 @@
+# 素材本体是网易/画师的版权内容，只本地使用：整目录不进版本库
+/bwp-assets/npk/
+/bwp-assets/*.png
+/bwp-assets/crops/
+/bwp-assets/heads/
+/bwp-assets/heroart/
+/bwp-assets/portraits/
+/bwp-assets/tmp_color/
+/bwp-assets/models/
+/bwp-assets/models_test/
+/bwp-assets/animator-test/bin/
+/bwp-assets/render-wall/bin/
+# 从设备拉的清单里混着自己的聊天记录，不入库
+/bwp-assets/meta/
+# 语音本体：784 个 Wwise bank + 189 个外部 .wem（263 MB），只本地用，用 voice_pull.py 重拉
+/bwp-assets/voice/
+
+# 解包 dump 和渲染产物：只留能重跑管线用的小清单
+/bwp-assets/t/**
+!/bwp-assets/t/**/
+!/bwp-assets/t/**/_*.tsv
+/bwp-assets/out/**
+!/bwp-assets/out/**/
+!/bwp-assets/out/*_census.tsv
+# 语音名册是索引不是素材，入库（逐条 voice_clips.tsv 太大，靠 voice_bnk.py 重跑）
+!/bwp-assets/out/voice_wwise.tsv
+!/bwp-assets/out/voice_clips_unit.tsv
+!/bwp-assets/out/voice_clips_external.tsv
+!/bwp-assets/out/voice_roster.tsv
+# 带游戏语音原文/逐句转写的三张表不进版本库 —— 按权利判，不按「重跑要花三小时」判。
+# 2026-11-04 用 filter-branch 从全部 74 个历史提交里剔掉了，本机那三份照旧留着自用（工作区里它们从此是未跟踪）。
+# 上一版的放行理由写的是「whisper 本机跑 3 小时才出得来」，那是成本，不是权利 —— 所以这里连 `!_*.tsv` 那一并盖不住的两条一起补死。
+/bwp-assets/out/voice_lines.tsv
+/bwp-assets/voice_emo_rules.tsv
+/bwp-assets/t/**/voice/_manifest.tsv
+# out/ 下还放着出联系表/裁图/改 GBK 源码的小脚本，是代码不是素材，要入库。
+# 上一行 `!/bwp-assets/out/**/` 已经把子目录本身放进来了，所以这里能直接放行子目录里的 .py；
+# 之前只写 `*.py`（不带 `**`）漏掉了 out/focus_digits/ 和 out/gbk-view/ 那批 —— 整条仿字管线没库可回滚。
+!/bwp-assets/out/**/*.py
+/bwp-assets/sheets/**
+!/bwp-assets/sheets/**/
+!/bwp-assets/sheets/**/*.tsv
+
+# 构建产物
+**/bin/
+**/obj/
+**/__pycache__/
+*.log
+
+# DeskSpine 有自己的仓库和提交历史，不并进来
+/deskspine/

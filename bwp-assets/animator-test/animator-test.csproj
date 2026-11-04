@@ -1,0 +1,18 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net8.0-windows</TargetFramework>
+    <UseWindowsForms>true</UseWindowsForms>
+    <Nullable>disable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <AssemblyName>bwp-animator-test</AssemblyName>
+    <RootNamespace>BwpAnimatorTest</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\deskspine\TinyEngine\TinyEngine.csproj" />
+    <ProjectReference Include="..\..\deskspine\Spine\Spine.csproj" />
+  </ItemGroup>
+
+</Project>

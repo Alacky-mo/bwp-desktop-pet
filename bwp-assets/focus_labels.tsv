@@ -1,0 +1,56 @@
+# 番茄钟出口层候选素材的中文叫法（肉眼对着 out/focus_zoom/ 放大图逐张写的，不是官方名）
+# 格式: 文件名主干<TAB>中文说法。叫不准的一律标「不确定」，没有自己编的译名。
+# 末尾带「弃」的是配对错页/只剩碎片/纯特效，进不了挑选表，但留在 focus_icons 里备查。
+gui_ui_activity_img_n107_damo_01	达摩·黑金武将款（戴盔、挂铜钱）[右上带邻帧碎片]
+gui_ui_activity_img_n107_damo_02	达摩·白金武将款（戴盔、紫垫）
+gui_ui_activity_img_n107_damo_03	不是达摩：书页堆碎片（配错页，弃）
+gui_ui_activity_img_n107_damo_04	达摩·红色（金纹，下方有残影）
+gui_ui_activity_img_n107_damo_05	达摩·红色（同上一套另一帧）
+gui_ui_activity_img_n107_damo_06	不是达摩：麦穗+灯笼+「楼」字碎片（弃）
+gui_ui_activity_img_n191_damo_01	达摩·红色（圆胖无盔）
+gui_ui_activity_img_n191_damo_02	达摩·蓝色（圆胖）
+gui_ui_activity_img_n191_damo_03	达摩·白色（皱眉）
+gui_ui_activity_img_n191_damo_04	达摩·黑紫色
+gui_ui_activity_img_n191_damo_05	达摩·红底白花
+gui_ui_activity_img_n191_damo_06	达摩·蓝底金冠
+gui_ui_activity_img_n191_damo_07	达摩·白底蓝纹金冠
+gui_ui_activity_img_n191_damo_08	达摩·黑金武将款
+gui_ui_activity_img_n54_damo	几乎空帧，只剩一条边（弃）
+gui_ui_arena_img_arena_damodi	达摩的坐垫（扁椭圆布垫）
+gui_ui_arena_img_arena_time	时钟小图标 16x16
+gui_ui_arena_img_arena_time_di	灰色底条（弃）
+gui_ui_arena_img_damo_black_04	达摩·黑紫（睁一只眼）
+gui_ui_arena_img_damo_blue_03	达摩·蓝色（小号 64x69）
+gui_ui_arena_img_damo_red	达摩·红色坐在木箱里，带光柱 224x224
+gui_ui_arena_img_damo_red_01	达摩·红色（金扇纹）
+gui_ui_arena_img_damo_white_02	达摩·白色（皱眉）
+gui_ui_common_icon_damo01	达摩·红色（正圆、表情凶）123x122
+gui_ui_common_icon_damo01_open	开盖达摩：红达摩碗里装满卷轴/念珠/符
+gui_ui_common_icon_damo02	红色布垫（达摩坐垫）180x53
+gui_ui_common_icon_sandclock	沙漏小图标 14x20
+gui_ui_data_img_record_times	白色叉号（弃）
+gui_ui_gouyuwu_icon_sc_damo	达摩一家：大红达摩扎蝴蝶结+四只小达摩+闪光
+gui_ui_gouyuwu_icon_sc_damo_info	达摩一家（闪光更多，左上带碎片）
+gui_ui_gouyuwu_icon_sc_damobilibao	达摩礼盒（盒身达摩脸+拐杖糖丝带）
+gui_ui_gouyuwu_icon_sc_damobilibao_info	达摩礼盒（放大版）
+gui_ui_gouyuwu_img_countdown	沙漏小图标（白）18x22
+gui_ui_icon_icon_hongdamotongbi	红达摩金币 31x31
+gui_ui_ladder_img_damo	达摩·红色（生气，坐在垫上）50x46
+gui_ui_season_tickets_icon_season_tickets_countdown	沙漏小图标（灰）26x30
+gui_ui_street_clip_damo_eyes_1	眼白碎片（弃）
+gui_ui_street_clip_damo_eyes_2	白色圆片（弃）
+gui_ui_street_img_damoeyes_fail	小叉号（弃）
+gui_ui_street_img_damoeyes_success	金色四角星闪光 52x54
+gui_ui_street_img_street_damobi_light	金色光柱特效 342x458（太大，只能当背景特效）
+gui_ui_street_img_street_damobi_light_01	光线碎片（弃）
+gui_ui_street_img_street_damobi_light_02	横向速度线+紫条碎片（弃）
+gui_ui_theater_img_eggbase	灰色小菱形碎片（弃）
+gui_ui_theater_img_eggbase_window1	窗框角碎片（弃）
+gui_ui_theater_img_eggbase_window2	窗框碎片（弃）
+gui_ui_title_img_30_circle	金色圆环 32x32
+spine1_21204_damo	橙色达摩（骨骼切片，姿态不完整，不确定）
+spine_damo1_body	达摩身体·红（没有脸，脸是另一层骨骼）
+spine_damo2_body	达摩身体·蓝（没有脸）
+spine_damo3_body	达摩身体·白（没有脸）
+spine_damo4_body	达摩身体·黑紫（没有脸）
+spine_damo_body	达摩身体·白（和 spine_damo3_body 是同一张）

@@ -1,0 +1,70 @@
+# 番茄钟界面素材的中文叫法（肉眼对着 out/focus_ui_sheet/ 放大联系表逐张写的，不是官方名）
+# 格式: 文件名主干<TAB>中文说法。叫不准的一律标「不确定」，没有自己编的译名。
+# 标签只写「一眼挑图用的短名」：联系表一格 260 px，长过 14 字就压到隔壁格去了。
+#   尺寸 / 亮度 / 峰值 alpha / 能不能九宫格这些实测细节在 docs/番茄钟界面方案.md §3.2 的表里。
+# 出带名字的表: python contact_sheet.py out/focus_ui out/focus_ui_sheet focus_ui_labels.tsv
+# 拉伸+看得见看不见的全套实测数: python nine_patch_test.py out/focus_ui out/nine_patch → out/nine_patch/结果.tsv
+
+# —— 面板/框 ——
+gui_ui_common_bg_kuang01	奶白实心圆角板
+gui_ui_common_bg_kuang02	白色空心圆角框
+gui_ui_common_bg_kuang03	深灰细线方框·半透明
+gui_ui_common_bg_tips_3	和风纸面板
+gui_ui_common_bg_diwen	圆形暗纹底
+gui_ui_common_btn_selectpanel	列表面板底·半透明
+
+# —— 按钮/控件 ——
+gui_ui_common_btn_select_off	单选钮·未选中
+gui_ui_common_btn_select_on	单选钮·选中(紫勾)
+gui_ui_common_com_btn_close	关闭钮·蓝叉
+gui_ui_common_com_btn_close2	关闭钮·红叉
+gui_ui_common_com_btn_normal	银灰按钮底板·常态
+gui_ui_common_com_btn_press	银灰按钮底板·按下
+gui_ui_common_com_btn_press1	银灰挂牌·竖版(不确定)
+gui_ui_common_img_add	加号＋
+
+# —— 气泡 ——
+gui_ui_common_img_bubble	多边形气泡·奶白
+gui_ui_common_img_bubble_02	多边形气泡·大白
+gui_ui_common_img_bubble_s	小圆气泡
+gui_ui_common_img_bubble_01	细长横幅条(不确定)
+
+# —— 标题装饰件（一整套秋天主题的摆件）——
+gui_ui_title_img_44_diban	标题金纹横底
+gui_ui_title_img_44_fengye1	枫叶·紫心金边
+gui_ui_title_img_44_fengye2	枫叶·纯金
+gui_ui_title_img_44_yuanquan	金圆环
+gui_ui_title_img_44_guangdian1	金色光点(几乎空)
+gui_ui_title_img_44_guangdian2	金色光点·极小(弃)
+gui_ui_title_img_44_luoyeyou1	落叶·右飘1(弃)
+gui_ui_title_img_44_luoyeyou2	落叶·右飘2
+gui_ui_title_img_44_luoyeyou3	落叶·右飘3
+gui_ui_title_img_44_luoyeyou4	落叶·右飘4
+gui_ui_title_img_44_luoyeyou5	落叶·右飘5
+gui_ui_title_img_44_luoyeyou6	落叶·右飘6
+gui_ui_title_img_44_luoyeyou7	金圈·叫落叶存疑
+gui_ui_title_img_44_luoyeyou8	落叶·右飘8
+gui_ui_title_img_44_luoyezuo1	落叶·左飘1
+gui_ui_title_img_44_luoyezuo2	落叶·左飘2
+gui_ui_title_img_44_luoyezuo3	落叶·左飘3
+gui_ui_title_img_44_luoyezuo4	落叶·左飘4(弃)
+gui_ui_title_img_44_nangua	小童子?(不确定)
+gui_ui_title_img_44_shuzi	深色弯月碎片(不确定)
+gui_ui_title_img_44_shoubi	深色小钩(不确定)
+gui_ui_title_img_44_zhenzi1	金坠子
+gui_ui_title_img_44_zhenzi2	金坠子·小
+gui_ui_title_img_44_zhiren	纸人
+# —— 以下全是「投影件」，贴深底等于隐形，全部弃 ——
+gui_ui_title_img_44_yuanquantouying	金圆环投影(弃)
+gui_ui_title_img_44_zhenzitouying	金坠子投影(弃·最暗)
+gui_ui_title_img_44_zhirentouying	纸人投影(弃)
+
+# —— 达摩（番茄钟出口层已在用，同目录备查）——
+gui_ui_activity_img_n191_damo_01	达摩·红色圆胖
+gui_ui_activity_img_n191_damo_02	达摩·蓝色圆胖
+gui_ui_activity_img_n191_damo_03	达摩·白色皱眉
+gui_ui_activity_img_n191_damo_04	达摩·黑紫
+gui_ui_activity_img_n191_damo_05	达摩·红底白花
+gui_ui_activity_img_n191_damo_06	达摩·蓝底金冠
+gui_ui_activity_img_n191_damo_07	达摩·白底蓝纹金冠
+gui_ui_activity_img_n191_damo_08	达摩·黑金武将款

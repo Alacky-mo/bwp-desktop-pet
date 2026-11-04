@@ -1,0 +1,811 @@
+unit	category	view	hero_id	slug	中文名	清单里	设备上	本地已解	句数	走外部wem	外部wem缺	估分钟	分组数	分组sizes	表情骨架目录	表情动画	表情动画数	对上方式
+vo_battle_101	battle	式神	101			是	是	是	29	0	0	0.7	7	12,4,3,3,3,2,2			0	名字里没有拼音
+vo_battle_102	battle	式神	102			是	是	是	27	0	0	0.7	6	13,3,3,3,3,2			0	名字里没有拼音
+vo_battle_105	battle	式神	105	datiangou		是	是	是	28	0	0	0.7	6	13,4,3,3,3,2	datiangou_0795,datiangou_1602,datiangou_1638,datiangou_2817	angry,emotion1,emotion2,emotion3,emotion4,emotion5,emotion6,happy,idle,idle1,sad,smile,stand,surprise,thinking,turn,walk_l,walk_r	16	同名
+vo_battle_1050001	battle	式神	1050001			是	是	是	11	0	0	0.3	4	4,3,2,2			0	名字里没有拼音
+vo_battle_106	battle	式神	106			是	是	是	29	0	0	0.9	7	13,3,3,3,3,2,2			0	名字里没有拼音
+vo_battle_107	battle	式神	107	yingcao		是	是	是	29	0	0	0.9	8	11,3,3,3,3,2,2,2	yingcao_2829	happy,idle,sad,surprise,thinking	4	同名
+vo_battle_109	battle	式神	109			是	是	是	30	0	0	0.8	8	11,4,3,3,3,2,2,2			0	名字里没有拼音
+vo_battle_110	battle	式神	110			是	是	是	28	0	0	0.6	7	12,3,3,3,3,2,2			0	名字里没有拼音
+vo_battle_111	battle	式神	111	cimutongzi		是	是	是	27	0	0	0.8	6	13,3,3,3,3,2	cimu_2542,cimutongzilvli_yihua_3459	happy,idle,sad,serious,smile,surprise,thinking	6	前缀互含
+vo_battle_1110001	battle	式神	1110001			是	是	是	12	0	0	0.3	5	4,2,2,2,2			0	名字里没有拼音
+vo_battle_112	battle	式神	112			是	是	是	27	0	0	0.7	6	13,3,3,3,3,2			0	名字里没有拼音
+vo_battle_113	battle	式神	113			是	是	是	27	0	0	0.9	6	13,3,3,3,3,2			0	名字里没有拼音
+vo_battle_114	battle	式神	114			是	是	是	27	0	0	0.7	6	13,3,3,3,3,2			0	名字里没有拼音
+vo_battle_115	battle	式神	115			是	是	是	27	0	0	1.0	6	13,3,3,3,3,2			0	名字里没有拼音
+vo_battle_116	battle	式神	116			是	是	是	27	0	0	0.7	6	13,3,3,3,3,2			0	名字里没有拼音
+vo_battle_117	battle	式神	117			是	是	是	28	0	0	1.2	7	12,3,3,3,3,2,2			0	名字里没有拼音
+vo_battle_118	battle	式神	118	yimulian		是	是	是	27	0	0	0.7	6	13,3,3,3,3,2	yi_2788	idle,sad,smile,surprise,thinking	4	前缀互含
+vo_battle_1180001	battle	式神	1180001	yimulian		是	是	是	11	0	0	0.4	4	4,3,2,2	yi_2788	idle,sad,smile,surprise,thinking	4	前缀互含
+vo_battle_119	battle	式神	119	shuweng		是	是	是	27	0	0	0.9	6	13,3,3,3,3,2	shuweng_2269	happy,idle,sad,surprise,thinking	4	同名
+vo_battle_120	battle	式神	120	jue		是	是	是	28	0	0	0.6	7	12,3,3,3,3,2,2	jue_2641	happy,idle,sad,surprise,thinking	4	同名
+vo_battle_122	battle	式神	122			是	是	是	27	0	0	1.1	6	13,3,3,3,3,2			0	名字里没有拼音
+vo_battle_123	battle	式神	123			是	是	是	28	0	0	0.9	6	14,3,3,3,3,2			0	名字里没有拼音
+vo_battle_125	battle	式神	125			是	是	是	27	0	0	0.9	7	12,3,3,3,2,2,2			0	名字里没有拼音
+vo_battle_126	battle	式神	126	ciqiqingwa		是	是	是	47	0	0	1.4	8	24,5,4,3,3,3,3,2	qingwaciqi_2605	happy,idle,sad,serious,smile,surprise,thinking	6	同字母异序
+vo_battle_127	battle	式神	127	shantu		是	是	是	63	0	0	1.3	19	15,5,5,4,3,3,3,3,3,3,2,2,2,2,2,2,2,1,1	shantu_yihua_1752	happy,idle,sad,surprise,thinking	4	前缀互含
+vo_battle_128	battle	式神	128	yaoqinshi		是	是	是	27	0	0	0.9	6	13,3,3,3,3,2	yaoqinshi_3041	happy,idle,sad,surprise,thinking	4	同名
+vo_battle_129	battle	式神	129			是	是	是	28	0	0	1.0	7	12,3,3,3,3,2,2			0	名字里没有拼音
+vo_battle_130	battle	式神	130			是	是	是	46	0	0	1.1	8	26,4,3,3,3,3,2,2			0	名字里没有拼音
+vo_battle_133	battle	式神	133	lianyou		是	是	是	67	0	0	2.2	27	6,3,3,3,3,3,3,3,3,3,3,3,3,3,3,2,2,2,2,2,2,2,1,1,1,1,1	lianyoulaoda_2776,lianyoulaoer_2658,lianyoulaosan_2703	happy,idle,sad	2	前缀互含
+vo_battle_134	battle	式神	134	yaohu		是	是	是	28	0	0	1.2	6	13,4,3,3,3,2	yaohu_2789	happy,idle,sad,serious,smile,surprise,thinking	6	同名
+vo_battle_139	battle	式神	139	yatiangou		是	是	是	27	0	0	0.9	6	13,3,3,3,3,2	yatiangou_2615	happy,idle,sad,surprise,thinking	4	同名
+vo_battle_146	battle	式神	146			是	是	是	56	0	0	1.2	12	14,6,6,5,4,4,3,3,3,3,3,2			0	只有数字 id(拼音不唯一)
+vo_battle_146_fanqie	battle	式神	146	fanqie		是	是	是	24	0	0	0.3	6	6,5,4,4,3,2			0	对不上
+vo_battle_163	battle	式神	163	xiaolunan		是	是	是	27	0	0	1.0	6	13,3,3,3,3,2			0	对不上
+vo_battle_164	battle	式神	164	yanyanluo		是	是	是	27	0	0	1.2	6	13,3,3,3,3,2	yanyanluo_2356	happy,idle,sad,surprise,thinking	4	同名
+vo_battle_166	battle	式神	166	rihefang		是	是	是	29	0	0	0.9	6	13,5,3,3,3,2			0	对不上
+vo_battle_167	battle	式神	167			是	是	是	28	0	0	1.5	7	12,4,3,3,3,2,1			0	只有数字 id(拼音不唯一)
+vo_battle_168	battle	式神	168	tianjingxia		是	是	是	29	0	0	1.1	8	12,3,3,3,2,2,2,2			0	对不上
+vo_battle_170	battle	式神	170	bianhua		是	是	是	27	0	0	1.4	7	12,3,3,3,3,2,1	bianhua_yihua_0819	happy,idle,sad,surprise,thinking	4	前缀互含
+vo_battle_171	battle	式神	171	mengpo		是	是	是	28	0	0	1.1	7	12,3,3,3,3,2,2			0	对不上
+vo_battle_173	battle	式神	173	xixueji		是	是	是	28	0	0	1.1	6	13,4,3,3,3,2			0	对不上
+vo_battle_175	battle	式神	175	shanfeng		是	是	是	27	0	0	0.9	6	13,3,3,3,3,2	shanfeng_3572	happy,idle,sad,surprise,thinking	4	同名
+vo_battle_176	battle	式神	176	huiyeji		是	是	是	31	0	0	1.5	8	13,3,3,3,3,3,2,1	huiyeji_2667	happy,idle,sad,serious,surprise,thinking	5	同名
+vo_battle_1760001	battle	式神	1760001			是	是	是	11	0	0	0.6	4	4,3,2,2			0	名字里没有拼音
+vo_battle_177	battle	式神	177	longyechaji		是	是	是	35	0	0	1.5	10	9,4,4,3,3,3,3,2,2,2			0	对不上
+vo_battle_178	battle	式神	178	huang		是	是	是	37	0	0	1.8	13	10,3,3,3,2,2,2,2,2,2,2,2,2	huangtianxiegui_0484,huangtianxiegui_2816	angry,happy,idle,sad,smile,stand,surprise,thinking	7	前缀互含
+vo_battle_1780001	battle	式神	1780001			是	是	是	12	0	0	0.6	5	4,2,2,2,2			0	名字里没有拼音
+vo_battle_179	battle	式神	179	jiuciliang		是	是	是	28	0	0	1.4	7	12,3,3,3,3,2,2			0	对不上
+vo_battle_180	battle	式神	180	lingluyuqian		是	是	是	30	0	0	1.1	9	10,3,3,3,3,2,2,2,2	lingluyuqian_1129	happy,idle,sad,surprise,thinking	4	同名
+vo_battle_181	battle	式神	181	renmianshu		是	是	是	28	0	0	1.2	7	13,3,3,3,2,2,2			0	对不上
+vo_battle_182	battle	式神	182			是	是	是	56	0	0	1.9	14	17,6,4,4,3,3,3,3,3,2,2,2,2,2			0	只有数字 id(拼音不唯一)
+vo_battle_183	battle	式神	183	tiaotiaogege		是	是	是	29	0	0	1.3	7	14,3,3,3,3,2,1			0	对不上
+vo_battle_184	battle	式神	184	yinghuayao		是	是	是	27	0	0	1.0	6	13,3,3,3,3,2	yinghuayao_1922	happy,idle,sad,surprise,thinking	4	同名
+vo_battle_185	battle	式神	185	sanmu		是	是	是	45	0	0	2.4	14	16,3,3,3,2,2,2,2,2,2,2,2,2,2	sanmu_1307,sanmu_1524	happy,idle,idle2,idle3,sad,sinister smile,surprise,thinking	5	同名
+vo_battle_186	battle	式神	186	xun		是	是	是	28	0	0	1.1	6	14,3,3,3,3,2	xunxiangxing_3345	happy,idle,sad,surprise,thinking	4	前缀互含
+vo_battle_187	battle	式神	187	shimengmo		是	是	是	29	0	0	1.6	8	12,3,3,3,3,2,2,1			0	对不上
+vo_battle_188	battle	式神	188	duyanxiaoseng		是	是	是	30	0	0	1.5	9	10,3,3,3,3,2,2,2,2	duyanxiaoseng_2702	angry,happy,idle,sad,surprise,thinking	5	同名
+vo_battle_189	battle	式神	189	yuzhuanjin		是	是	是	29	0	0	1.1	7	12,3,3,3,3,3,2	yuzhuanjin_3433	happy,idle,sad,surprise,thinking	4	同名
+vo_battle_190	battle	式神	190	dayuewan		是	是	是	31	0	0	1.3	6	17,3,3,3,3,2	dayuewan_2036	angry,happy,idle,sad,surprise	4	同名
+vo_battle_191	battle	式神	191	guiqie		是	是	是	31	0	0	1.2	7	15,3,3,3,3,2,2	guiqie_0582	happy,idle,sad,surprise,thinking	4	同名
+vo_battle_192	battle	式神	192			是	是	是	28	0	0	1.6	7	13,3,3,3,3,2,1			0	只有数字 id(拼音不唯一)
+vo_battle_193	battle	式神	193	wushizhiling		是	是	是	28	0	0	1.6	6	14,3,3,3,3,2			0	对不上
+vo_battle_194	battle	式神	194			是	是	是	50	0	0	2.2	14	10,8,3,3,3,3,3,3,3,3,2,2,2,2			0	只有数字 id(拼音不唯一)
+vo_battle_196	battle	式神	196	baimugui		是	是	是	29	0	0	1.7	7	13,3,3,3,3,2,2	baimugui_3528	happy,idle,sad,surprise,thinking	4	同名
+vo_battle_197	battle	式神	197	zhuiyueshen		是	是	是	28	0	0	1.2	7	12,3,3,3,3,2,2	zhuiyueshen_2366	happy,idle,sad,surprise,thinking	4	同名
+vo_battle_201	battle	式神	201	jiumingmao		是	是	是	28	0	0	1.3	6	14,3,3,3,3,2	jiumingmao_2570	happy,idle,sad,surprise,thinking	4	同名
+vo_battle_204	battle	式神	204	huoqumo		是	是	是	30	0	0	1.5	9	12,3,3,2,2,2,2,2,2			0	对不上
+vo_battle_205	battle	式神	205	yuanjiulanghu		是	是	是	28	0	0	1.1	7	12,3,3,3,3,2,2	yuanjiulanghu_1030,yuanjiulanghu_3509	angry,happy,idle,sad,smile,surprise,thinking	6	同名
+vo_battle_206	battle	式神	206	jingliuliyuqian		是	是	是	29	0	0	1.2	8	12,3,3,3,2,2,2,2	jingliuliyuqian_2708,jingliuliyuqian_3493	angry,happy,idle,sad,smile,surprise,thinking	6	同名
+vo_battle_207	battle	式神	207	yingxueji		是	是	是	29	0	0	1.5	7	13,3,3,3,3,2,2	yingxueji_0999,yingxueji_3492	happy,idle,sad,surprise,thinking	4	同名
+vo_battle_208	battle	式神	208	mianlingqi		是	是	是	35	0	0	1.5	9	15,3,3,3,3,2,2,2,2	mianlingqi_3013	happy,idle,sad,surprise,thinking	4	同名
+vo_battle_209	battle	式神	209	huibishou		是	是	是	31	0	0	1.6	7	15,3,3,3,3,2,2			0	对不上
+vo_battle_210	battle	式神	210	xieji		是	是	是	30	0	0	1.2	6	16,3,3,3,3,2	xieji_0481	happy,idle,sad,surprise,thinking	4	同名
+vo_battle_211	battle	式神	211	gouchang		是	是	是	31	0	0	1.1	7	15,3,3,3,3,2,2			0	对不上
+vo_battle_212	battle	式神	212	tieshu		是	是	是	32	0	0	1.3	8	14,3,3,3,3,2,2,2	tieshu_2420	idle,sad,smile,surprise,thinking	4	同名
+vo_battle_213	battle	式神	213	hetong		是	是	是	31	0	0	1.4	8	13,3,3,3,3,2,2,2	hetong_2795	happy,idle,sad,surprise,thinking	4	同名
+vo_battle_214	battle	式神	214	guitongwan		是	是	是	28	0	0	1.6	7	13,3,3,3,2,2,2			0	对不上
+vo_battle_215	battle	式神	215	bore		是	是	是	29	0	0	1.7	7	14,3,3,3,2,2,2	bore_2919	happy,idle,sad,sad_2,surprise,thinking	5	同名
+vo_battle_216	battle	式神	216	yuanjieshen		是	是	是	37	0	0	2.1	12	9,3,3,3,3,3,3,2,2,2,2,2	yuanjieshen_0623	happy,idle,sad,surprise,thinking	4	同名
+vo_battle_217	battle	式神	217	egui		是	是	是	31	0	0	1.2	7	15,3,3,3,3,2,2			0	对不上
+vo_battle_220	battle	式神	220	baqidashe		是	是	是	34	0	0	1.8	11	12,3,3,3,3,2,2,2,2,1,1	baqidashe_0457	happy,idle,sad,surprise,thinking	4	同名
+vo_battle_221	battle	式神	221			是	是	是	36	0	0	1.7	12	10,3,3,3,3,2,2,2,2,2,2,2			0	只有数字 id(拼音不唯一)
+vo_battle_224	battle	式神	224	axiuluo		是	是	是	31	0	0	1.6	10	11,3,3,2,2,2,2,2,2,2	axiuluo_3412	happy,idle,sad,surprise,thinking	4	同名
+vo_battle_225	battle	式神	225	dishitian		是	是	是	34	0	0	1.6	9	14,3,3,3,3,2,2,2,2	dishitian_0291	happy,idle,sad,surprise,thinking	4	同名
+vo_battle_226	battle	式神	226	huangkulou		是	是	是	30	0	0	1.3	6	16,3,3,3,3,2			0	对不上
+vo_battle_227	battle	式神	227	jinyuji		是	是	是	32	0	0	1.3	7	16,3,3,3,3,2,2	jinyuji_2782	happy,idle,sad,surprise,thinking	4	同名
+vo_battle_228	battle	式神	228			是	是	是	32	0	0	1.6	6	18,3,3,3,3,2			0	只有数字 id(拼音不唯一)
+vo_battle_2280001_a	battle	式神	2280001	a		是	是	是	12	0	0	0.5	4	5,3,2,2	axiuluo_3412	happy,idle,sad,surprise,thinking	4	前缀互含
+vo_battle_2280001_b	battle	式神	2280001	b		是	是	是	12	0	0	0.5	4	5,3,2,2	bailang_2559,baimugui_3528,baitongzi_3355,baizangzhulixin_3726,baize_0129,baize_3511,baize_yihua_2321,baqidashe_0457,bianhua_yihua_0819,bore_2919,bujianyue_2190,buzhihuo_1127,buzhihuo_pifu_3604,buzhihuo_pifu_3608,buzhihuo_yihua_2717	angry,happy,idle,sad,sad_2,smile,surprise,thinking	7	前缀互含
+vo_battle_229	battle	式神	229	huaniaojuan		是	是	是	32	0	0	1.6	6	18,3,3,3,3,2	huaniaojuan_2761	happy,idle,sad,serious,smile,surprise,thinking	6	同名
+vo_battle_2290001	battle	式神	2290001			是	是	是	12	0	0	0.8	4	5,3,2,2			0	名字里没有拼音
+vo_battle_230	battle	式神	230	yanmo		是	是	是	31	0	0	1.6	6	17,3,3,3,3,2	yanmo_3413	happy,idle,sad,surprise,thinking	4	同名
+vo_battle_231	battle	式神	231	kuileishi		是	是	是	30	0	0	1.1	6	16,3,3,3,3,2			0	对不上
+vo_battle_232	battle	式神	232	fengli		是	是	是	37	0	0	1.3	12	12,3,3,3,3,2,2,2,2,2,2,1	fengli_2367	happy,idle,sad,surprise,thinking	4	同名
+vo_battle_233	battle	式神	233	baizangzhu		是	是	是	32	0	0	1.4	8	14,3,3,3,3,2,2,2	baizangzhulixin_3726	happy,idle,sad,surprise,thinking	4	前缀互含
+vo_battle_2330001	battle	式神	2330001			是	是	是	12	0	0	0.5	4	5,3,2,2			0	名字里没有拼音
+vo_battle_235	battle	式神	235	guanhu		是	是	是	32	0	0	1.3	7	17,3,3,3,2,2,2			0	对不上
+vo_battle_236	battle	式神	236	rulianshi		是	是	是	35	0	0	1.5	10	13,3,3,3,3,2,2,2,2,2			0	对不上
+vo_battle_237	battle	式神	237	huzhangyouren		是	否	否	0	0	0	0	0				0	对不上
+vo_battle_238	battle	式神	238	liangmianfo		是	是	是	49	0	0	2.3	22	7,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2			0	对不上
+vo_battle_239	battle	式神	239	yi		是	是	是	27	0	0	1.1	6	13,3,3,3,3,2	yi_2788	idle,sad,smile,surprise,thinking	4	同名
+vo_battle_240	battle	式神	240	heitongzi		是	是	是	28	0	0	0.9	7	12,3,3,3,3,2,2	heitongzi_3343	happy,idle,sad,surprise,thinking	4	同名
+vo_battle_241	battle	式神	241	baitongzi		是	是	是	27	0	0	0.8	6	13,3,3,3,3,2	baitongzi_3355	happy,idle,sad,surprise,thinking	4	同名
+vo_battle_242	battle	式神	242	yunwaijing		是	是	是	42	0	0	1.7	19	6,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2			0	对不上
+vo_battle_243	battle	式神	243	xiazhongshaonv		是	是	是	27	0	0	1.3	6	13,3,3,3,3,2	xiazhongshaonv_2835	happy,idle,sad,surprise,thinking	4	同名
+vo_battle_244	battle	式神	244			是	是	是	28	0	0	1.1	10	9,3,3,3,3,2,2,1,1,1			0	只有数字 id(拼音不唯一)
+vo_battle_2440001	battle	式神	2440001			是	是	是	12	0	0	0.5	4	5,3,2,2			0	名字里没有拼音
+vo_battle_245	battle	式神	245	xiaosongwan		是	是	是	27	0	0	1.1	6	13,3,3,3,3,2			0	对不上
+vo_battle_246	battle	式神	246	maoyou		是	是	是	27	0	0	1.1	6	13,3,3,3,3,2			0	对不上
+vo_battle_2460001	battle	式神	2460001			是	是	是	11	0	0	0.5	4	5,2,2,2			0	名字里没有拼音
+vo_battle_247	battle	式神	247	qianji	千姬	是	是	是	27	0	0	0.9	6	13,3,3,3,3,2	qianji_0552	happy,idle,sad,surprise,thinking	4	同名
+vo_battle_2470001	battle	式神	2470001	qianji	千姬	是	是	是	11	0	0	0.4	4	5,2,2,2	qianji_0552	happy,idle,sad,surprise,thinking	4	同名
+vo_battle_248	battle	式神	248	limao		是	是	是	27	0	0	1.5	6	13,3,3,3,3,2	limao_2843	idle,sad,smile,surprise,thinking	4	同名
+vo_battle_249	battle	式神	249	yixigong		是	是	是	27	0	0	1.4	6	13,3,3,3,3,2	yixigong_3339	happy,idle,sad,surprise,thinking	4	同名
+vo_battle_250	battle	式神	250	tuwan		是	是	是	27	0	0	1.0	6	13,3,3,3,3,2	tuwan_1484	happy,idle,sad,surprise,thinking	4	同名
+vo_battle_251	battle	式神	251	xingxiongtongzi		是	是	是	27	0	0	1.0	6	13,3,3,3,3,2	xingxiongtongzi_3517	happy,idle,sad,surprise,thinking	4	同名
+vo_battle_252	battle	式神	252	wuwan		是	是	是	28	0	0	1.3	7	13,3,3,3,3,2,1	wuwan_0987	happy,idle,sad,surprise,thinking	4	同名
+vo_battle_253	battle	式神	253	shiling		是	是	是	27	0	0	1.0	6	13,3,3,3,3,2	shiling_1492	happy,idle,sad,surprise,thinking	4	同名
+vo_battle_256	battle	式神	256			是	是	是	27	0	0	1.3	6	13,3,3,3,3,2			0	只有数字 id(拼音不唯一)
+vo_battle_2560001	battle	式神	2560001			是	是	是	11	0	0	0.5	4	5,2,2,2			0	名字里没有拼音
+vo_battle_257	battle	式神	257			是	是	是	27	0	0	1.2	6	13,3,3,3,3,2			0	只有数字 id(拼音不唯一)
+vo_battle_258	battle	式神	258	choushizhinv		是	是	是	27	0	0	1.4	6	13,3,3,3,3,2			0	对不上
+vo_battle_259	battle	式神	259	guinvhongye		是	是	是	24	0	0	1.6	5	13,3,3,3,2			0	对不上
+vo_battle_260	battle	式神	260	shouwu		是	是	是	25	0	0	1.0	5	14,3,3,3,2			0	对不上
+vo_battle_261	battle	式神	261	yifanmumian		是	是	是	24	0	0	1.6	5	13,3,3,3,2	yi_2788	idle,sad,smile,surprise,thinking	4	前缀互含
+vo_battle_262	battle	式神	262	yecha		是	是	是	24	0	0	1.5	5	13,3,3,3,2	yecha_1730	happy,idle,sad,surprise,thinking	4	同名
+vo_battle_263	battle	式神	263	lingyanji		是	是	是	27	0	0	1.0	6	13,3,3,3,3,2	lingyanji_1715	happy,idle,sad,surprise,thinking	4	同名
+vo_battle_2630001	battle	式神	2630001	lingyanji		是	是	是	10	0	0	0.3	4	5,2,2,1	lingyanji_1715	happy,idle,sad,surprise,thinking	4	同名
+vo_battle_264	battle	式神	264	jicanghai		是	是	是	22	0	0	0.7	6	11,3,3,2,2,1	jicanghai_1908	happy,idle,sad,surprise,thinking	4	同名
+vo_battle_265	battle	式神	265	wuchen		是	是	是	24	0	0	0.9	6	12,3,3,2,2,2	wuchen_1876	happy,idle,sad,surprise,thinking	4	同名
+vo_battle_266	battle	式神	266	ninghongye		是	是	是	24	0	0	0.7	6	12,3,3,2,2,2			0	对不上
+vo_battle_267	battle	式神	267	hutao		是	是	是	24	0	0	0.7	6	12,3,3,2,2,2	hutao_yihua_2003	happy,idle,sad,surprise,thinking	4	前缀互含
+vo_battle_2670001	battle	式神	2670001	hutao		是	是	是	9	0	0	0.3	2	7,2	hutao_yihua_2003	happy,idle,sad,surprise,thinking	4	前缀互含
+vo_battle_268	battle	式神	268	wannianzhu		是	是	是	22	0	0	0.6	5	13,3,2,2,2			0	对不上
+vo_battle_269	battle	式神	269	shuzhu		是	是	是	26	0	0	1.1	6	12,3,3,3,3,2	shuzhu_yihua_2201	happy,idle,sad,surprise,thinking	4	前缀互含
+vo_battle_271	battle	式神	271	huangchuanzhizhu		是	是	是	22	0	0	0.9	5	13,3,2,2,2			0	对不上
+vo_battle_272	battle	式神	272	sanweihu		是	是	是	26	0	0	1.1	6	12,3,3,3,3,2			0	对不上
+vo_battle_2720001	battle	式神	2720001			是	是	是	11	0	0	0.6	4	5,2,2,2			0	名字里没有拼音
+vo_battle_273	battle	式神	273	baize		是	是	是	26	0	0	1.3	6	12,3,3,3,3,2	baize_0129,baize_3511	angry,happy,idle,sad,smile,surprise,thinking	6	同名
+vo_battle_2730001	battle	式神	2730001	baize		是	是	是	11	0	0	0.5	4	5,2,2,2	baize_0129,baize_3511	angry,happy,idle,sad,smile,surprise,thinking	6	同名
+vo_battle_274	battle	式神	274	hudiejing		是	是	是	17	0	0	0.6	1	17	hudiejing_0784	happy,idle,sad,surprise,thinking	4	同名
+vo_battle_275	battle	式神	275	luoxinfu		是	是	是	21	0	0	0.8	4	14,3,2,2			0	对不上
+vo_battle_276	battle	式神	276	yitiao		是	是	是	26	0	0	0.9	6	12,3,3,3,3,2	yitiao_0128	happy,idle,sad,surprise,thinking	4	同名
+vo_battle_2760001	battle	式神	2760001	yitiao		是	是	是	11	0	0	0.5	4	5,2,2,2	yitiao_0128	happy,idle,sad,surprise,thinking	4	同名
+vo_battle_277	battle	式神	277	jialouluo		是	是	是	17	0	0	0.6	1	17			0	对不上
+vo_battle_278	battle	式神	278	huajing		是	是	是	21	0	0	0.8	4	14,3,2,2			0	对不上
+vo_battle_279	battle	式神	279	yinge		是	是	是	18	0	0	0.5	2	16,2	yi_2788	idle,sad,smile,surprise,thinking	4	前缀互含
+vo_battle_280	battle	式神	280	bujianyue		是	是	是	21	0	0	0.9	4	14,3,2,2	bujianyue_2190	happy,idle,sad,surprise,thinking	4	同名
+vo_battle_281	battle	式神	281	xuzuozhinan		是	是	是	26	0	0	1.3	6	12,3,3,3,3,2	xuzuozhinan_yihua_3486	happy,idle,sad,surprise,thinking	4	前缀互含
+vo_battle_2810001	battle	式神	2810001	xuzuozhinan		是	是	是	11	0	0	0.4	4	5,2,2,2	xuzuozhinan_yihua_3486	happy,idle,sad,surprise,thinking	4	前缀互含
+vo_battle_282	battle	式神	282	liyujing		是	是	是	19	0	0	0.6	3	15,2,2			0	对不上
+vo_battle_283	battle	式神	283	chongshi		是	是	是	20	0	0	0.9	4	14,2,2,2			0	对不上
+vo_battle_284	battle	式神	284	xienv		是	是	是	26	0	0	1.1	6	12,3,3,3,3,2	xienv_yihua_3335	happy,idle,sad,surprise,thinking	4	前缀互含
+vo_battle_2840001	battle	式神	2840001	xienv		是	是	是	11	0	0	0.6	4	5,2,2,2	xienv_yihua_3335	happy,idle,sad,surprise,thinking	4	前缀互含
+vo_battle_285	battle	式神	285	yujuchong		是	是	是	19	0	0	0.7	3	15,2,2			0	对不上
+vo_battle_286	battle	式神	286	hairen		是	是	是	20	0	0	0.5	4	14,2,2,2			0	对不上
+vo_battle_287	battle	式神	287	linghaidie		是	是	是	26	0	0	1.2	6	12,3,3,3,3,2	linghaidie_3255	happy,idle,sad,surprise,thinking	4	同名
+vo_battle_2870001	battle	式神	2870001	linghaidie		是	是	是	11	0	0	0.5	4	5,2,2,2	linghaidie_3255	happy,idle,sad,surprise,thinking	4	同名
+vo_battle_288	battle	式神	288	xunxiangxing		是	是	是	26	0	0	1.0	6	12,3,3,3,3,2	xunxiangxing_3345	happy,idle,sad,surprise,thinking	4	同名
+vo_battle_2880001	battle	式神	2880001	xunxiangxing		是	是	是	11	0	0	0.5	4	5,2,2,2	xunxiangxing_3345	happy,idle,sad,surprise,thinking	4	同名
+vo_battle_289	battle	式神	289	yaodaojizhouren		是	是	是	25	0	0	1.2	5	13,3,3,3,3			0	对不上
+vo_battle_2890001	battle	式神	2890001	yaodaojizhouren		是	是	是	11	0	0	0.6	4	5,2,2,2			0	对不上
+vo_battle_290	battle	式神	290	datiangougangfeng		是	是	是	26	0	0	1.1	6	12,3,3,3,3,2	gangfengdatiangou_3397	happy,idle,sad,surprise,thinking	4	同字母异序
+vo_battle_291	battle	式神	291	qingxingdenghuihuo		是	是	是	26	0	0	1.6	6	12,3,3,3,3,2	huihuoqingxingdeng_3366	happy,idle,sad,surprise,thinking	4	同字母异序
+vo_battle_2910001	battle	式神	2910001	qingxingdenghuihuo		是	是	是	11	0	0	0.7	4	5,2,2,2	huihuoqingxingdeng_3366	happy,idle,sad,surprise,thinking	4	同字母异序
+vo_battle_292	battle	式神	292			是	是	是	27	0	0	1.6	6	12,4,3,3,3,2			0	只有数字 id(拼音不唯一)
+vo_battle_293	battle	式神	293	gulonghuo		是	是	是	19	0	0	0.5	3	15,2,2			0	对不上
+vo_battle_294	battle	式神	294	chuanyuan		是	是	是	19	0	0	0.7	3	15,2,2			0	对不上
+vo_battle_295	battle	式神	295	erkounv		是	是	是	19	0	0	0.6	3	15,2,2			0	对不上
+vo_battle_296	battle	式神	296	xiaoxiuzhishou		是	是	是	19	0	0	0.9	3	15,2,2			0	对不上
+vo_battle_298	battle	式神	298			是	是	是	33	0	0	1.2	5	21,3,3,3,3			0	只有数字 id(拼音不唯一)
+vo_battle_298_nv	battle	式神	298	nv		是	是	是	33	0	0	1.3	5	21,3,3,3,3			0	对不上
+vo_battle_299	battle	式神	299	qingfangzhufanchen		是	是	是	25	0	0	0.9	6	12,3,3,3,2,2			0	对不上
+vo_battle_322	battle	式神	322			是	是	是	9	0	0	0.1	1	9			0	名字里没有拼音
+vo_battle_601	battle	式神	601			是	是	是	23	0	0	0.7	5	12,3,3,3,2			0	名字里没有拼音
+vo_battle_602	battle	式神	602	jiutuntongziwangkong		是	是	是	26	0	0	1.2	6	12,3,3,3,3,2	jiutuntongzi_2686,jiutuntongziwangkong_yihua_3435	happy,idle,sad,surprise,thinking	4	前缀互含
+vo_battle_6020001	battle	式神	6020001	jiutuntongziwangkong		是	是	是	13	0	0	0.4	5	4,3,2,2,2	jiutuntongzi_2686,jiutuntongziwangkong_yihua_3435	happy,idle,sad,surprise,thinking	4	前缀互含
+vo_battle_603	battle	式神	603	fenpopo		是	是	是	22	0	0	1.3	4	14,3,3,2			0	对不上
+vo_battle_604	battle	式神	604	ji		是	是	是	26	0	0	1.1	6	12,3,3,3,3,2	ji_yihua_3515,jianyuanqianqiu_3083,jicanghai_1908,jingliuliyuqian_2708,jingliuliyuqian_3493,jinnaluo_yihua_1611,jinyuji_2782,jiumingmao_2570,jiutuntongzi_2686,jiutuntongziwangkong_yihua_3435	angry,happy,idle,sad,smile,surprise,thinking	6	前缀互含
+vo_battle_605	battle	式神	605	kongquemingwang		是	是	是	26	0	0	1.4	6	12,3,3,3,3,2	kongquemingwang_yihua_3432	happy,idle,sad,surprise,thinking	4	前缀互含
+vo_battle_6050001	battle	式神	6050001	kongquemingwang		是	是	是	11	0	0	0.6	4	5,2,2,2	kongquemingwang_yihua_3432	happy,idle,sad,surprise,thinking	4	前缀互含
+vo_battle_606	battle	式神	606	jiaotu		是	是	是	22	0	0	1.0	4	14,3,3,2			0	对不上
+vo_battle_607	battle	式神	607	cimutongzilvli		是	是	是	26	0	0	1.1	6	12,3,3,3,3,2	cimu_2542,cimutongzilvli_yihua_3459	happy,idle,sad,serious,smile,surprise,thinking	6	前缀互含
+vo_battle_608	battle	式神	608	huimingdeng		是	是	是	24	0	0	1.0	5	13,3,3,3,2			0	对不上
+vo_battle_609	battle	式神	609	shifagui		是	是	是	23	0	0	1.4	4	14,4,3,2	shifagui_2811	happy,idle,sad,serious,smile,surprise,thinking	6	同名
+vo_battle_610	battle	式神	610	guhuoniaoyuxiang		是	是	是	26	0	0	1.3	6	12,3,3,3,3,2	guhuoniaoyuxiang_3526	happy,idle,sad,surprise,thinking	4	同名
+vo_battle_6100001	battle	式神	6100001	guhuoniaoyuxiang		是	是	是	11	0	0	0.8	4	5,2,2,2	guhuoniaoyuxiang_3526	happy,idle,sad,surprise,thinking	4	同名
+vo_battle_611	battle	式神	611	tiannimei		是	是	是	25	0	0	0.9	5	14,4,3,2,2			0	对不上
+vo_battle_612	battle	式神	612	taohuayaoluoying		是	是	是	28	0	0	1.2	6	14,3,3,3,3,2	taohuayaoluoying_3616	happy,idle,sad,surprise,thinking	4	同名
+vo_battle_6120001	battle	式神	6120001	taohuayaoluoying		是	是	是	13	0	0	0.5	5	4,3,2,2,2	taohuayaoluoying_3616	happy,idle,sad,surprise,thinking	4	同名
+vo_battle_613	battle	式神	613	yimulianlinglai		是	是	是	27	0	0	1.3	6	13,3,3,3,3,2	yi_2788	idle,sad,smile,surprise,thinking	4	前缀互含
+vo_battle_6130001	battle	式神	6130001	yimulianlinglai		是	是	是	13	0	0	0.6	5	4,3,2,2,2	yi_2788	idle,sad,smile,surprise,thinking	4	前缀互含
+vo_battle_614	battle	式神	614	yanling		是	是	是	26	0	0	1.2	6	12,3,3,3,3,2			0	对不上
+vo_battle_6140001	battle	式神	6140001	yanling		是	是	是	11	0	0	0.6	4	5,2,2,2			0	对不上
+vo_battle_615	battle	式神	615			是	是	是	31	0	0	1.9	6	17,3,3,3,3,2			0	只有数字 id(拼音不唯一)
+vo_battle_6150001	battle	式神	6150001			是	是	是	13	0	0	0.6	5	4,3,2,2,2			0	只有数字 id(拼音不唯一)
+vo_battle_616	battle	式神	616			是	是	是	60	0	0	1.9	26	6,3,3,3,3,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2			0	只有数字 id(拼音不唯一)
+vo_battle_6160001	battle	式神	6160001			是	是	是	20	0	0	0.6	9	3,3,2,2,2,2,2,2,2			0	只有数字 id(拼音不唯一)
+vo_battle_617	battle	式神	617	huangqiming		是	是	是	27	0	0	1.4	6	13,3,3,3,3,2			0	对不上
+vo_battle_6170001	battle	式神	6170001	huangqiming		是	是	是	13	0	0	0.5	5	4,3,2,2,2			0	对不上
+vo_battle_618	battle	式神	618	zhuiyueshenshuiyue		是	是	是	27	0	0	1.6	6	13,3,3,3,3,2	zhuiyueshen_2366	happy,idle,sad,surprise,thinking	4	前缀互含
+vo_battle_6180001	battle	式神	6180001	zhuiyueshenshuiyue		是	是	是	11	0	0	0.6	4	5,2,2,2	zhuiyueshen_2366	happy,idle,sad,surprise,thinking	4	前缀互含
+vo_battle_619	battle	式神	619	gunv		是	是	是	25	0	0	1.0	5	14,3,3,3,2			0	对不上
+vo_battle_620	battle	式神	620	yunv		是	是	是	23	0	0	1.1	4	15,3,3,2			0	对不上
+vo_battle_621	battle	式神	621	chen		是	是	是	31	0	0	1.8	6	18,3,3,3,2,2	chen_3566	happy,idle,sad,surprise,thinking	4	同名
+vo_battle_6210001	battle	式神	6210001	chen		是	是	是	11	0	0	0.8	4	5,2,2,2	chen_3566	happy,idle,sad,surprise,thinking	4	同名
+vo_battle_622	battle	式神	622	yuedu		是	是	是	25	0	0	1.5	5	15,3,3,2,2			0	对不上
+vo_battle_623	battle	式神	623	tianzhao		是	是	是	27	0	0	1.5	6	13,3,3,3,3,2			0	对不上
+vo_battle_6230001	battle	式神	6230001	tianzhao		是	是	是	11	0	0	1.0	4	5,2,2,2			0	对不上
+vo_battle_624	battle	式神	624	wushizhilingmaoshi		是	是	是	27	0	0	1.8	6	13,3,3,3,3,2			0	对不上
+vo_battle_6240001	battle	式神	6240001	wushizhilingmaoshi		是	是	是	11	0	0	0.9	4	5,2,2,2			0	对不上
+vo_battle_625	battle	式神	625	yixienamei		是	是	是	27	0	0	1.5	6	13,3,3,3,3,2	yi_2788	idle,sad,smile,surprise,thinking	4	前缀互含
+vo_battle_626	battle	式神	626	daorenshen		是	是	是	23	0	0	0.8	5	13,3,3,2,2			0	对不上
+vo_battle_627	battle	式神	627	guishibai		是	是	是	26	0	0	0.8	6	12,3,3,3,3,2			0	对不上
+vo_battle_628	battle	式神	628	guishihei		是	是	是	26	0	0	1.1	6	12,3,3,3,3,2			0	对不上
+vo_battle_629	battle	式神	629	mianlingqixinsu		是	是	是	26	0	0	1.6	6	12,3,3,3,3,2	mianlingqi_3013	happy,idle,sad,surprise,thinking	4	前缀互含
+vo_battle_6290001	battle	式神	6290001	mianlingqixinsu		是	是	是	11	0	0	0.8	4	5,2,2,2	mianlingqi_3013	happy,idle,sad,surprise,thinking	4	前缀互含
+vo_battle_630	battle	式神	630	yingcaopupu		是	是	是	27	0	0	1.0	6	13,3,3,3,3,2	yi_2788,yingcao_2829	happy,idle,sad,smile,surprise,thinking	5	前缀互含
+vo_battle_6300001	battle	式神	6300001	yingcaopupu		是	是	是	11	0	0	0.7	4	5,2,2,2	yi_2788,yingcao_2829	happy,idle,sad,smile,surprise,thinking	5	前缀互含
+vo_battle_631	battle	式神	631	ertong		是	是	是	27	0	0	1.7	6	13,3,3,3,3,2			0	对不上
+vo_battle_6310001	battle	式神	6310001	ertong		是	是	是	11	0	0	0.8	4	5,2,2,2			0	对不上
+vo_battle_632	battle	式神	632			是	是	是	27	0	0	0.9	7	12,4,3,2,2,2,2			0	名字里没有拼音
+vo_battle_633	battle	式神	633	zhiwu		是	是	是	24	0	0	1.1	5	13,3,3,3,2			0	对不上
+vo_battle_634	battle	式神	634	long		是	是	是	27	0	0	1.3	6	13,3,3,3,3,2			0	对不上
+vo_battle_635	battle	式神	635			是	是	是	30	0	0	1.1	6	16,3,3,3,3,2			0	名字里没有拼音
+vo_battle_636	battle	式神	636			是	是	是	27	0	0	1.2	6	13,3,3,3,3,2			0	名字里没有拼音
+vo_battle_637	battle	式神	637			是	是	是	25	0	0	0.9	6	12,3,3,3,2,2			0	名字里没有拼音
+vo_battle_638	battle	式神	638	fansi		是	是	是	25	0	0	1.0	6	12,3,3,3,2,2			0	对不上
+vo_battle_639	battle	式神	639	maochuan		是	是	是	31	0	0	1.7	6	18,3,3,3,2,2			0	对不上
+vo_battle_640	battle	式神	640	youning		是	是	是	27	0	0	1.3	6	13,3,3,3,3,2			0	对不上
+vo_battle_641	battle	式神	641	alaina		是	是	是	26	0	0	1.5	6	12,3,3,3,3,2			0	对不上
+vo_battle_642	battle	式神	642			是	是	是	23	0	0	0.8	4	14,4,3,2			0	名字里没有拼音
+vo_battle_643	battle	式神	643			是	是	是	22	0	0	1.0	4	14,3,3,2			0	名字里没有拼音
+vo_battle_644	battle	式神	644	huojinshen		是	是	是	22	0	0	1.0	4	14,3,3,2			0	对不上
+vo_battle_645	battle	式神	645	sibing		是	是	是	27	0	0	1.3	6	13,3,3,3,3,2	sibing_yihua_3668	happy,idle,sad,surprise,thinking	4	前缀互含
+vo_battle_6450001	battle	式神	6450001	sibing		是	是	是	13	0	0	0.6	5	4,3,2,2,2	sibing_yihua_3668	happy,idle,sad,surprise,thinking	4	前缀互含
+vo_battle_646	battle	式神	646			是	是	是	22	0	0	1.0	4	14,3,3,2			0	名字里没有拼音
+vo_battle_647	battle	式神	647	chili		是	是	是	29	0	0	1.3	6	15,3,3,3,3,2	chili_yihua_3659	happy,idle,sad,surprise,thinking	4	前缀互含
+vo_battle_6470001	battle	式神	6470001	chili		是	是	是	11	0	0	0.6	4	5,2,2,2	chili_yihua_3659	happy,idle,sad,surprise,thinking	4	前缀互含
+vo_battle_648	battle	式神	648			是	是	是	27	0	0	1.3	6	13,3,3,3,3,2			0	名字里没有拼音
+vo_battle_6480001	battle	式神	6480001	yuanjieshensuiyuan		是	否	否	0	0	0	0	0		yuanjieshensuiyuan_3707	angry,happy,idle,sad,surprise	4	同名
+vo_battle_649	battle	式神	649			是	是	是	26	0	0	1.0	6	12,3,3,3,3,2			0	名字里没有拼音
+vo_battle_650	battle	式神	650			是	是	是	26	0	0	1.0	6	12,3,3,3,3,2			0	名字里没有拼音
+vo_battle_651	battle	式神	651	baizangzhulixin		是	是	是	26	0	0	1.1	6	12,3,3,3,3,2	baizangzhulixin_3726	happy,idle,sad,surprise,thinking	4	同名
+vo_battle_652	battle	式神	652	guijinyang		是	是	是	26	0	0	1.6	6	12,3,3,3,3,2			0	对不上
+vo_battle_653	battle	式神	653	longche		是	是	是	39	0	0	2.1	4	32,3,2,2			0	对不上
+vo_battle_654	battle	式神	654	longjue		是	是	是	24	0	0	1.2	5	13,3,3,3,2			0	对不上
+vo_battle_655	battle	式神	655	fengyangjun		是	是	是	20	0	0	0.9	3	15,3,2			0	对不上
+vo_battle_656	battle	式神	656	chanxinyunwaijing		是	是	是	26	0	0	1.4	5	13,6,3,2,2			0	对不上
+vo_battle_657	battle	式神	657	pinfashen		是	是	是	24	0	0	1.3	5	13,3,3,3,2			0	对不上
+vo_battle_6570001	battle	式神	6570001	pinfashen		是	是	是	11	0	0	0.7	4	5,2,2,2			0	对不上
+vo_battle_658	battle	式神	658	maozhangguihuanyan		是	是	是	24	0	0	1.0	5	13,3,3,3,2			0	对不上
+vo_battle_6580001	battle	式神	6580001	maozhangguihuanyan		是	否	否	0	0	0	0	0				0	对不上
+vo_battle_659	battle	式神	659	zhaocaimao		是	是	是	22	0	0	1.1	4	14,3,3,2			0	对不上
+vo_battle_6590001	battle	式神	6590001	zhaocaimao		是	是	是	11	0	0	0.6	4	5,2,2,2			0	对不上
+vo_battle_660	battle	式神	660	jintianyuzaoqian		是	是	是	20	0	0	1.3	3	15,3,2			0	对不上
+vo_battle_661	battle	式神	661	geliuduo		是	是	是	24	0	0	1.2	5	14,3,3,2,2	geliuduo_yihua_3753	happy,idle,sad,surprise,thinking	4	前缀互含
+vo_battle_662	battle	式神	662	chulingshanfeng		是	是	是	22	0	0	0.9	4	14,3,3,2			0	对不上
+vo_battle_663	battle	式神	663			是	是	是	27	0	0	1.1	6	12,4,3,3,3,2			0	名字里没有拼音
+vo_battle_664	battle	式神	664	yinghuayaolijing		是	是	是	24	0	0	1.0	5	13,3,3,3,2	yi_2788,yinghuayao_1922	happy,idle,sad,smile,surprise,thinking	5	前缀互含
+vo_battle_665	battle	式神	665	fenghuanghuojingyu		是	是	是	25	0	0	0.9	5	14,3,3,3,2	fenghuanghuo_3789	happy,idle,sad,surprise,thinking	4	前缀互含
+vo_battle_666	battle	式神	666	yinfanhuiyeji		是	是	是	20	0	0	1.1	4	14,2,2,2	yi_2788	idle,sad,smile,surprise,thinking	4	前缀互含
+vo_battle_667	battle	式神	667	daixiaoguhuoniao		是	是	是	20	0	0	0.7	3	15,3,2			0	对不上
+vo_battle_669	battle	式神	669	baizeyuanqi		是	是	是	28	0	0	1.5	6	14,3,3,3,3,2	baize_0129,baize_3511	angry,happy,idle,sad,smile,surprise,thinking	6	前缀互含
+vo_battle_670	battle	式神	670	shenqihuang		是	是	是	21	0	0	0.8	5	13,2,2,2,2			0	对不上
+vo_battle_671	battle	式神	671	beimihu		是	是	是	25	0	0	0.9	6	13,3,3,2,2,2			0	对不上
+vo_battle_672	battle	式神	672	shiyaolongyechaji		是	是	是	24	0	0	1.0	6	14,2,2,2,2,2			0	对不上
+vo_battle_673	battle	式神	673	yuyanbore		是	是	是	21	0	0	1.0	4	15,2,2,2			0	对不上
+vo_battle_75103_lianyou2	battle	式神	75103	lianyou2		是	是	是	10	0	0	0.1	3	5,3,2			0	对不上
+vo_battle_75115_fanqie	battle	式神	75115	fanqie		是	是	是	15	0	0	0.2	3	6,5,4			0	对不上
+vo_battle_75212_lianyou1	battle	式神	75212	lianyou1		是	是	是	14	0	0	0.3	3	6,5,3			0	对不上
+vo_battle_75217_daomuxiaogui	battle	式神	75217	daomuxiaogui		是	是	是	5	0	0	0.1	3	2,2,1			0	对不上
+vo_battle_75307_tianxiegui_blue	battle	式神	75307	tianxiegui_blue		是	是	是	8	0	0	0.1	3	5,2,1			0	对不上
+vo_battle_75308_tianxiegui_red	battle	式神	75308	tianxiegui_red		是	是	是	15	0	0	0.3	4	6,4,3,2			0	对不上
+vo_battle_75312_lianyou3	battle	式神	75312	lianyou3		是	是	是	12	0	0	0.2	3	5,4,3			0	对不上
+vo_battle_75313_denglonggui	battle	式神	75313	denglonggui		是	是	是	14	0	0	0.1	3	5,5,4			0	对不上
+vo_battle_75401_tangzhisanyao	battle	式神	75401	tangzhisanyao		是	是	是	9	0	0	0.2	3	5,2,2			0	对不上
+vo_battle_75407_tianxiegui_yellow	battle	式神	75407	tianxiegui_yellow		是	是	是	23	0	0	0.4	4	9,5,5,4			0	对不上
+vo_battle_75411_tianxiegui_green	battle	式神	75411	tianxiegui_green		是	是	是	5	0	0	0.1	3	3,1,1			0	对不上
+vo_battle_75501_chishe	battle	式神	75501	chishe		是	是	是	9	0	0	0.2	3	6,2,1			0	对不上
+vo_battle_75502_duyanxiaoseng	battle	式神	75502	duyanxiaoseng		是	是	是	11	0	0	0.2	3	5,4,2	duyanxiaoseng_2702	angry,happy,idle,sad,surprise,thinking	5	同名
+vo_battle_75504_jishenghun	battle	式神	75504	jishenghun		是	是	是	8	0	0	0.2	3	4,3,1			0	对不上
+vo_battle_75509_tidengxiaoseng	battle	式神	75509	tidengxiaoseng		是	是	是	5	0	0	0.1	3	2,2,1			0	对不上
+vo_battle_player_108_taohuayao	battle	玩家	108	taohuayao		是	是	是	4	0	0	0.2	1	4	taohuayao_1432	happy,idle,sad,surprise,thinking	4	同名
+vo_battle_player_111_cimutongzi	battle	玩家	111	cimutongzi		是	是	是	8	0	0	0.2	1	8	cimu_2542,cimutongzilvli_yihua_3459	happy,idle,sad,serious,smile,surprise,thinking	6	前缀互含
+vo_battle_player_1180001_yimulian	battle	玩家	1180001	yimulian		是	是	是	8	0	0	0.3	1	8	yi_2788	idle,sad,smile,surprise,thinking	4	前缀互含
+vo_battle_player_118_yimulian	battle	玩家	118	yimulian		是	是	是	8	0	0	0.3	1	8	yi_2788	idle,sad,smile,surprise,thinking	4	前缀互含
+vo_battle_player_1190001_shuweng	battle	玩家	1190001	shuweng		是	是	是	4	0	0	0.3	1	4	shuweng_2269	happy,idle,sad,surprise,thinking	4	同名
+vo_battle_player_119_shuweng	battle	玩家	119	shuweng		是	是	是	4	0	0	0.2	1	4	shuweng_2269	happy,idle,sad,surprise,thinking	4	同名
+vo_battle_player_127_shantu	battle	玩家	127	shantu		是	是	是	4	0	0	0.2	1	4	shantu_yihua_1752	happy,idle,sad,surprise,thinking	4	前缀互含
+vo_battle_player_167_buzhihuo_sp	battle	玩家	167	buzhihuo_sp		是	是	是	4	0	0	0.1	1	4	buzhihuo_1127	happy,idle,sad,surprise,thinking	4	前缀互含
+vo_battle_player_168_tianjingxia	battle	玩家	168	tianjingxia		是	是	是	10	0	0	0.4	3	6,2,2			0	对不上
+vo_battle_player_170_bianhua	battle	玩家	170	bianhua		是	是	是	8	0	0	0.5	1	8	bianhua_yihua_0819	happy,idle,sad,surprise,thinking	4	前缀互含
+vo_battle_player_173_xixueji	battle	玩家	173	xixueji		是	是	是	8	0	0	0.3	1	8			0	对不上
+vo_battle_player_175_shanfeng	battle	玩家	175	shanfeng		是	是	是	9	0	0	0.3	2	7,2	shanfeng_3572	happy,idle,sad,surprise,thinking	4	同名
+vo_battle_player_176_huiyeji	battle	玩家	176	huiyeji		是	是	是	8	0	0	0.4	1	8	huiyeji_2667	happy,idle,sad,serious,surprise,thinking	5	同名
+vo_battle_player_177_longyechaji	battle	玩家	177	longyechaji		是	是	是	8	0	0	0.4	1	8			0	对不上
+vo_battle_player_179_jiuciliang	battle	玩家	179	jiuciliang		是	是	是	8	0	0	0.5	1	8			0	对不上
+vo_battle_player_18032_lingluyuqian	battle	玩家	18032	lingluyuqian		是	是	是	8	0	0	0.4	1	8	lingluyuqian_1129	happy,idle,sad,surprise,thinking	4	同名
+vo_battle_player_181_renmianshu	battle	玩家	181	renmianshu		是	是	是	8	0	0	0.5	1	8			0	对不上
+vo_battle_player_182_midouzi	battle	玩家	182	midouzi		是	是	是	6	0	0	0.1	3	2,2,2	midouzi_2910	happy,idle,sad,surprise,thinking	4	同名
+vo_battle_player_182_tanzhilang	battle	玩家	182	tanzhilang		是	是	是	4	0	0	0.1	1	4	tanzhilang_2912	happy,idle,sad,surprise,thinking	4	同名
+vo_battle_player_183_tiaotiaogege	battle	玩家	183	tiaotiaogege		是	是	是	8	0	0	0.4	1	8			0	对不上
+vo_battle_player_184_yinghuayao	battle	玩家	184	yinghuayao		是	是	是	8	0	0	0.4	1	8	yinghuayao_1922	happy,idle,sad,surprise,thinking	4	同名
+vo_battle_player_18536_sanmu	battle	玩家	18536	sanmu		是	是	是	8	0	0	0.3	1	8	sanmu_1307,sanmu_1524	happy,idle,idle2,idle3,sad,sinister smile,surprise,thinking	5	同名
+vo_battle_player_185_sanmu	battle	玩家	185	sanmu		是	是	是	8	0	0	0.4	1	8	sanmu_1307,sanmu_1524	happy,idle,idle2,idle3,sad,sinister smile,surprise,thinking	5	同名
+vo_battle_player_186_xun	battle	玩家	186	xun		是	是	是	8	0	0	0.4	1	8	xunxiangxing_3345	happy,idle,sad,surprise,thinking	4	前缀互含
+vo_battle_player_187_shimengmo	battle	玩家	187	shimengmo		是	是	是	8	0	0	0.4	1	8			0	对不上
+vo_battle_player_188_duyanxiaoseng	battle	玩家	188	duyanxiaoseng		是	是	是	8	0	0	0.4	1	8	duyanxiaoseng_2702	angry,happy,idle,sad,surprise,thinking	5	同名
+vo_battle_player_189_yuzhuanjin	battle	玩家	189	yuzhuanjin		是	是	是	8	0	0	0.2	1	8	yuzhuanjin_3433	happy,idle,sad,surprise,thinking	4	同名
+vo_battle_player_190_dayuewan	battle	玩家	190	dayuewan		是	是	是	8	0	0	0.3	1	8	dayuewan_2036	angry,happy,idle,sad,surprise	4	同名
+vo_battle_player_191_guiqie	battle	玩家	191	guiqie		是	是	是	8	0	0	0.3	1	8	guiqie_0582	happy,idle,sad,surprise,thinking	4	同名
+vo_battle_player_192_wugushi	battle	玩家	192	wugushi		是	是	是	8	0	0	0.6	1	8	wugushi_0962	happy,idle,sad,surprise,thinking	4	同名
+vo_battle_player_193_wushizhiling	battle	玩家	193	wushizhiling		是	是	是	8	0	0	0.3	1	8			0	对不上
+vo_battle_player_194_guishibai	battle	玩家	194	guishibai		是	是	是	8	0	0	0.2	1	8			0	对不上
+vo_battle_player_194_guishihei	battle	玩家	194	guishihei		是	是	是	8	0	0	0.4	1	8			0	对不上
+vo_battle_player_196_baimugui	battle	玩家	196	baimugui		是	是	是	8	0	0	0.3	1	8	baimugui_3528	happy,idle,sad,surprise,thinking	4	同名
+vo_battle_player_197_zhuiyueshen	battle	玩家	197	zhuiyueshen		是	是	是	8	0	0	0.3	1	8	zhuiyueshen_2366	happy,idle,sad,surprise,thinking	4	同名
+vo_battle_player_204_huoqumo	battle	玩家	204	huoqumo		是	是	是	8	0	0	0.4	1	8			0	对不上
+vo_battle_player_205_yuanjiulanghu	battle	玩家	205	yuanjiulanghu		是	是	是	8	0	0	0.3	1	8	yuanjiulanghu_1030,yuanjiulanghu_3509	angry,happy,idle,sad,smile,surprise,thinking	6	同名
+vo_battle_player_206_jingliuliyuqian	battle	玩家	206	jingliuliyuqian		是	是	是	8	0	0	0.3	1	8	jingliuliyuqian_2708,jingliuliyuqian_3493	angry,happy,idle,sad,smile,surprise,thinking	6	同名
+vo_battle_player_207_yingxueji	battle	玩家	207	yingxueji		是	是	是	8	0	0	0.2	1	8	yingxueji_0999,yingxueji_3492	happy,idle,sad,surprise,thinking	4	同名
+vo_battle_player_2080001_mianlingqi	battle	玩家	2080001	mianlingqi		是	是	是	8	0	0	0.4	1	8	mianlingqi_3013	happy,idle,sad,surprise,thinking	4	同名
+vo_battle_player_208_mianlingqi	battle	玩家	208	mianlingqi		是	是	是	8	0	0	0.3	1	8	mianlingqi_3013	happy,idle,sad,surprise,thinking	4	同名
+vo_battle_player_209_huibishou	battle	玩家	209	huibishou		是	是	是	8	0	0	0.4	1	8			0	对不上
+vo_battle_player_210_xieji	battle	玩家	210	xieji		是	是	是	8	0	0	0.3	1	8	xieji_0481	happy,idle,sad,surprise,thinking	4	同名
+vo_battle_player_211_gouchang	battle	玩家	211	gouchang		是	是	是	8	0	0	0.3	1	8			0	对不上
+vo_battle_player_212_tieshu	battle	玩家	212	tieshu		是	是	是	8	0	0	0.3	1	8	tieshu_2420	idle,sad,smile,surprise,thinking	4	同名
+vo_battle_player_214_guitongwan	battle	玩家	214	guitongwan		是	是	是	8	0	0	0.3	1	8			0	对不上
+vo_battle_player_215_bore	battle	玩家	215	bore		是	是	是	8	0	0	0.3	1	8	bore_2919	happy,idle,sad,sad_2,surprise,thinking	5	同名
+vo_battle_player_216_yuanjieshen	battle	玩家	216	yuanjieshen		是	是	是	8	0	0	0.4	1	8	yuanjieshen_0623	happy,idle,sad,surprise,thinking	4	同名
+vo_battle_player_217_egui	battle	玩家	217	egui		是	是	是	8	0	0	0.3	1	8			0	对不上
+vo_battle_player_220_baqidashe	battle	玩家	220	baqidashe		是	是	是	8	0	0	0.4	1	8	baqidashe_0457	happy,idle,sad,surprise,thinking	4	同名
+vo_battle_player_221_yuzaoqian	battle	玩家	221	yuzaoqian		是	是	是	8	0	0	0.3	1	8	yuzaoqian_0290	happy,idle,sad,surprise,thinking	4	同名
+vo_battle_player_221_yuzaoqian_nv	battle	玩家	221	yuzaoqian_nv		是	是	是	9	0	0	0.4	2	7,2	yuzaoqian_0290	happy,idle,sad,surprise,thinking	4	前缀互含
+vo_battle_player_224_axiuluo	battle	玩家	224	axiuluo		是	是	是	8	0	0	0.4	1	8	axiuluo_3412	happy,idle,sad,surprise,thinking	4	同名
+vo_battle_player_225_dishitian	battle	玩家	225	dishitian		是	是	是	8	0	0	0.3	1	8	dishitian_0291	happy,idle,sad,surprise,thinking	4	同名
+vo_battle_player_226_huangkulou	battle	玩家	226	huangkulou		是	是	是	8	0	0	0.2	1	8			0	对不上
+vo_battle_player_227_jinyuji	battle	玩家	227	jinyuji		是	是	是	8	0	0	0.3	1	8	jinyuji_2782	happy,idle,sad,surprise,thinking	4	同名
+vo_battle_player_228_tengji_adult	battle	玩家	228	tengji_adult		是	是	是	8	0	0	0.3	1	8			0	对不上
+vo_battle_player_228_tengji_kid	battle	玩家	228	tengji_kid		是	是	是	8	0	0	0.3	1	8			0	对不上
+vo_battle_player_229_huaniaojuan	battle	玩家	229	huaniaojuan		是	是	是	8	0	0	0.5	1	8	huaniaojuan_2761	happy,idle,sad,serious,smile,surprise,thinking	6	同名
+vo_battle_player_230_yanmo	battle	玩家	230	yanmo		是	是	是	8	0	0	0.4	1	8	yanmo_3413	happy,idle,sad,surprise,thinking	4	同名
+vo_battle_player_231_kuileishi	battle	玩家	231	kuileishi		是	是	是	8	0	0	0.4	1	8			0	对不上
+vo_battle_player_232_fengli	battle	玩家	232	fengli		是	是	是	8	0	0	0.3	1	8	fengli_2367	happy,idle,sad,surprise,thinking	4	同名
+vo_battle_player_233_baizangzhu	battle	玩家	233	baizangzhu		是	是	是	8	0	0	0.4	1	8	baizangzhulixin_3726	happy,idle,sad,surprise,thinking	4	前缀互含
+vo_battle_player_235_guanhu	battle	玩家	235	guanhu		是	是	是	8	0	0	0.4	1	8			0	对不上
+vo_battle_player_236_rulianshi	battle	玩家	236	rulianshi		是	是	是	8	0	0	0.3	1	8			0	对不上
+vo_battle_player_237_huzhangyouren	battle	玩家	237	huzhangyouren		是	否	否	0	0	0	0	0				0	对不上
+vo_battle_player_238_liangmianfo	battle	玩家	238	liangmianfo		是	是	是	16	0	0	0.9	8	2,2,2,2,2,2,2,2			0	对不上
+vo_battle_player_239_yi	battle	玩家	239	yi		是	是	是	8	0	0	0.3	1	8	yi_2788	idle,sad,smile,surprise,thinking	4	同名
+vo_battle_player_240_heitongzi	battle	玩家	240	heitongzi		是	是	是	8	0	0	0.3	1	8	heitongzi_3343	happy,idle,sad,surprise,thinking	4	同名
+vo_battle_player_241_baitongzi	battle	玩家	241	baitongzi		是	是	是	8	0	0	0.3	1	8	baitongzi_3355	happy,idle,sad,surprise,thinking	4	同名
+vo_battle_player_242_yunwaijing	battle	玩家	242	yunwaijing		是	是	是	9	0	0	0.4	2	7,2			0	对不上
+vo_battle_player_243_xiazhongshaonv	battle	玩家	243	xiazhongshaonv		是	是	是	8	0	0	0.4	1	8	xiazhongshaonv_2835	happy,idle,sad,surprise,thinking	4	同名
+vo_battle_player_244_song_a	battle	玩家	244	song_a		是	是	是	8	0	0	0.3	1	8	song_1067	happy,idle,sad,surprise,thinking	4	前缀互含
+vo_battle_player_244_song_b	battle	玩家	244	song_b		是	是	是	8	0	0	0.3	1	8	song_1067	happy,idle,sad,surprise,thinking	4	前缀互含
+vo_battle_player_245_xiaosongwan	battle	玩家	245	xiaosongwan		是	是	是	8	0	0	0.4	1	8			0	对不上
+vo_battle_player_246_maoyou	battle	玩家	246	maoyou		是	是	是	8	0	0	0.3	1	8			0	对不上
+vo_battle_player_2470001_qianji	battle	玩家	2470001	qianji	千姬	是	是	是	8	0	0	0.3	1	8	qianji_0552	happy,idle,sad,surprise,thinking	4	同名
+vo_battle_player_247_qianji	battle	玩家	247	qianji	千姬	是	是	是	8	0	0	0.2	1	8	qianji_0552	happy,idle,sad,surprise,thinking	4	同名
+vo_battle_player_248_limao	battle	玩家	248	limao		是	是	是	8	0	0	0.4	1	8	limao_2843	idle,sad,smile,surprise,thinking	4	同名
+vo_battle_player_249_yixigong	battle	玩家	249	yixigong		是	是	是	8	0	0	0.4	1	8	yixigong_3339	happy,idle,sad,surprise,thinking	4	同名
+vo_battle_player_250_tuwan	battle	玩家	250	tuwan		是	是	是	8	0	0	0.4	1	8	tuwan_1484	happy,idle,sad,surprise,thinking	4	同名
+vo_battle_player_251_xingxiongtongzi	battle	玩家	251	xingxiongtongzi		是	是	是	8	0	0	0.3	1	8	xingxiongtongzi_3517	happy,idle,sad,surprise,thinking	4	同名
+vo_battle_player_252_wuwan	battle	玩家	252	wuwan		是	是	是	8	0	0	0.4	1	8	wuwan_0987	happy,idle,sad,surprise,thinking	4	同名
+vo_battle_player_253_shiling	battle	玩家	253	shiling		是	是	是	8	0	0	0.2	1	8	shiling_1492	happy,idle,sad,surprise,thinking	4	同名
+vo_battle_player_256_jinnaluo	battle	玩家	256	jinnaluo		是	是	是	8	0	0	0.4	1	8	jinnaluo_yihua_1611	happy,idle,sad,surprise,thinking	4	前缀互含
+vo_battle_player_256_jinnaluo_sp	battle	玩家	256	jinnaluo_sp		是	是	是	8	0	0	0.4	1	8			0	对不上
+vo_battle_player_257_runeique	battle	玩家	257	runeique		是	是	是	8	0	0	0.3	1	8	runeique_2086	happy,idle,sad,surprise,thinking	4	同名
+vo_battle_player_258_choushizhinv	battle	玩家	258	choushizhinv		是	是	是	8	0	0	0.5	1	8			0	对不上
+vo_battle_player_2630001_lingyanji	battle	玩家	2630001	lingyanji		是	是	是	4	0	0	0.1	2	3,1	lingyanji_1715	happy,idle,sad,surprise,thinking	4	同名
+vo_battle_player_263_lingyanji	battle	玩家	263	lingyanji		是	是	是	8	0	0	0.3	1	8	lingyanji_1715	happy,idle,sad,surprise,thinking	4	同名
+vo_battle_player_264_jicanghai	battle	玩家	264	jicanghai		是	是	是	4	0	0	0.2	1	4	jicanghai_1908	happy,idle,sad,surprise,thinking	4	同名
+vo_battle_player_265_wuchen	battle	玩家	265	wuchen		是	是	是	4	0	0	0.2	1	4	wuchen_1876	happy,idle,sad,surprise,thinking	4	同名
+vo_battle_player_266_ninghongye	battle	玩家	266	ninghongye		是	是	是	4	0	0	0.1	1	4			0	对不上
+vo_battle_player_2670001_hutao	battle	玩家	2670001	hutao		是	是	是	4	0	0	0.2	1	4	hutao_yihua_2003	happy,idle,sad,surprise,thinking	4	前缀互含
+vo_battle_player_267_hutao	battle	玩家	267	hutao		是	是	是	4	0	0	0.2	1	4	hutao_yihua_2003	happy,idle,sad,surprise,thinking	4	前缀互含
+vo_battle_player_269_shuzhu	battle	玩家	269	shuzhu		是	是	是	9	0	0	0.4	2	7,2	shuzhu_yihua_2201	happy,idle,sad,surprise,thinking	4	前缀互含
+vo_battle_player_272_sanweihu	battle	玩家	272	sanweihu		是	是	是	8	0	0	0.4	1	8			0	对不上
+vo_battle_player_2730001_baize	battle	玩家	2730001	baize		是	是	是	8	0	0	0.5	1	8	baize_0129,baize_3511	angry,happy,idle,sad,smile,surprise,thinking	6	同名
+vo_battle_player_273_baize	battle	玩家	273	baize		是	是	是	8	0	0	0.5	1	8	baize_0129,baize_3511	angry,happy,idle,sad,smile,surprise,thinking	6	同名
+vo_battle_player_2760001_yitiao	battle	玩家	2760001	yitiao		是	是	是	8	0	0	0.4	1	8	yitiao_0128	happy,idle,sad,surprise,thinking	4	同名
+vo_battle_player_276_yitiao	battle	玩家	276	yitiao		是	是	是	8	0	0	0.4	1	8	yitiao_0128	happy,idle,sad,surprise,thinking	4	同名
+vo_battle_player_2810001_xuzuozhinan	battle	玩家	2810001	xuzuozhinan		是	是	是	4	0	0	0.2	1	4	xuzuozhinan_yihua_3486	happy,idle,sad,surprise,thinking	4	前缀互含
+vo_battle_player_281_xuzuozhinan	battle	玩家	281	xuzuozhinan		是	是	是	4	0	0	0.1	1	4	xuzuozhinan_yihua_3486	happy,idle,sad,surprise,thinking	4	前缀互含
+vo_battle_player_2840001_xienv	battle	玩家	2840001	xienv		是	是	是	4	0	0	0.2	1	4	xienv_yihua_3335	happy,idle,sad,surprise,thinking	4	前缀互含
+vo_battle_player_284_xienv	battle	玩家	284	xienv		是	是	是	4	0	0	0.2	1	4	xienv_yihua_3335	happy,idle,sad,surprise,thinking	4	前缀互含
+vo_battle_player_2870001_linghaidie	battle	玩家	2870001	linghaidie		是	是	是	4	0	0	0.2	1	4	linghaidie_3255	happy,idle,sad,surprise,thinking	4	同名
+vo_battle_player_287_linghaidie	battle	玩家	287	linghaidie		是	是	是	4	0	0	0.3	1	4	linghaidie_3255	happy,idle,sad,surprise,thinking	4	同名
+vo_battle_player_2880001_xunxiangxing	battle	玩家	2880001	xunxiangxing		是	是	是	4	0	0	0.2	1	4	xunxiangxing_3345	happy,idle,sad,surprise,thinking	4	同名
+vo_battle_player_288_xunxiangxing	battle	玩家	288	xunxiangxing		是	是	是	4	0	0	0.2	1	4	xunxiangxing_3345	happy,idle,sad,surprise,thinking	4	同名
+vo_battle_player_2890001_yaodaojizhouren	battle	玩家	2890001	yaodaojizhouren		是	是	是	4	0	0	0.2	1	4			0	对不上
+vo_battle_player_289_yaodaojizhouren	battle	玩家	289	yaodaojizhouren		是	是	是	4	0	0	0.2	1	4			0	对不上
+vo_battle_player_290_datiangougangfeng	battle	玩家	290	datiangougangfeng		是	是	是	4	0	0	0.3	1	4	gangfengdatiangou_3397	happy,idle,sad,surprise,thinking	4	同字母异序
+vo_battle_player_2910001_qingxingdenghuihuo	battle	玩家	2910001	qingxingdenghuihuo		是	是	是	4	0	0	0.2	1	4	huihuoqingxingdeng_3366	happy,idle,sad,surprise,thinking	4	同字母异序
+vo_battle_player_291_qingxingdenghuihuo	battle	玩家	291	qingxingdenghuihuo		是	是	是	4	0	0	0.3	1	4	huihuoqingxingdeng_3366	happy,idle,sad,surprise,thinking	4	同字母异序
+vo_battle_player_292_quanshenbailian	battle	玩家	292	quanshenbailian		是	是	是	4	0	0	0.3	1	4	quanshen_2848	happy,idle,sad,serious,smile,surprise,thinking	6	前缀互含
+vo_battle_player_292_quanshenlizhan	battle	玩家	292	quanshenlizhan		是	是	是	4	0	0	0.3	1	4	quanshenlizhan_3519	happy,idle,sad,surprise,thinking	4	同名
+vo_battle_player_298_shenqilou	battle	玩家	298	shenqilou		是	是	是	4	0	0	0.1	1	4			0	对不上
+vo_battle_player_298_shenqilou_nv	battle	玩家	298	shenqilou_nv		是	是	是	4	0	0	0.2	1	4			0	对不上
+vo_battle_player_298_shenqilou_ying	battle	玩家	298	shenqilou_ying		是	是	是	4	0	0	0.2	1	4			0	对不上
+vo_battle_player_299_qingfangzhufanchen	battle	玩家	299	qingfangzhufanchen		是	是	是	4	0	0	0.1	1	4			0	对不上
+vo_battle_player_30006_qianji	battle	玩家	30006	qianji	千姬	是	是	是	8	0	0	0.4	1	8	qianji_0552	happy,idle,sad,surprise,thinking	4	同名
+vo_battle_player_6020001_jiutuntongziwangkong	battle	玩家	6020001	jiutuntongziwangkong		是	是	是	4	0	0	0.1	1	4	jiutuntongzi_2686,jiutuntongziwangkong_yihua_3435	happy,idle,sad,surprise,thinking	4	前缀互含
+vo_battle_player_602_jiutuntongziwangkong	battle	玩家	602	jiutuntongziwangkong		是	是	是	4	0	0	0.1	1	4	jiutuntongzi_2686,jiutuntongziwangkong_yihua_3435	happy,idle,sad,surprise,thinking	4	前缀互含
+vo_battle_player_604_ji	battle	玩家	604	ji		是	是	是	4	0	0	0.4	1	4	ji_yihua_3515,jianyuanqianqiu_3083,jicanghai_1908,jingliuliyuqian_2708,jingliuliyuqian_3493,jinnaluo_yihua_1611,jinyuji_2782,jiumingmao_2570,jiutuntongzi_2686,jiutuntongziwangkong_yihua_3435	angry,happy,idle,sad,smile,surprise,thinking	6	前缀互含
+vo_battle_player_6050001_kongquemingwang	battle	玩家	6050001	kongquemingwang		是	是	是	4	0	0	0.2	1	4	kongquemingwang_yihua_3432	happy,idle,sad,surprise,thinking	4	前缀互含
+vo_battle_player_605_kongquemingwang	battle	玩家	605	kongquemingwang		是	是	是	4	0	0	0.3	1	4	kongquemingwang_yihua_3432	happy,idle,sad,surprise,thinking	4	前缀互含
+vo_battle_player_606_jiaotu	battle	玩家	606	jiaotu		是	是	是	4	0	0	0.2	1	4			0	对不上
+vo_battle_player_607_cimutongzilvli	battle	玩家	607	cimutongzilvli		是	是	是	4	0	0	0.3	1	4	cimu_2542,cimutongzilvli_yihua_3459	happy,idle,sad,serious,smile,surprise,thinking	6	前缀互含
+vo_battle_player_6100001_guhuoniaoyuxiang	battle	玩家	6100001	guhuoniaoyuxiang		是	是	是	4	0	0	0.2	1	4	guhuoniaoyuxiang_3526	happy,idle,sad,surprise,thinking	4	同名
+vo_battle_player_610_guhuoniaoyuxiang	battle	玩家	610	guhuoniaoyuxiang		是	是	是	4	0	0	0.2	1	4	guhuoniaoyuxiang_3526	happy,idle,sad,surprise,thinking	4	同名
+vo_battle_player_6120001_taohuayaoluoying	battle	玩家	6120001	taohuayaoluoying		是	是	是	4	0	0	0.2	1	4	taohuayaoluoying_3616	happy,idle,sad,surprise,thinking	4	同名
+vo_battle_player_612_taohuayaoluoying	battle	玩家	612	taohuayaoluoying		是	是	是	4	0	0	0.2	1	4	taohuayaoluoying_3616	happy,idle,sad,surprise,thinking	4	同名
+vo_battle_player_6130001_yimulianlinglai	battle	玩家	6130001	yimulianlinglai		是	是	是	4	0	0	0.2	1	4	yi_2788	idle,sad,smile,surprise,thinking	4	前缀互含
+vo_battle_player_613_yimulianlinglai	battle	玩家	613	yimulianlinglai		是	是	是	4	0	0	0.3	1	4	yi_2788	idle,sad,smile,surprise,thinking	4	前缀互含
+vo_battle_player_6140001_yanling	battle	玩家	6140001	yanling		是	是	是	4	0	0	0.2	1	4			0	对不上
+vo_battle_player_614_yanling	battle	玩家	614	yanling		是	是	是	4	0	0	0.2	1	4			0	对不上
+vo_battle_player_6150001_fangshi	battle	玩家	6150001	fangshi		是	是	是	4	0	0	0.3	1	4			0	对不上
+vo_battle_player_6150001_langyazi	battle	玩家	6150001	langyazi		是	是	是	4	0	0	0.3	1	4	langyazi_3488	happy,idle,sad,surprise,thinking	4	同名
+vo_battle_player_615_fangshi	battle	玩家	615	fangshi		是	是	是	4	0	0	0.3	1	4			0	对不上
+vo_battle_player_615_langyazi	battle	玩家	615	langyazi		是	是	是	4	0	0	0.3	1	4	langyazi_3488	happy,idle,sad,surprise,thinking	4	同名
+vo_battle_player_6160001_shantuzuofutongzi_s	battle	玩家	6160001	shantuzuofutongzi_s		是	是	是	4	0	0	0.2	1	4			0	对不上
+vo_battle_player_6160001_shantuzuofutongzi_z	battle	玩家	6160001	shantuzuofutongzi_z		是	是	是	4	0	0	0.2	1	4			0	对不上
+vo_battle_player_616_shantuzuofutongzi_s	battle	玩家	616	shantuzuofutongzi_s		是	是	是	4	0	0	0.1	1	4			0	对不上
+vo_battle_player_616_shantuzuofutongzi_z	battle	玩家	616	shantuzuofutongzi_z		是	是	是	4	0	0	0.2	1	4			0	对不上
+vo_battle_player_6170001_huangqiming	battle	玩家	6170001	huangqiming		是	是	是	4	0	0	0.2	1	4			0	对不上
+vo_battle_player_617_huangqiming	battle	玩家	617	huangqiming		是	是	是	4	0	0	0.3	1	4			0	对不上
+vo_battle_player_6180001_zhuiyueshenshuiyue	battle	玩家	6180001	zhuiyueshenshuiyue		是	是	是	4	0	0	0.3	1	4	zhuiyueshen_2366	happy,idle,sad,surprise,thinking	4	前缀互含
+vo_battle_player_618_zhuiyueshenshuiyue	battle	玩家	618	zhuiyueshenshuiyue		是	是	是	4	0	0	0.1	1	4	zhuiyueshen_2366	happy,idle,sad,surprise,thinking	4	前缀互含
+vo_battle_player_6210001_chen	battle	玩家	6210001	chen		是	是	是	4	0	0	0.3	1	4	chen_3566	happy,idle,sad,surprise,thinking	4	同名
+vo_battle_player_621_chen	battle	玩家	621	chen		是	是	是	4	0	0	0.3	1	4	chen_3566	happy,idle,sad,surprise,thinking	4	同名
+vo_battle_player_6230001_tianzhao	battle	玩家	6230001	tianzhao		是	是	是	4	0	0	0.3	1	4			0	对不上
+vo_battle_player_623_tianzhao	battle	玩家	623	tianzhao		是	是	是	4	0	0	0.3	1	4			0	对不上
+vo_battle_player_6240001_wushizhilingmaoshi	battle	玩家	6240001	wushizhilingmaoshi		是	是	是	4	0	0	0.4	1	4			0	对不上
+vo_battle_player_624_wushizhilingmaoshi	battle	玩家	624	wushizhilingmaoshi		是	是	是	4	0	0	0.4	1	4			0	对不上
+vo_battle_player_6290001_mianlingqixinsu	battle	玩家	6290001	mianlingqixinsu		是	是	是	4	0	0	0.3	1	4	mianlingqi_3013	happy,idle,sad,surprise,thinking	4	前缀互含
+vo_battle_player_6290002_mianlingqixinsu	battle	玩家	6290002	mianlingqixinsu		是	是	是	4	0	0	0.3	1	4	mianlingqi_3013	happy,idle,sad,surprise,thinking	4	前缀互含
+vo_battle_player_629_mianlingqixinsu	battle	玩家	629	mianlingqixinsu		是	是	是	4	0	0	0.3	1	4	mianlingqi_3013	happy,idle,sad,surprise,thinking	4	前缀互含
+vo_battle_player_6300001_yingcaopupu	battle	玩家	6300001	yingcaopupu		是	是	是	4	0	0	0.3	1	4	yi_2788,yingcao_2829	happy,idle,sad,smile,surprise,thinking	5	前缀互含
+vo_battle_player_630_yingcaopupu	battle	玩家	630	yingcaopupu		是	是	是	4	0	0	0.3	1	4	yi_2788,yingcao_2829	happy,idle,sad,smile,surprise,thinking	5	前缀互含
+vo_battle_player_6310001_ertong	battle	玩家	6310001	ertong		是	是	是	4	0	0	0.3	1	4			0	对不上
+vo_battle_player_631_ertong	battle	玩家	631	ertong		是	是	是	4	0	0	0.3	1	4			0	对不上
+vo_battle_player_640_youning	battle	玩家	640	youning		是	是	是	4	0	0	0.3	1	4			0	对不上
+vo_battle_player_641_alaina	battle	玩家	641	alaina		是	是	是	4	0	0	0.3	1	4			0	对不上
+vo_battle_player_6450001_sibing	battle	玩家	6450001	sibing		是	是	是	4	0	0	0.3	1	4	sibing_yihua_3668	happy,idle,sad,surprise,thinking	4	前缀互含
+vo_battle_player_645_sibing	battle	玩家	645	sibing		是	是	是	4	0	0	0.3	1	4	sibing_yihua_3668	happy,idle,sad,surprise,thinking	4	前缀互含
+vo_battle_player_6470001_chili	battle	玩家	6470001	chili		是	是	是	4	0	0	0.2	1	4	chili_yihua_3659	happy,idle,sad,surprise,thinking	4	前缀互含
+vo_battle_player_647_chili	battle	玩家	647	chili		是	是	是	4	0	0	0.2	1	4	chili_yihua_3659	happy,idle,sad,surprise,thinking	4	前缀互含
+vo_battle_player_6480001_yuanjieshensuiyuan	battle	玩家	6480001	yuanjieshensuiyuan		是	是	是	4	0	0	0.2	1	4	yuanjieshensuiyuan_3707	angry,happy,idle,sad,surprise	4	同名
+vo_battle_player_651_baizangzhulixin	battle	玩家	651	baizangzhulixin		是	是	是	4	0	0	0.2	1	4	baizangzhulixin_3726	happy,idle,sad,surprise,thinking	4	同名
+vo_battle_player_654_longjue	battle	玩家	654	longjue		是	是	是	4	0	0	0.3	1	4			0	对不上
+vo_battle_player_655_fengyangjun	battle	玩家	655	fengyangjun		是	是	是	4	0	0	0.2	1	4			0	对不上
+vo_battle_player_656_chanxinyunwaijing	battle	玩家	656	chanxinyunwaijing		是	是	是	4	0	0	0.2	1	4			0	对不上
+vo_battle_player_6570001_pinfashen	battle	玩家	6570001	pinfashen		是	是	是	4	0	0	0.2	1	4			0	对不上
+vo_battle_player_657_pinfashen	battle	玩家	657	pinfashen		是	是	是	4	0	0	0.3	1	4			0	对不上
+vo_battle_player_6580001_maozhangguihuanyan	battle	玩家	6580001	maozhangguihuanyan		是	是	是	4	0	0	0.2	1	4			0	对不上
+vo_battle_player_658_maozhangguihuanyan	battle	玩家	658	maozhangguihuanyan		是	是	是	4	0	0	0.2	1	4			0	对不上
+vo_battle_player_6590001_zhaocaimao	battle	玩家	6590001	zhaocaimao		是	是	是	4	0	0	0.2	1	4			0	对不上
+vo_battle_player_659_zhaocaimao	battle	玩家	659	zhaocaimao		是	是	是	4	0	0	0.2	1	4			0	对不上
+vo_battle_player_660_jintianyuzaoqian	battle	玩家	660	jintianyuzaoqian		是	是	是	4	0	0	0.2	1	4			0	对不上
+vo_battle_player_661_geliuduo	battle	玩家	661	geliuduo		是	是	是	4	0	0	0.5	1	4	geliuduo_yihua_3753	happy,idle,sad,surprise,thinking	4	前缀互含
+vo_battle_player_664_yinghuayaolijing	battle	玩家	664	yinghuayaolijing		是	是	是	4	0	0	0.2	1	4	yi_2788,yinghuayao_1922	happy,idle,sad,smile,surprise,thinking	5	前缀互含
+vo_battle_player_665_fenghuanghuojingyu	battle	玩家	665	fenghuanghuojingyu		是	是	是	4	0	0	0.2	1	4	fenghuanghuo_3789	happy,idle,sad,surprise,thinking	4	前缀互含
+vo_battle_player_666_yinfanhuiyeji	battle	玩家	666	yinfanhuiyeji		是	是	是	4	0	0	0.2	1	4	yi_2788	idle,sad,smile,surprise,thinking	4	前缀互含
+vo_battle_player_669_baizeyuanqi	battle	玩家	669	baizeyuanqi		是	是	是	4	0	0	0.3	1	4	baize_0129,baize_3511	angry,happy,idle,sad,smile,surprise,thinking	6	前缀互含
+vo_battle_player_670_shenqihuang	battle	玩家	670	shenqihuang		是	是	是	4	0	0	0.3	1	4			0	对不上
+vo_battle_player_671_beimihu	battle	玩家	671	beimihu		是	是	是	4	0	0	0.3	1	4			0	对不上
+vo_battle_player_672_shiyaolongyechaji	battle	玩家	672	shiyaolongyechaji		是	是	是	4	0	0	0.4	1	4			0	对不上
+vo_battle_player_673_yuyanbore	battle	玩家	673	yuyanbore		是	是	是	4	0	0	0.2	1	4			0	对不上
+vo_battle_player_buzhihuo	battle	玩家		buzhihuo	不知火	是	是	是	7	0	0	0.2	1	7	buzhihuo_1127	happy,idle,sad,surprise,thinking	4	同名
+vo_battle_player_buzhihuopifu	battle	玩家		buzhihuopifu		是	是	是	4	0	0	0.3	1	4	buzhihuo_1127	happy,idle,sad,surprise,thinking	4	前缀互含
+vo_battle_player_huang	battle	玩家		huang		是	是	是	8	0	0	0.4	1	8	huangtianxiegui_0484,huangtianxiegui_2816	angry,happy,idle,sad,smile,stand,surprise,thinking	7	前缀互含
+vo_battle_player_lingluyuqian	battle	玩家		lingluyuqian		是	是	是	8	0	0	0.3	1	8	lingluyuqian_1129	happy,idle,sad,surprise,thinking	4	同名
+vo_battle_player_nianshou_child	battle	玩家		nianshou_child		是	是	是	9	0	0	0.1	4	3,2,2,2			0	对不上
+vo_battle_player_shaoyudatiangou	battle	玩家		shaoyudatiangou		是	是	是	9	0	0	0.4	1	9			0	对不上
+vo_battle_player_sp_wuwan	battle	玩家		sp_wuwan		是	是	是	8	0	0	0.4	1	8			0	对不上
+vo_battle_player_wutiaowu	battle	玩家		wutiaowu		是	否	否	0	0	0	0	0				0	对不上
+vo_battle_player_yixigong	battle	玩家		yixigong		是	是	是	8	0	0	0.4	1	8	yixigong_3339	happy,idle,sad,surprise,thinking	4	同名
+vo_battle_player_yuanjieshen	battle	玩家		yuanjieshen		是	是	是	9	0	0	0.4	1	9	yuanjieshen_0623	happy,idle,sad,surprise,thinking	4	同名
+vo_biography	biography	式神				是	是	是	87	87	0	0.0	29	3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3			0	名字里没有拼音
+vo_biography_133_lianyou	biography	式神	133	lianyou		是	是	是	3	3	0	0.0	1	3	lianyoulaoda_2776,lianyoulaoer_2658,lianyoulaosan_2703	happy,idle,sad	2	前缀互含
+vo_biography_139_yatiangou	biography	式神	139	yatiangou		是	是	是	3	3	0	0.0	1	3	yatiangou_2615	happy,idle,sad,surprise,thinking	4	同名
+vo_biography_163_xiaolunan	biography	式神	163	xiaolunan		是	是	是	3	3	0	0.0	1	3			0	对不上
+vo_biography_164_yanyanluo	biography	式神	164	yanyanluo		是	是	是	3	3	0	0.0	1	3	yanyanluo_2356	happy,idle,sad,surprise,thinking	4	同名
+vo_biography_166_rihefang	biography	式神	166	rihefang		是	是	是	3	3	0	0.0	1	3			0	对不上
+vo_biography_167_buzhihuo	biography	式神	167	buzhihuo	不知火	是	是	是	3	3	0	0.0	1	3	buzhihuo_1127	happy,idle,sad,surprise,thinking	4	同名
+vo_biography_168_tianjingxia	biography	式神	168	tianjingxia		是	是	是	3	3	0	0.0	1	3			0	对不上
+vo_biography_170_bianhua	biography	式神	170	bianhua		是	是	是	3	3	0	0.0	1	3	bianhua_yihua_0819	happy,idle,sad,surprise,thinking	4	前缀互含
+vo_biography_171_mengpo	biography	式神	171	mengpo		是	是	是	3	3	0	0.0	1	3			0	对不上
+vo_biography_173_xixueji	biography	式神	173	xixueji		是	是	是	3	3	0	0.0	1	3			0	对不上
+vo_biography_175_shanfeng	biography	式神	175	shanfeng		是	是	是	3	3	0	0.0	1	3	shanfeng_3572	happy,idle,sad,surprise,thinking	4	同名
+vo_biography_176_huiyeji	biography	式神	176	huiyeji		是	是	是	3	3	0	0.0	1	3	huiyeji_2667	happy,idle,sad,serious,surprise,thinking	5	同名
+vo_biography_177_longyechaji	biography	式神	177	longyechaji		是	是	是	3	3	0	0.0	1	3			0	对不上
+vo_biography_178_huang	biography	式神	178	huang		是	是	是	3	3	0	0.0	1	3	huangtianxiegui_0484,huangtianxiegui_2816	angry,happy,idle,sad,smile,stand,surprise,thinking	7	前缀互含
+vo_biography_179_jiuciliang	biography	式神	179	jiuciliang		是	是	是	3	3	0	0.0	1	3			0	对不上
+vo_biography_180_lingluyuqian	biography	式神	180	lingluyuqian		是	是	是	3	3	0	0.0	1	3	lingluyuqian_1129	happy,idle,sad,surprise,thinking	4	同名
+vo_biography_181_renmianshu	biography	式神	181	renmianshu		是	是	是	3	3	0	0.0	1	3			0	对不上
+vo_biography_182_tanzhilang	biography	式神	182	tanzhilang		是	是	是	3	0	0	2.3	1	3	tanzhilang_2912	happy,idle,sad,surprise,thinking	4	同名
+vo_biography_183_tiaotiaogege	biography	式神	183	tiaotiaogege		是	是	是	3	3	0	0.0	1	3			0	对不上
+vo_biography_184_yinghuayao	biography	式神	184	yinghuayao		是	是	是	3	3	0	0.0	1	3	yinghuayao_1922	happy,idle,sad,surprise,thinking	4	同名
+vo_biography_185_sanmu	biography	式神	185	sanmu		是	是	是	3	0	0	3.2	1	3	sanmu_1307,sanmu_1524	happy,idle,idle2,idle3,sad,sinister smile,surprise,thinking	5	同名
+vo_biography_186_xun	biography	式神	186	xun		是	是	是	3	0	0	2.4	1	3	xunxiangxing_3345	happy,idle,sad,surprise,thinking	4	前缀互含
+vo_biography_187_shimengmo	biography	式神	187	shimengmo		是	是	是	3	3	0	0.0	1	3			0	对不上
+vo_biography_188_duyanxiaoseng	biography	式神	188	duyanxiaoseng		是	是	是	3	0	0	2.0	1	3	duyanxiaoseng_2702	angry,happy,idle,sad,surprise,thinking	5	同名
+vo_biography_189_yuzhuanjin	biography	式神	189	yuzhuanjin		是	是	是	3	0	0	4.3	1	3	yuzhuanjin_3433	happy,idle,sad,surprise,thinking	4	同名
+vo_biography_190_dayuewan	biography	式神	190	dayuewan		是	是	是	3	0	0	3.0	1	3	dayuewan_2036	angry,happy,idle,sad,surprise	4	同名
+vo_biography_191_guiqie	biography	式神	191	guiqie		是	是	是	3	0	0	2.7	1	3	guiqie_0582	happy,idle,sad,surprise,thinking	4	同名
+vo_biography_192_wugushi	biography	式神	192	wugushi		是	是	是	3	3	0	0.0	1	3	wugushi_0962	happy,idle,sad,surprise,thinking	4	同名
+vo_biography_193_wushizhiling	biography	式神	193	wushizhiling		是	是	是	3	3	0	0.0	1	3			0	对不上
+vo_biography_194_guishiheibai	biography	式神	194	guishiheibai		是	是	是	6	6	0	0.0	3	2,2,2			0	对不上
+vo_biography_196_baimugui	biography	式神	196	baimugui		是	是	是	3	3	0	0.0	1	3	baimugui_3528	happy,idle,sad,surprise,thinking	4	同名
+vo_biography_197_zhuiyueshen	biography	式神	197	zhuiyueshen		是	是	是	3	3	0	0.0	1	3	zhuiyueshen_2366	happy,idle,sad,surprise,thinking	4	同名
+vo_biography_201_jiumingmao	biography	式神	201	jiumingmao		是	是	是	3	0	0	1.5	1	3	jiumingmao_2570	happy,idle,sad,surprise,thinking	4	同名
+vo_biography_204_huoqumo	biography	式神	204	huoqumo		是	是	是	3	0	0	1.9	1	3			0	对不上
+vo_biography_205_yuanjiulanghu	biography	式神	205	yuanjiulanghu		是	是	是	3	0	0	1.9	1	3	yuanjiulanghu_1030,yuanjiulanghu_3509	angry,happy,idle,sad,smile,surprise,thinking	6	同名
+vo_biography_206_jingliuliyuqian	biography	式神	206	jingliuliyuqian		是	是	是	3	0	0	4.9	1	3	jingliuliyuqian_2708,jingliuliyuqian_3493	angry,happy,idle,sad,smile,surprise,thinking	6	同名
+vo_biography_207_yingxueji	biography	式神	207	yingxueji		是	是	是	3	0	0	3.4	1	3	yingxueji_0999,yingxueji_3492	happy,idle,sad,surprise,thinking	4	同名
+vo_biography_208_mianlingqi	biography	式神	208	mianlingqi		是	是	是	3	3	0	0.0	1	3	mianlingqi_3013	happy,idle,sad,surprise,thinking	4	同名
+vo_biography_209_huibishou	biography	式神	209	huibishou		是	是	是	3	0	0	1.9	1	3			0	对不上
+vo_biography_210_xieji	biography	式神	210	xieji		是	是	是	3	0	0	2.8	1	3	xieji_0481	happy,idle,sad,surprise,thinking	4	同名
+vo_biography_211_gouchang	biography	式神	211	gouchang		是	是	是	3	0	0	4.2	1	3			0	对不上
+vo_biography_212_tieshu	biography	式神	212	tieshu		是	是	是	3	3	0	0.0	1	3	tieshu_2420	idle,sad,smile,surprise,thinking	4	同名
+vo_biography_213_hetong	biography	式神	213	hetong		是	是	是	3	3	0	0.0	1	3	hetong_2795	happy,idle,sad,surprise,thinking	4	同名
+vo_biography_214_guitongwan	biography	式神	214	guitongwan		是	是	是	3	3	0	0.0	1	3			0	对不上
+vo_biography_215_bore	biography	式神	215	bore		是	是	是	3	3	0	0.0	1	3	bore_2919	happy,idle,sad,sad_2,surprise,thinking	5	同名
+vo_biography_216_yuanjieshen	biography	式神	216	yuanjieshen		是	是	是	3	3	0	0.0	1	3	yuanjieshen_0623	happy,idle,sad,surprise,thinking	4	同名
+vo_biography_217_egui	biography	式神	217	egui		是	是	是	3	0	0	2.2	1	3			0	对不上
+vo_biography_220_baqidashe	biography	式神	220	baqidashe		是	是	是	3	0	0	8.4	1	3	baqidashe_0457	happy,idle,sad,surprise,thinking	4	同名
+vo_biography_221_yuzaoqian	biography	式神	221	yuzaoqian		是	是	是	3	0	0	3.3	1	3	yuzaoqian_0290	happy,idle,sad,surprise,thinking	4	同名
+vo_biography_224_axiuluo	biography	式神	224	axiuluo		是	是	是	3	0	0	12.3	1	3	axiuluo_3412	happy,idle,sad,surprise,thinking	4	同名
+vo_biography_225_dishitian	biography	式神	225	dishitian		是	是	是	3	0	0	12.1	1	3	dishitian_0291	happy,idle,sad,surprise,thinking	4	同名
+vo_biography_226_huangkulou	biography	式神	226	huangkulou		是	是	是	3	0	0	5.7	1	3			0	对不上
+vo_biography_227_jinyuji	biography	式神	227	jinyuji		是	是	是	3	0	0	2.6	1	3	jinyuji_2782	happy,idle,sad,surprise,thinking	4	同名
+vo_biography_228_tengji	biography	式神	228	tengji		是	是	是	3	0	0	4.5	1	3	tengji_juexingqian_0553	happy,idle,sad,surprise,thinking	4	前缀互含
+vo_biography_229_huaniaojuan	biography	式神	229	huaniaojuan		是	是	是	3	0	0	2.2	1	3	huaniaojuan_2761	happy,idle,sad,serious,smile,surprise,thinking	6	同名
+vo_biography_230_yanmo	biography	式神	230	yanmo		是	是	是	3	0	0	2.1	1	3	yanmo_3413	happy,idle,sad,surprise,thinking	4	同名
+vo_biography_231_kuileishi	biography	式神	231	kuileishi		是	是	是	3	0	0	2.2	1	3			0	对不上
+vo_biography_232_fengli	biography	式神	232	fengli		是	是	是	3	0	0	4.5	1	3	fengli_2367	happy,idle,sad,surprise,thinking	4	同名
+vo_biography_233_baizangzhu	biography	式神	233	baizangzhu		是	是	是	3	0	0	4.6	1	3	baizangzhulixin_3726	happy,idle,sad,surprise,thinking	4	前缀互含
+vo_biography_235_guanhu	biography	式神	235	guanhu		是	是	是	3	0	0	2.9	1	3			0	对不上
+vo_biography_236_rulianshi	biography	式神	236	rulianshi		是	是	是	3	0	0	2.8	1	3			0	对不上
+vo_biography_238_liangmianfo	biography	式神	238	liangmianfo		是	是	是	3	0	0	0.5	1	3			0	对不上
+vo_biography_239_yi	biography	式神	239	yi		是	是	是	3	0	0	2.5	1	3	yi_2788	idle,sad,smile,surprise,thinking	4	同名
+vo_biography_240_heitongzi	biography	式神	240	heitongzi		是	是	是	3	0	0	3.2	1	3	heitongzi_3343	happy,idle,sad,surprise,thinking	4	同名
+vo_biography_241_baitongzi	biography	式神	241	baitongzi		是	是	是	3	0	0	4.2	1	3	baitongzi_3355	happy,idle,sad,surprise,thinking	4	同名
+vo_biography_242_yunwaijing	biography	式神	242	yunwaijing		是	是	是	3	0	0	5.3	1	3			0	对不上
+vo_biography_243_xiazhongshaonv	biography	式神	243	xiazhongshaonv		是	是	是	3	0	0	2.9	1	3	xiazhongshaonv_2835	happy,idle,sad,surprise,thinking	4	同名
+vo_biography_244_song	biography	式神	244	song		是	是	是	3	0	0	6.3	1	3	song_1067	happy,idle,sad,surprise,thinking	4	同名
+vo_biography_245_xiaosongwan	biography	式神	245	xiaosongwan		是	是	是	3	0	0	1.9	1	3			0	对不上
+vo_biography_246_maoyou	biography	式神	246	maoyou		是	是	是	3	0	0	2.5	1	3			0	对不上
+vo_biography_247_qianji	biography	式神	247	qianji	千姬	是	是	是	3	0	0	5.4	1	3	qianji_0552	happy,idle,sad,surprise,thinking	4	同名
+vo_biography_248_limao	biography	式神	248	limao		是	是	是	3	0	0	2.3	1	3	limao_2843	idle,sad,smile,surprise,thinking	4	同名
+vo_biography_249_yixigong	biography	式神	249	yixigong		是	是	是	3	0	0	10.8	1	3	yixigong_3339	happy,idle,sad,surprise,thinking	4	同名
+vo_biography_250_tuwan	biography	式神	250	tuwan		是	是	是	3	0	0	2.1	1	3	tuwan_1484	happy,idle,sad,surprise,thinking	4	同名
+vo_biography_251_xingxiongtongzi	biography	式神	251	xingxiongtongzi		是	是	是	3	0	0	4.0	1	3	xingxiongtongzi_3517	happy,idle,sad,surprise,thinking	4	同名
+vo_biography_252_wuwan	biography	式神	252	wuwan		是	是	是	3	0	0	2.2	1	3	wuwan_0987	happy,idle,sad,surprise,thinking	4	同名
+vo_biography_253_shiling	biography	式神	253	shiling		是	是	是	3	0	0	6.2	1	3	shiling_1492	happy,idle,sad,surprise,thinking	4	同名
+vo_biography_256_jinnaluo	biography	式神	256	jinnaluo		是	是	是	3	0	0	4.9	1	3	jinnaluo_yihua_1611	happy,idle,sad,surprise,thinking	4	前缀互含
+vo_biography_257_runeique	biography	式神	257	runeique		是	是	是	3	0	0	5.3	1	3	runeique_2086	happy,idle,sad,surprise,thinking	4	同名
+vo_biography_258_choushizhinv	biography	式神	258	choushizhinv		是	是	是	3	0	0	2.2	1	3			0	对不上
+vo_biography_259_guinvhongye	biography	式神	259	guinvhongye		是	是	是	3	0	0	1.9	1	3			0	对不上
+vo_biography_260_shouwu	biography	式神	260	shouwu		是	是	是	3	0	0	1.9	1	3			0	对不上
+vo_biography_261_yifanmumian	biography	式神	261	yifanmumian		是	是	是	3	0	0	3.8	1	3	yi_2788	idle,sad,smile,surprise,thinking	4	前缀互含
+vo_biography_262_yecha	biography	式神	262	yecha		是	是	是	3	0	0	2.8	1	3	yecha_1730	happy,idle,sad,surprise,thinking	4	同名
+vo_biography_263_lingyanji	biography	式神	263	lingyanji		是	是	是	3	0	0	12.1	1	3	lingyanji_1715	happy,idle,sad,surprise,thinking	4	同名
+vo_biography_268_wannianzhu	biography	式神	268	wannianzhu		是	是	是	3	0	0	3.3	1	3			0	对不上
+vo_biography_269_shuzhu	biography	式神	269	shuzhu		是	是	是	3	0	0	2.6	1	3	shuzhu_yihua_2201	happy,idle,sad,surprise,thinking	4	前缀互含
+vo_biography_271_huangchuanzhizhu	biography	式神	271	huangchuanzhizhu		是	是	是	3	0	0	1.8	1	3			0	对不上
+vo_biography_272_sanweihu	biography	式神	272	sanweihu		是	是	是	3	0	0	2.8	1	3			0	对不上
+vo_biography_273_baize	biography	式神	273	baize		是	是	是	3	0	0	3.2	1	3	baize_0129,baize_3511	angry,happy,idle,sad,smile,surprise,thinking	6	同名
+vo_biography_274_hudiejing	biography	式神	274	hudiejing		是	是	是	3	0	0	2.5	1	3	hudiejing_0784	happy,idle,sad,surprise,thinking	4	同名
+vo_biography_275_luoxinfu	biography	式神	275	luoxinfu		是	是	是	3	0	0	1.6	1	3			0	对不上
+vo_biography_276_yitiao	biography	式神	276	yitiao		是	是	是	3	0	0	1.8	1	3	yitiao_0128	happy,idle,sad,surprise,thinking	4	同名
+vo_biography_277_jialouluo	biography	式神	277	jialouluo		是	是	是	3	0	0	13.7	1	3			0	对不上
+vo_biography_278_huajing	biography	式神	278	huajing		是	是	是	3	0	0	3.1	1	3			0	对不上
+vo_biography_279_yinge	biography	式神	279	yinge		是	是	是	3	0	0	2.7	1	3	yi_2788	idle,sad,smile,surprise,thinking	4	前缀互含
+vo_biography_280_bujianyue	biography	式神	280	bujianyue		是	是	是	3	0	0	6.2	1	3	bujianyue_2190	happy,idle,sad,surprise,thinking	4	同名
+vo_biography_281_xuzuozhinan	biography	式神	281	xuzuozhinan		是	是	是	3	0	0	14.6	1	3	xuzuozhinan_yihua_3486	happy,idle,sad,surprise,thinking	4	前缀互含
+vo_biography_282_liyujing	biography	式神	282	liyujing		是	是	是	3	0	0	1.4	1	3			0	对不上
+vo_biography_283_chongshi	biography	式神	283	chongshi		是	是	是	3	0	0	2.6	1	3			0	对不上
+vo_biography_284_xienv	biography	式神	284	xienv		是	是	是	3	0	0	4.5	1	3	xienv_yihua_3335	happy,idle,sad,surprise,thinking	4	前缀互含
+vo_biography_285_yujuchong	biography	式神	285	yujuchong		是	是	是	3	0	0	3.5	1	3			0	对不上
+vo_biography_286_hairen	biography	式神	286	hairen		是	是	是	3	0	0	7.3	1	3			0	对不上
+vo_biography_287_linghaidie	biography	式神	287	linghaidie		是	是	是	3	0	0	9.2	1	3	linghaidie_3255	happy,idle,sad,surprise,thinking	4	同名
+vo_biography_288_xunxiangxing	biography	式神	288	xunxiangxing		是	是	是	3	0	0	17.0	1	3	xunxiangxing_3345	happy,idle,sad,surprise,thinking	4	同名
+vo_biography_293_gulonghuo	biography	式神	293	gulonghuo		是	是	是	3	0	0	1.5	1	3			0	对不上
+vo_biography_294_chuanyuan	biography	式神	294	chuanyuan		是	是	是	3	0	0	5.5	1	3			0	对不上
+vo_biography_295_erkounv	biography	式神	295	erkounv		是	是	是	3	0	0	2.4	1	3			0	对不上
+vo_biography_296_xiaoxiuzhishou	biography	式神	296	xiaoxiuzhishou		是	是	是	3	0	0	2.6	1	3			0	对不上
+vo_biography_298_shenqilou	biography	式神	298	shenqilou		是	是	是	3	0	0	6.1	1	3			0	对不上
+vo_biography_603_fenpopo	biography	式神	603	fenpopo		是	是	是	3	0	0	7.2	1	3			0	对不上
+vo_biography_604_ji	biography	式神	604	ji		是	是	是	3	0	0	21.3	1	3	ji_yihua_3515,jianyuanqianqiu_3083,jicanghai_1908,jingliuliyuqian_2708,jingliuliyuqian_3493,jinnaluo_yihua_1611,jinyuji_2782,jiumingmao_2570,jiutuntongzi_2686,jiutuntongziwangkong_yihua_3435	angry,happy,idle,sad,smile,surprise,thinking	6	前缀互含
+vo_biography_605_kongquemingwang	biography	式神	605	kongquemingwang		是	是	是	3	0	0	2.7	1	3	kongquemingwang_yihua_3432	happy,idle,sad,surprise,thinking	4	前缀互含
+vo_biography_606_jiaotu	biography	式神	606	jiaotu		是	是	是	3	0	0	1.9	1	3			0	对不上
+vo_biography_608_huimingdeng	biography	式神	608	huimingdeng		是	是	是	3	0	0	9.5	1	3			0	对不上
+vo_biography_609_shifagui	biography	式神	609	shifagui		是	是	是	3	0	0	1.9	1	3	shifagui_2811	happy,idle,sad,serious,smile,surprise,thinking	6	同名
+vo_biography_611_tiannimei	biography	式神	611	tiannimei		是	是	是	3	0	0	6.4	1	3			0	对不上
+vo_biography_614_yanling	biography	式神	614	yanling		是	是	是	3	0	0	9.8	1	3			0	对不上
+vo_biography_615_fangshi	biography	式神	615	fangshi		是	是	是	3	0	0	8.6	1	3			0	对不上
+vo_biography_615_langyazi	biography	式神	615	langyazi		是	是	是	3	0	0	8.6	1	3	langyazi_3488	happy,idle,sad,surprise,thinking	4	同名
+vo_biography_619_gunv	biography	式神	619	gunv		是	是	是	3	0	0	2.7	1	3			0	对不上
+vo_biography_620_yunv	biography	式神	620	yunv		是	是	是	3	0	0	3.3	1	3			0	对不上
+vo_biography_621_chen	biography	式神	621	chen		是	是	是	3	0	0	2.8	1	3	chen_3566	happy,idle,sad,surprise,thinking	4	同名
+vo_biography_622_yuedu	biography	式神	622	yuedu		是	是	是	3	0	0	16.6	1	3			0	对不上
+vo_biography_623_tianzhao	biography	式神	623	tianzhao		是	是	是	3	0	0	13.6	1	3			0	对不上
+vo_biography_625_yixienamei	biography	式神	625	yixienamei		是	是	是	3	0	0	9.4	1	3	yi_2788	idle,sad,smile,surprise,thinking	4	前缀互含
+vo_biography_626_daorenshen	biography	式神	626	daorenshen		是	是	是	3	0	0	4.9	1	3			0	对不上
+vo_biography_627_guishibai	biography	式神	627	guishibai		是	是	是	3	0	0	3.3	1	3			0	对不上
+vo_biography_628_guishihei	biography	式神	628	guishihei		是	是	是	3	0	0	1.8	1	3			0	对不上
+vo_biography_631_ertong	biography	式神	631	ertong		是	是	是	3	0	0	3.8	1	3			0	对不上
+vo_biography_633_zhiwu	biography	式神	633	zhiwu		是	是	是	3	0	0	4.2	1	3			0	对不上
+vo_biography_634_long	biography	式神	634	long		是	是	是	3	0	0	4.3	1	3			0	对不上
+vo_biography_638_fansi	biography	式神	638	fansi		是	是	是	3	0	0	4.7	1	3			0	对不上
+vo_biography_639_maochuan	biography	式神	639	maochuan		是	是	是	3	0	0	4.0	1	3			0	对不上
+vo_biography_644_huojinshen	biography	式神	644	huojinshen		是	是	是	3	0	0	2.3	1	3			0	对不上
+vo_biography_652_guijinyang	biography	式神	652	guijinyang		是	是	是	3	0	0	4.6	1	3			0	对不上
+vo_biography_653_longche	biography	式神	653	longche		是	是	是	3	0	0	3.6	1	3			0	对不上
+vo_biography_654_longjue	biography	式神	654	longjue		是	是	是	3	0	0	4.2	1	3			0	对不上
+vo_biography_655_fengyangjun	biography	式神	655	fengyangjun		是	是	是	3	0	0	3.5	1	3			0	对不上
+vo_biography_656_chanxinyunwaijing	biography	式神	656	chanxinyunwaijing		是	是	是	3	0	0	14.1	1	3			0	对不上
+vo_biography_657_pinfashen	biography	式神	657	pinfashen		是	是	是	3	0	0	4.1	1	3			0	对不上
+vo_biography_659_zhaocaimao	biography	式神	659	zhaocaimao		是	是	是	3	0	0	4.7	1	3			0	对不上
+vo_biography_660_jintianyuzaoqian	biography	式神	660	jintianyuzaoqian		是	是	是	3	0	0	3.8	1	3			0	对不上
+vo_biography_661_geliuduo	biography	式神	661	geliuduo		是	是	是	3	0	0	9.0	1	3	geliuduo_yihua_3753	happy,idle,sad,surprise,thinking	4	前缀互含
+vo_biography_662_chulingshanfeng	biography	式神	662	chulingshanfeng		是	是	是	3	0	0	6.8	1	3			0	对不上
+vo_biography_666_yinfanhuiyeji	biography	式神	666	yinfanhuiyeji		是	是	是	3	0	0	8.8	1	3	yi_2788	idle,sad,smile,surprise,thinking	4	前缀互含
+vo_biography_667_daixiaoguhuoniao	biography	式神	667	daixiaoguhuoniao		是	是	是	3	0	0	6.1	1	3			0	对不上
+vo_biography_670_shenqihuang	biography	式神	670	shenqihuang		是	是	是	3	0	0	10.8	1	3			0	对不上
+vo_biography_671_beimihu	biography	式神	671	beimihu		是	是	是	3	0	0	9.8	1	3			0	对不上
+vo_biography_672_shiyaolongyechaji	biography	式神	672	shiyaolongyechaji		是	是	是	3	0	0	7.3	1	3			0	对不上
+vo_biography_673_yuyanbore	biography	式神	673	yuyanbore		是	是	是	3	0	0	5.1	1	3			0	对不上
+vo_biography_tiaotiaomeimei	biography	式神		tiaotiaomeimei		是	是	是	3	3	0	0.0	1	3	tiaotiaomeimei_2577	happy,idle,sad,surprise,thinking	4	同名
+vo_biography_yaohu	biography	式神		yaohu		是	是	是	3	3	0	0.0	1	3	yaohu_2789	happy,idle,sad,serious,smile,surprise,thinking	6	同名
+vo_biography_yujuchong	biography	式神		yujuchong		是	否	否	0	0	0	0	0				0	对不上
+vo_emotion	emotion	式神				是	是	是	190	0	0	3.4	46	49,41,12,6,5,4,3,3,3,3,3,3,3,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,1,1,1,1,1,1,1,1,1,1,1,1,1,1			0	名字里没有拼音
+vo_emotion_103_buzhihuo	emotion	式神	103	buzhihuo	不知火	是	是	是	22	0	0	0.3	1	22	buzhihuo_1127	happy,idle,sad,surprise,thinking	4	同名
+vo_emotion_105_datiangou	emotion	式神	105	datiangou		是	是	是	22	0	0	0.4	1	22	datiangou_0795,datiangou_1602,datiangou_1638,datiangou_2817	angry,emotion1,emotion2,emotion3,emotion4,emotion5,emotion6,happy,idle,idle1,sad,smile,stand,surprise,thinking,turn,walk_l,walk_r	16	同名
+vo_emotion_107_yingcao	emotion	式神	107	yingcao		是	是	是	21	0	0	0.4	1	21	yingcao_2829	happy,idle,sad,surprise,thinking	4	同名
+vo_emotion_108_taohuayao	emotion	式神	108	taohuayao		是	是	是	17	0	0	0.2	1	17	taohuayao_1432	happy,idle,sad,surprise,thinking	4	同名
+vo_emotion_111_cimutongzi	emotion	式神	111	cimutongzi		是	是	是	21	0	0	0.3	1	21	cimu_2542,cimutongzilvli_yihua_3459	happy,idle,sad,serious,smile,surprise,thinking	6	前缀互含
+vo_emotion_118_yimulian	emotion	式神	118	yimulian		是	是	是	21	0	0	0.3	1	21	yi_2788	idle,sad,smile,surprise,thinking	4	前缀互含
+vo_emotion_119_shuweng	emotion	式神	119	shuweng		是	是	是	42	0	0	0.7	1	42	shuweng_2269	happy,idle,sad,surprise,thinking	4	同名
+vo_emotion_120_jue	emotion	式神	120	jue		是	是	是	21	0	0	0.3	1	21	jue_2641	happy,idle,sad,surprise,thinking	4	同名
+vo_emotion_121_quanshen	emotion	式神	121	quanshen		是	是	是	22	0	0	0.5	1	22	quanshen_2848	happy,idle,sad,serious,smile,surprise,thinking	6	同名
+vo_emotion_126_ciqiqingwa	emotion	式神	126	ciqiqingwa		是	是	是	22	0	0	0.7	1	22	qingwaciqi_2605	happy,idle,sad,serious,smile,surprise,thinking	6	同字母异序
+vo_emotion_127_shantu	emotion	式神	127	shantu		是	是	是	21	0	0	0.4	1	21	shantu_yihua_1752	happy,idle,sad,surprise,thinking	4	前缀互含
+vo_emotion_128_yaoqinshi	emotion	式神	128	yaoqinshi		是	是	是	21	0	0	0.3	1	21	yaoqinshi_3041	happy,idle,sad,surprise,thinking	4	同名
+vo_emotion_134_yaohu	emotion	式神	134	yaohu		是	是	是	21	0	0	0.4	1	21	yaohu_2789	happy,idle,sad,serious,smile,surprise,thinking	6	同名
+vo_emotion_146_tiaotiaomeimei	emotion	式神	146	tiaotiaomeimei		是	是	是	22	0	0	0.5	1	22	tiaotiaomeimei_2577	happy,idle,sad,surprise,thinking	4	同名
+vo_emotion_164_yanyanluo	emotion	式神	164	yanyanluo		是	是	是	40	0	0	0.7	1	40	yanyanluo_2356	happy,idle,sad,surprise,thinking	4	同名
+vo_emotion_167_buzhihuo	emotion	式神	167	buzhihuo	不知火	是	是	是	31	0	0	0.6	1	31	buzhihuo_1127	happy,idle,sad,surprise,thinking	4	同名
+vo_emotion_170_bianhua	emotion	式神	170	bianhua		是	是	是	22	0	0	0.5	1	22	bianhua_yihua_0819	happy,idle,sad,surprise,thinking	4	前缀互含
+vo_emotion_177_longyechaji	emotion	式神	177	longyechaji		是	是	是	22	0	0	0.3	1	22			0	对不上
+vo_emotion_178_huang	emotion	式神	178	huang		是	是	是	22	0	0	0.4	1	22	huangtianxiegui_0484,huangtianxiegui_2816	angry,happy,idle,sad,smile,stand,surprise,thinking	7	前缀互含
+vo_emotion_179_jiuciliang	emotion	式神	179	jiuciliang		是	是	是	23	0	0	0.5	1	23			0	对不上
+vo_emotion_180_lingluyuqian	emotion	式神	180	lingluyuqian		是	是	是	22	0	0	0.4	1	22	lingluyuqian_1129	happy,idle,sad,surprise,thinking	4	同名
+vo_emotion_181_renmianshu	emotion	式神	181	renmianshu		是	是	是	22	0	0	0.3	1	22			0	对不上
+vo_emotion_183_tiaotiaogege	emotion	式神	183	tiaotiaogege		是	是	是	24	0	0	0.6	1	24			0	对不上
+vo_emotion_184_yinghuayao	emotion	式神	184	yinghuayao		是	是	是	21	0	0	0.4	1	21	yinghuayao_1922	happy,idle,sad,surprise,thinking	4	同名
+vo_emotion_185_sanmu	emotion	式神	185	sanmu		是	是	是	21	0	0	0.6	2	19,2	sanmu_1307,sanmu_1524	happy,idle,idle2,idle3,sad,sinister smile,surprise,thinking	5	同名
+vo_emotion_186_xun	emotion	式神	186	xun		是	是	是	21	0	0	0.5	1	21	xunxiangxing_3345	happy,idle,sad,surprise,thinking	4	前缀互含
+vo_emotion_187_shimengmo	emotion	式神	187	shimengmo		是	是	是	21	0	0	0.4	1	21			0	对不上
+vo_emotion_188_duyanxiaoseng	emotion	式神	188	duyanxiaoseng		是	是	是	22	0	0	0.5	1	22	duyanxiaoseng_2702	angry,happy,idle,sad,surprise,thinking	5	同名
+vo_emotion_189_yuzhuanjin	emotion	式神	189	yuzhuanjin		是	是	是	21	0	0	0.3	1	21	yuzhuanjin_3433	happy,idle,sad,surprise,thinking	4	同名
+vo_emotion_190_dayuewan	emotion	式神	190	dayuewan		是	是	是	21	0	0	0.4	1	21	dayuewan_2036	angry,happy,idle,sad,surprise	4	同名
+vo_emotion_191_guiqie	emotion	式神	191	guiqie		是	是	是	21	0	0	0.3	1	21	guiqie_0582	happy,idle,sad,surprise,thinking	4	同名
+vo_emotion_192_wugushi	emotion	式神	192	wugushi		是	是	是	20	0	0	0.7	1	20	wugushi_0962	happy,idle,sad,surprise,thinking	4	同名
+vo_emotion_192_wugushi_b	emotion	式神	192	wugushi_b		是	是	是	24	0	0	0.4	1	24	wugushi_0962	happy,idle,sad,surprise,thinking	4	前缀互含
+vo_emotion_193_wushizhiling	emotion	式神	193	wushizhiling		是	是	是	22	0	0	0.5	1	22			0	对不上
+vo_emotion_194_guishibai	emotion	式神	194	guishibai		是	是	是	22	0	0	0.4	1	22			0	对不上
+vo_emotion_194_guishihei	emotion	式神	194	guishihei		是	是	是	21	0	0	0.4	1	21			0	对不上
+vo_emotion_196_baimugui	emotion	式神	196	baimugui		是	是	是	21	0	0	0.4	1	21	baimugui_3528	happy,idle,sad,surprise,thinking	4	同名
+vo_emotion_197_zhuiyueshen	emotion	式神	197	zhuiyueshen		是	是	是	22	0	0	0.4	1	22	zhuiyueshen_2366	happy,idle,sad,surprise,thinking	4	同名
+vo_emotion_2	emotion	式神	2			是	是	是	366	1	1	9.5	52	48,41,23,21,13,12,12,12,10,10,9,9,8,8,8,7,7,6,6,6,5,5,5,5,5,4,4,4,4,4,3,3,3,3,3,2,2,2,2,2,2,2,2,2,2,2,2,2,1,1,1,1			0	名字里没有拼音
+vo_emotion_201_jiumingmao	emotion	式神	201	jiumingmao		是	是	是	21	0	0	0.4	1	21	jiumingmao_2570	happy,idle,sad,surprise,thinking	4	同名
+vo_emotion_204_huoqumo	emotion	式神	204	huoqumo		是	是	是	37	0	0	0.8	1	37			0	对不上
+vo_emotion_205_yuanjiulanghu	emotion	式神	205	yuanjiulanghu		是	是	是	25	0	0	0.4	1	25	yuanjiulanghu_1030,yuanjiulanghu_3509	angry,happy,idle,sad,smile,surprise,thinking	6	同名
+vo_emotion_206_jingliuliyuqian	emotion	式神	206	jingliuliyuqian		是	是	是	24	0	0	0.4	1	24	jingliuliyuqian_2708,jingliuliyuqian_3493	angry,happy,idle,sad,smile,surprise,thinking	6	同名
+vo_emotion_207_yingxueji	emotion	式神	207	yingxueji		是	是	是	22	0	0	0.7	1	22	yingxueji_0999,yingxueji_3492	happy,idle,sad,surprise,thinking	4	同名
+vo_emotion_208_mianlingqi	emotion	式神	208	mianlingqi		是	是	是	21	0	0	0.3	1	21	mianlingqi_3013	happy,idle,sad,surprise,thinking	4	同名
+vo_emotion_209_huibishou	emotion	式神	209	huibishou		是	是	是	47	0	0	1.3	1	47			0	对不上
+vo_emotion_210_xieji	emotion	式神	210	xieji		是	是	是	34	0	0	0.7	1	34	xieji_0481	happy,idle,sad,surprise,thinking	4	同名
+vo_emotion_211_gouchang	emotion	式神	211	gouchang		是	是	是	25	0	0	0.5	1	25			0	对不上
+vo_emotion_212_tieshu	emotion	式神	212	tieshu		是	是	是	21	0	0	0.4	1	21	tieshu_2420	idle,sad,smile,surprise,thinking	4	同名
+vo_emotion_213_hetong	emotion	式神	213	hetong		是	是	是	22	0	0	0.3	1	22	hetong_2795	happy,idle,sad,surprise,thinking	4	同名
+vo_emotion_214_guitongwan	emotion	式神	214	guitongwan		是	是	是	21	0	0	0.4	1	21			0	对不上
+vo_emotion_215_bore	emotion	式神	215	bore		是	是	是	21	0	0	0.4	1	21	bore_2919	happy,idle,sad,sad_2,surprise,thinking	5	同名
+vo_emotion_216_yuanjieshen	emotion	式神	216	yuanjieshen		是	是	是	22	0	0	0.5	1	22	yuanjieshen_0623	happy,idle,sad,surprise,thinking	4	同名
+vo_emotion_217_egui	emotion	式神	217	egui		是	是	是	21	0	0	0.5	1	21			0	对不上
+vo_emotion_220_baqidashe	emotion	式神	220	baqidashe		是	是	是	21	0	0	0.3	1	21	baqidashe_0457	happy,idle,sad,surprise,thinking	4	同名
+vo_emotion_221_yuzaoqian	emotion	式神	221	yuzaoqian		是	是	是	22	0	0	0.4	1	22	yuzaoqian_0290	happy,idle,sad,surprise,thinking	4	同名
+vo_emotion_221_yuzaoqian_nv	emotion	式神	221	yuzaoqian_nv		是	是	是	23	0	0	0.5	1	23	yuzaoqian_0290	happy,idle,sad,surprise,thinking	4	前缀互含
+vo_emotion_224_axiuluo	emotion	式神	224	axiuluo		是	是	是	21	0	0	0.4	1	21	axiuluo_3412	happy,idle,sad,surprise,thinking	4	同名
+vo_emotion_225_dishitian	emotion	式神	225	dishitian		是	是	是	23	0	0	0.3	1	23	dishitian_0291	happy,idle,sad,surprise,thinking	4	同名
+vo_emotion_226_huangkulou	emotion	式神	226	huangkulou		是	是	是	61	0	0	1.1	1	61			0	对不上
+vo_emotion_227_jinyuji	emotion	式神	227	jinyuji		是	是	是	21	0	0	0.4	1	21	jinyuji_2782	happy,idle,sad,surprise,thinking	4	同名
+vo_emotion_228_tengji	emotion	式神	228	tengji		是	是	是	22	0	0	0.4	1	22	tengji_juexingqian_0553	happy,idle,sad,surprise,thinking	4	前缀互含
+vo_emotion_228_tengji_b	emotion	式神	228	tengji_b		是	是	是	22	0	0	0.3	1	22			0	对不上
+vo_emotion_229_huaniaojuan	emotion	式神	229	huaniaojuan		是	是	是	20	0	0	0.4	1	20	huaniaojuan_2761	happy,idle,sad,serious,smile,surprise,thinking	6	同名
+vo_emotion_230_yanmo	emotion	式神	230	yanmo		是	是	是	24	0	0	0.4	1	24	yanmo_3413	happy,idle,sad,surprise,thinking	4	同名
+vo_emotion_231_kuileishi	emotion	式神	231	kuileishi		是	是	是	22	0	0	0.4	1	22			0	对不上
+vo_emotion_232_fengli	emotion	式神	232	fengli		是	是	是	21	0	0	0.4	1	21	fengli_2367	happy,idle,sad,surprise,thinking	4	同名
+vo_emotion_233_baizangzhu	emotion	式神	233	baizangzhu		是	是	是	22	0	0	0.4	1	22	baizangzhulixin_3726	happy,idle,sad,surprise,thinking	4	前缀互含
+vo_emotion_235_guanhu	emotion	式神	235	guanhu		是	是	是	22	0	0	0.5	1	22			0	对不上
+vo_emotion_236_rulianshi	emotion	式神	236	rulianshi		是	是	是	24	0	0	0.6	1	24			0	对不上
+vo_emotion_238_liangmianfo	emotion	式神	238	liangmianfo		是	是	是	43	0	0	1.0	1	43			0	对不上
+vo_emotion_239_yi	emotion	式神	239	yi		是	是	是	26	0	0	0.6	1	26	yi_2788	idle,sad,smile,surprise,thinking	4	同名
+vo_emotion_240_heitongzi	emotion	式神	240	heitongzi		是	是	是	26	0	0	0.6	1	26	heitongzi_3343	happy,idle,sad,surprise,thinking	4	同名
+vo_emotion_241_baitongzi	emotion	式神	241	baitongzi		是	是	是	23	0	0	0.3	1	23	baitongzi_3355	happy,idle,sad,surprise,thinking	4	同名
+vo_emotion_242_yunwaijing	emotion	式神	242	yunwaijing		是	是	是	42	0	0	0.6	1	42			0	对不上
+vo_emotion_243_xiazhongshaonv	emotion	式神	243	xiazhongshaonv		是	是	是	23	0	0	0.7	1	23	xiazhongshaonv_2835	happy,idle,sad,surprise,thinking	4	同名
+vo_emotion_244_song	emotion	式神	244	song		是	是	是	52	0	0	1.0	1	52	song_1067	happy,idle,sad,surprise,thinking	4	同名
+vo_emotion_245_xiaosongwan	emotion	式神	245	xiaosongwan		是	是	是	23	0	0	0.6	1	23			0	对不上
+vo_emotion_246_maoyou	emotion	式神	246	maoyou		是	是	是	23	0	0	0.4	1	23			0	对不上
+vo_emotion_247_qianji	emotion	式神	247	qianji	千姬	是	是	是	22	0	0	0.4	1	22	qianji_0552	happy,idle,sad,surprise,thinking	4	同名
+vo_emotion_248_limao	emotion	式神	248	limao		是	是	是	22	0	0	0.5	1	22	limao_2843	idle,sad,smile,surprise,thinking	4	同名
+vo_emotion_249_yixigong	emotion	式神	249	yixigong		是	是	是	70	0	0	1.6	1	70	yixigong_3339	happy,idle,sad,surprise,thinking	4	同名
+vo_emotion_250_tuwan	emotion	式神	250	tuwan		是	是	是	22	0	0	0.5	1	22	tuwan_1484	happy,idle,sad,surprise,thinking	4	同名
+vo_emotion_251_xingxiongtongzi	emotion	式神	251	xingxiongtongzi		是	是	是	27	0	0	0.4	1	27	xingxiongtongzi_3517	happy,idle,sad,surprise,thinking	4	同名
+vo_emotion_252_wuwan	emotion	式神	252	wuwan		是	是	是	32	0	0	0.7	1	32	wuwan_0987	happy,idle,sad,surprise,thinking	4	同名
+vo_emotion_253_shiling	emotion	式神	253	shiling		是	是	是	24	0	0	0.4	1	24	shiling_1492	happy,idle,sad,surprise,thinking	4	同名
+vo_emotion_256_jinnaluo	emotion	式神	256	jinnaluo		是	是	是	23	0	0	0.4	1	23	jinnaluo_yihua_1611	happy,idle,sad,surprise,thinking	4	前缀互含
+vo_emotion_257_runeique_qing	emotion	式神	257	runeique_qing		是	是	是	22	0	0	0.3	1	22	runeique_2086	happy,idle,sad,surprise,thinking	4	前缀互含
+vo_emotion_257_runeique_yan	emotion	式神	257	runeique_yan		是	是	是	21	0	0	0.3	1	21	runeique_2086	happy,idle,sad,surprise,thinking	4	前缀互含
+vo_emotion_258_choushizhinv	emotion	式神	258	choushizhinv		是	是	是	21	0	0	0.4	1	21			0	对不上
+vo_emotion_261_yifanmumian	emotion	式神	261	yifanmumian		是	是	是	2	0	0	0.1	1	2	yi_2788	idle,sad,smile,surprise,thinking	4	前缀互含
+vo_emotion_263_lingyanji	emotion	式神	263	lingyanji		是	是	是	24	0	0	0.5	1	24	lingyanji_1715	happy,idle,sad,surprise,thinking	4	同名
+vo_emotion_269_shuzhu	emotion	式神	269	shuzhu		是	是	是	24	0	0	0.4	1	24	shuzhu_yihua_2201	happy,idle,sad,surprise,thinking	4	前缀互含
+vo_emotion_272_sanweihu	emotion	式神	272	sanweihu		是	是	是	23	0	0	0.6	1	23			0	对不上
+vo_emotion_273_baize	emotion	式神	273	baize		是	是	是	24	0	0	0.5	1	24	baize_0129,baize_3511	angry,happy,idle,sad,smile,surprise,thinking	6	同名
+vo_emotion_276_yitiao	emotion	式神	276	yitiao		是	是	是	22	0	0	0.4	1	22	yitiao_0128	happy,idle,sad,surprise,thinking	4	同名
+vo_emotion_281_xuzuozhinan	emotion	式神	281	xuzuozhinan		是	是	是	22	0	0	0.4	1	22	xuzuozhinan_yihua_3486	happy,idle,sad,surprise,thinking	4	前缀互含
+vo_emotion_284_xienv	emotion	式神	284	xienv		是	是	是	21	0	0	0.3	1	21	xienv_yihua_3335	happy,idle,sad,surprise,thinking	4	前缀互含
+vo_emotion_287_linghaidie	emotion	式神	287	linghaidie		是	是	是	23	0	0	0.4	1	23	linghaidie_3255	happy,idle,sad,surprise,thinking	4	同名
+vo_emotion_288_xunxiangxing	emotion	式神	288	xunxiangxing		是	是	是	23	0	0	0.3	1	23	xunxiangxing_3345	happy,idle,sad,surprise,thinking	4	同名
+vo_emotion_289_yaodaojizhouren	emotion	式神	289	yaodaojizhouren		是	是	是	21	0	0	0.3	1	21			0	对不上
+vo_emotion_290_datiangougangfeng	emotion	式神	290	datiangougangfeng		是	是	是	21	0	0	0.4	1	21	gangfengdatiangou_3397	happy,idle,sad,surprise,thinking	4	同字母异序
+vo_emotion_291_qingxingdenghuihuo	emotion	式神	291	qingxingdenghuihuo		是	是	是	21	0	0	0.4	1	21	huihuoqingxingdeng_3366	happy,idle,sad,surprise,thinking	4	同字母异序
+vo_emotion_292_quanshenbailian	emotion	式神	292	quanshenbailian		是	是	是	21	0	0	0.6	1	21	quanshen_2848	happy,idle,sad,serious,smile,surprise,thinking	6	前缀互含
+vo_emotion_292_quanshenlizhan	emotion	式神	292	quanshenlizhan		是	是	是	21	0	0	0.6	1	21	quanshenlizhan_3519	happy,idle,sad,surprise,thinking	4	同名
+vo_emotion_298_shenqilou	emotion	式神	298	shenqilou		是	是	是	21	0	0	0.3	1	21			0	对不上
+vo_emotion_298_shenqilou_nv	emotion	式神	298	shenqilou_nv		是	是	是	21	0	0	0.3	1	21			0	对不上
+vo_emotion_298_shenqilou_ying	emotion	式神	298	shenqilou_ying		是	是	是	21	0	0	0.4	1	21			0	对不上
+vo_emotion_602_jiutuntongziwangkong	emotion	式神	602	jiutuntongziwangkong		是	是	是	21	0	0	0.3	1	21	jiutuntongzi_2686,jiutuntongziwangkong_yihua_3435	happy,idle,sad,surprise,thinking	4	前缀互含
+vo_emotion_604_ji	emotion	式神	604	ji		是	是	是	21	0	0	0.6	1	21	ji_yihua_3515,jianyuanqianqiu_3083,jicanghai_1908,jingliuliyuqian_2708,jingliuliyuqian_3493,jinnaluo_yihua_1611,jinyuji_2782,jiumingmao_2570,jiutuntongzi_2686,jiutuntongziwangkong_yihua_3435	angry,happy,idle,sad,smile,surprise,thinking	6	前缀互含
+vo_emotion_605_kongquemingwang	emotion	式神	605	kongquemingwang		是	是	是	21	0	0	0.3	1	21	kongquemingwang_yihua_3432	happy,idle,sad,surprise,thinking	4	前缀互含
+vo_emotion_607_cimutongzilvli	emotion	式神	607	cimutongzilvli		是	是	是	22	0	0	0.3	2	20,2	cimu_2542,cimutongzilvli_yihua_3459	happy,idle,sad,serious,smile,surprise,thinking	6	前缀互含
+vo_emotion_610_guhuoniaoyuxiang	emotion	式神	610	guhuoniaoyuxiang		是	是	是	23	0	0	0.5	1	23	guhuoniaoyuxiang_3526	happy,idle,sad,surprise,thinking	4	同名
+vo_emotion_612_taohuayaoluoying	emotion	式神	612	taohuayaoluoying		是	是	是	21	0	0	0.3	1	21	taohuayaoluoying_3616	happy,idle,sad,surprise,thinking	4	同名
+vo_emotion_613_yimulianlinglai	emotion	式神	613	yimulianlinglai		是	是	是	21	0	0	0.3	1	21	yi_2788	idle,sad,smile,surprise,thinking	4	前缀互含
+vo_emotion_614_yanling	emotion	式神	614	yanling		是	是	是	21	0	0	0.4	1	21			0	对不上
+vo_emotion_615_fangshi	emotion	式神	615	fangshi		是	是	是	21	0	0	0.4	1	21			0	对不上
+vo_emotion_615_langyazi	emotion	式神	615	langyazi		是	是	是	21	0	0	0.4	1	21	langyazi_3488	happy,idle,sad,surprise,thinking	4	同名
+vo_emotion_616_shantuzuofutongzi_z	emotion	式神	616	shantuzuofutongzi_z		是	是	是	21	0	0	0.3	1	21			0	对不上
+vo_emotion_617_huangqiming	emotion	式神	617	huangqiming		是	是	是	21	0	0	0.3	1	21			0	对不上
+vo_emotion_618_zhuiyueshenshuiyue	emotion	式神	618	zhuiyueshenshuiyue		是	是	是	22	0	0	0.3	1	22	zhuiyueshen_2366	happy,idle,sad,surprise,thinking	4	前缀互含
+vo_emotion_621_chen	emotion	式神	621	chen		是	是	是	21	0	0	0.5	1	21	chen_3566	happy,idle,sad,surprise,thinking	4	同名
+vo_emotion_623_tianzhao	emotion	式神	623	tianzhao		是	是	是	21	0	0	0.4	1	21			0	对不上
+vo_emotion_624_wushizhilingmaoshi	emotion	式神	624	wushizhilingmaoshi		是	是	是	42	0	0	0.8	1	42			0	对不上
+vo_emotion_629_mianlingqixinsu	emotion	式神	629	mianlingqixinsu		是	是	是	23	0	0	0.4	1	23	mianlingqi_3013	happy,idle,sad,surprise,thinking	4	前缀互含
+vo_emotion_630_yingcaopupu	emotion	式神	630	yingcaopupu		是	是	是	22	0	0	0.3	1	22	yi_2788,yingcao_2829	happy,idle,sad,smile,surprise,thinking	5	前缀互含
+vo_emotion_631_ertong	emotion	式神	631	ertong		是	是	是	23	0	0	0.5	1	23			0	对不上
+vo_emotion_645_sibing	emotion	式神	645	sibing		是	是	是	21	0	0	0.4	1	21	sibing_yihua_3668	happy,idle,sad,surprise,thinking	4	前缀互含
+vo_emotion_647_chili	emotion	式神	647	chili		是	是	是	21	0	0	0.3	1	21	chili_yihua_3659	happy,idle,sad,surprise,thinking	4	前缀互含
+vo_emotion_652_guijinyang	emotion	式神	652	guijinyang		是	是	是	60	0	0	2.0	1	60			0	对不上
+vo_emotion_657_pinfashen	emotion	式神	657	pinfashen		是	是	是	21	0	0	0.5	1	21			0	对不上
+vo_emotion_659_zhaocaimao	emotion	式神	659	zhaocaimao		是	是	是	21	0	0	0.5	1	21			0	对不上
+vo_emotion_aqian	emotion	式神		aqian		是	否	否	0	0	0	0	0				0	对不上
+vo_emotion_hemaoyixin	emotion	式神		hemaoyixin		是	是	是	22	0	0	0.3	1	22	hemaoyixin_3037	happy,idle,sad,surprise,thinking	4	同名
+vo_emotion_hudiejing	emotion	式神		hudiejing		是	是	是	17	0	0	0.2	1	17	hudiejing_0784	happy,idle,sad,surprise,thinking	4	同名
+vo_emotion_jianyuanqianqiu	emotion	式神		jianyuanqianqiu		是	否	否	0	0	0	0	0		jianyuanqianqiu_3083	happy,idle,sad,surprise,thinking	4	同名
+vo_emotion_shanwa	emotion	式神		shanwa		是	是	是	22	0	0	0.5	1	22			0	对不上
+vo_emotion_shifagui	emotion	式神		shifagui		是	是	是	21	0	0	0.4	1	21	shifagui_2811	happy,idle,sad,serious,smile,surprise,thinking	6	同名
+vo_emotion_shouwei	emotion	式神		shouwei		是	否	否	0	0	0	0	0				0	对不上
+vo_emotion_taitian	emotion	式神		taitian		是	否	否	0	0	0	0	0				0	对不上
+vo_emotion_tianxieguichi	emotion	式神		tianxieguichi		是	是	是	21	0	0	0.4	1	21			0	对不上
+vo_emotion_tianxieguihuang	emotion	式神		tianxieguihuang		是	是	是	23	0	0	0.5	1	23	huangtianxiegui_0484,huangtianxiegui_2816	angry,happy,idle,sad,smile,stand,surprise,thinking	7	同字母异序
+vo_emotion_yanqigezhu	emotion	式神		yanqigezhu		是	否	否	0	0	0	0	0				0	对不上
+vo_street_220_baqidashe	street	式神	220	baqidashe		是	否	否	0	0	0	0	0		baqidashe_0457	happy,idle,sad,surprise,thinking	4	同名
+vo_street_221_yuzaoqian	street	式神	221	yuzaoqian		是	否	否	0	0	0	0	0		yuzaoqian_0290	happy,idle,sad,surprise,thinking	4	同名
+vo_street_221_yuzaoqian_nv	street	式神	221	yuzaoqian_nv		是	否	否	0	0	0	0	0		yuzaoqian_0290	happy,idle,sad,surprise,thinking	4	前缀互含
+vo_street_225_dishitian	street	式神	225	dishitian		是	否	否	0	0	0	0	0		dishitian_0291	happy,idle,sad,surprise,thinking	4	同名
+vo_street_227_jinyuji	street	式神	227	jinyuji		是	否	否	0	0	0	0	0		jinyuji_2782	happy,idle,sad,surprise,thinking	4	同名
+vo_street_axiuluo	street	式神		axiuluo		是	否	否	0	0	0	0	0		axiuluo_3412	happy,idle,sad,surprise,thinking	4	同名
+vo_street_baizangzhu	street	式神		baizangzhu		是	是	是	16	0	0	0.8	1	16	baizangzhulixin_3726	happy,idle,sad,surprise,thinking	4	前缀互含
+vo_street_bore	street	式神		bore		是	否	否	0	0	0	0	0		bore_2919	happy,idle,sad,sad_2,surprise,thinking	5	同名
+vo_street_cimutongzi	street	式神		cimutongzi		是	是	是	17	0	0	0.5	2	15,2	cimu_2542,cimutongzilvli_yihua_3459	happy,idle,sad,serious,smile,surprise,thinking	6	前缀互含
+vo_street_cimutongzi_char	street	式神		cimutongzi_char		是	是	是	12	0	0	0.2	4	4,3,3,2	cimu_2542	happy,idle,sad,serious,smile,surprise,thinking	6	前缀互含
+vo_street_datiangou	street	式神		datiangou		是	是	是	11	0	0	0.1	10	2,1,1,1,1,1,1,1,1,1	datiangou_0795,datiangou_1602,datiangou_1638,datiangou_2817	angry,emotion1,emotion2,emotion3,emotion4,emotion5,emotion6,happy,idle,idle1,sad,smile,stand,surprise,thinking,turn,walk_l,walk_r	16	同名
+vo_street_datiangou_char	street	式神		datiangou_char		是	是	是	7	0	0	0.1	4	2,2,2,1	datiangou_0795,datiangou_1602,datiangou_1638,datiangou_2817	angry,emotion1,emotion2,emotion3,emotion4,emotion5,emotion6,happy,idle,idle1,sad,smile,stand,surprise,thinking,turn,walk_l,walk_r	16	前缀互含
+vo_street_guishibai	street	式神		guishibai		是	否	否	0	0	0	0	0				0	对不上
+vo_street_guishihei	street	式神		guishihei		是	否	否	0	0	0	0	0				0	对不上
+vo_street_guitongwan	street	式神		guitongwan		是	否	否	0	0	0	0	0				0	对不上
+vo_street_huang	street	式神		huang		是	否	否	0	0	0	0	0		huangtianxiegui_0484,huangtianxiegui_2816	angry,happy,idle,sad,smile,stand,surprise,thinking	7	前缀互含
+vo_street_huaniaojuan	street	式神		huaniaojuan		是	是	是	16	0	0	1.0	1	16	huaniaojuan_2761	happy,idle,sad,serious,smile,surprise,thinking	6	同名
+vo_street_huiyeji	street	式神		huiyeji		是	是	是	32	0	0	1.1	12	5,5,3,3,3,3,2,2,2,2,1,1	huiyeji_2667	happy,idle,sad,serious,surprise,thinking	5	同名
+vo_street_huiyeji_char	street	式神		huiyeji_char		是	是	是	4	0	0	0.1	4	1,1,1,1	huiyeji_2667	happy,idle,sad,serious,surprise,thinking	5	前缀互含
+vo_street_jinyuji	street	式神		jinyuji		是	是	是	34	0	0	0.8	12	6,5,3,3,3,2,2,2,2,2,2,2	jinyuji_2782	happy,idle,sad,surprise,thinking	4	同名
+vo_street_jinyuji_char	street	式神		jinyuji_char		是	是	是	5	0	0	0.1	4	2,1,1,1	jinyuji_2782	happy,idle,sad,surprise,thinking	4	前缀互含
+vo_street_jiutuntongzi	street	式神		jiutuntongzi		是	是	是	18	0	0	0.2	2	15,3	jiutuntongzi_2686	happy,idle,sad,surprise,thinking	4	同名
+vo_street_jiutuntongzi_char	street	式神		jiutuntongzi_char		是	是	是	10	0	0	0.1	4	4,3,2,1	jiutuntongzi_2686	happy,idle,sad,surprise,thinking	4	前缀互含
+vo_street_mianlingqi	street	式神		mianlingqi		是	否	否	0	0	0	0	0		mianlingqi_3013	happy,idle,sad,surprise,thinking	4	同名
+vo_street_tengji	street	式神		tengji		是	是	是	16	0	0	0.8	1	16	tengji_juexingqian_0553	happy,idle,sad,surprise,thinking	4	前缀互含
+vo_street_yimulian	street	式神		yimulian		是	否	否	0	0	0	0	0		yi_2788	idle,sad,smile,surprise,thinking	4	前缀互含
+vo_street_yingcao	street	式神		yingcao		是	是	是	28	0	0	0.6	11	5,3,3,3,2,2,2,2,2,2,2	yingcao_2829	happy,idle,sad,surprise,thinking	4	同名
+vo_street_yingcao_char	street	式神		yingcao_char		是	是	是	7	0	0	0.1	4	3,2,1,1	yi_2788,yingcao_2829	happy,idle,sad,smile,surprise,thinking	5	前缀互含
+vo_street_yuanjieshen	street	式神		yuanjieshen		是	否	否	0	0	0	0	0		yuanjieshen_0623	happy,idle,sad,surprise,thinking	4	同名
+vo_street_zhuiyueshen	street	式神		zhuiyueshen		是	否	否	0	0	0	0	0		zhuiyueshen_2366	happy,idle,sad,surprise,thinking	4	同名

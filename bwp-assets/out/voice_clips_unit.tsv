@@ -1,0 +1,785 @@
+unit	category	view	hero_id	slug	clips	external	seconds	group_sizes	min_s	max_s
+vo_battle_101	battle	式神	101		29	0	44.6	12,4,3,3,3,2,2	0.10	3.52
+vo_battle_102	battle	式神	102		27	0	43.9	13,3,3,3,3,2	0.23	3.45
+vo_battle_105	battle	式神	105		28	0	43.2	13,4,3,3,3,2	0.23	3.08
+vo_battle_1050001	battle	式神	1050001		11	0	20.1	4,3,2,2	0.53	3.13
+vo_battle_106	battle	式神	106		29	0	53.2	13,3,3,3,3,2,2	0.16	3.80
+vo_battle_107	battle	式神	107		29	0	55.0	11,3,3,3,3,2,2,2	0.37	4.78
+vo_battle_109	battle	式神	109		30	0	49.6	11,4,3,3,3,2,2,2	0.13	3.70
+vo_battle_110	battle	式神	110		28	0	37.6	12,3,3,3,3,2,2	0.09	3.35
+vo_battle_111	battle	式神	111		27	0	47.1	13,3,3,3,3,2	0.24	3.67
+vo_battle_1110001	battle	式神	1110001		12	0	19.5	4,2,2,2,2	0.61	3.77
+vo_battle_112	battle	式神	112		27	0	41.3	13,3,3,3,3,2	0.13	3.24
+vo_battle_113	battle	式神	113		27	0	55.0	13,3,3,3,3,2	0.27	4.58
+vo_battle_114	battle	式神	114		27	0	43.8	13,3,3,3,3,2	0.13	3.16
+vo_battle_115	battle	式神	115		27	0	61.2	13,3,3,3,3,2	0.10	4.37
+vo_battle_116	battle	式神	116		27	0	43.5	13,3,3,3,3,2	0.09	4.73
+vo_battle_117	battle	式神	117		28	0	75.0	12,3,3,3,3,2,2	0.44	5.89
+vo_battle_118	battle	式神	118		27	0	39.0	13,3,3,3,3,2	0.17	2.81
+vo_battle_1180001	battle	式神	1180001		11	0	25.2	4,3,2,2	0.64	4.50
+vo_battle_119	battle	式神	119		27	0	54.2	13,3,3,3,3,2	0.09	4.65
+vo_battle_120	battle	式神	120		28	0	38.9	12,3,3,3,3,2,2	0.12	3.21
+vo_battle_122	battle	式神	122		27	0	63.2	13,3,3,3,3,2	0.31	5.23
+vo_battle_123	battle	式神	123		28	0	56.3	14,3,3,3,3,2	0.16	4.83
+vo_battle_125	battle	式神	125		27	0	56.9	12,3,3,3,2,2,2	0.11	6.49
+vo_battle_126	battle	式神	126		47	0	86.9	24,5,4,3,3,3,3,2	0.24	4.19
+vo_battle_127	battle	式神	127		63	0	80.5	15,5,5,4,3,3,3,3,3,3,2,2,2,2,2,2,2,1,1	0.18	3.88
+vo_battle_128	battle	式神	128		27	0	52.5	13,3,3,3,3,2	0.13	4.18
+vo_battle_129	battle	式神	129		28	0	62.1	12,3,3,3,3,2,2	0.12	4.62
+vo_battle_130	battle	式神	130		46	0	65.8	26,4,3,3,3,3,2,2	0.12	3.39
+vo_battle_133	battle	式神	133		67	0	131.4	6,3,3,3,3,3,3,3,3,3,3,3,3,3,3,2,2,2,2,2,2,2,1,1,1,1,1	0.27	6.88
+vo_battle_134	battle	式神	134		28	0	71.9	13,4,3,3,3,2	0.12	6.28
+vo_battle_139	battle	式神	139		27	0	56.5	13,3,3,3,3,2	0.18	5.16
+vo_battle_146	battle	式神	146		56	0	71.3	14,6,6,5,4,4,3,3,3,3,3,2	0.31	4.02
+vo_battle_146_fanqie	battle	式神	146	fanqie	24	0	19.4	6,5,4,4,3,2	0.33	2.50
+vo_battle_163	battle	式神	163		27	0	59.9	13,3,3,3,3,2	0.25	5.23
+vo_battle_164	battle	式神	164		27	0	72.5	13,3,3,3,3,2	0.20	5.82
+vo_battle_166	battle	式神	166		29	0	56.7	13,5,3,3,3,2	0.23	3.57
+vo_battle_167	battle	式神	167		28	0	91.6	12,4,3,3,3,2,1	0.13	7.62
+vo_battle_168	battle	式神	168		29	0	65.2	12,3,3,3,2,2,2,2	0.43	4.45
+vo_battle_170	battle	式神	170		27	0	83.8	12,3,3,3,3,2,1	0.22	6.23
+vo_battle_171	battle	式神	171		28	0	63.0	12,3,3,3,3,2,2	0.42	4.60
+vo_battle_173	battle	式神	173		28	0	66.5	13,4,3,3,3,2	0.23	4.14
+vo_battle_175	battle	式神	175		27	0	54.0	13,3,3,3,3,2	0.29	5.43
+vo_battle_176	battle	式神	176		31	0	88.8	13,3,3,3,3,3,2,1	0.64	5.93
+vo_battle_1760001	battle	式神	1760001		11	0	33.0	4,3,2,2	1.04	4.83
+vo_battle_177	battle	式神	177		35	0	88.4	9,4,4,3,3,3,3,2,2,2	0.20	5.77
+vo_battle_178	battle	式神	178		37	0	107.9	10,3,3,3,2,2,2,2,2,2,2,2,2	0.24	6.35
+vo_battle_1780001	battle	式神	1780001		12	0	33.3	4,2,2,2,2	0.95	6.49
+vo_battle_179	battle	式神	179		28	0	85.1	12,3,3,3,3,2,2	0.34	8.02
+vo_battle_180	battle	式神	180		30	0	67.6	10,3,3,3,3,2,2,2,2	0.26	5.04
+vo_battle_181	battle	式神	181		28	0	73.6	13,3,3,3,2,2,2	0.30	5.80
+vo_battle_182	battle	式神	182		56	0	114.7	17,6,4,4,3,3,3,3,3,2,2,2,2,2	0.20	9.40
+vo_battle_183	battle	式神	183		29	0	76.5	14,3,3,3,3,2,1	0.27	5.52
+vo_battle_184	battle	式神	184		27	0	62.8	13,3,3,3,3,2	0.25	7.68
+vo_battle_185	battle	式神	185		45	0	143.1	16,3,3,3,2,2,2,2,2,2,2,2,2,2	0.26	6.76
+vo_battle_186	battle	式神	186		28	0	65.5	14,3,3,3,3,2	0.39	6.43
+vo_battle_187	battle	式神	187		29	0	98.2	12,3,3,3,3,2,2,1	0.48	6.82
+vo_battle_188	battle	式神	188		30	0	90.3	10,3,3,3,3,2,2,2,2	0.36	6.90
+vo_battle_189	battle	式神	189		29	0	64.7	12,3,3,3,3,3,2	0.20	4.68
+vo_battle_190	battle	式神	190		31	0	78.4	17,3,3,3,3,2	0.18	5.64
+vo_battle_191	battle	式神	191		31	0	69.9	15,3,3,3,3,2,2	0.22	5.78
+vo_battle_192	battle	式神	192		28	0	95.7	13,3,3,3,3,2,1	0.41	6.20
+vo_battle_193	battle	式神	193		28	0	93.1	14,3,3,3,3,2	0.40	5.81
+vo_battle_194	battle	式神	194		50	0	130.1	10,8,3,3,3,3,3,3,3,3,2,2,2,2	0.17	5.73
+vo_battle_196	battle	式神	196		29	0	99.1	13,3,3,3,3,2,2	0.16	6.56
+vo_battle_197	battle	式神	197		28	0	73.4	12,3,3,3,3,2,2	0.18	5.58
+vo_battle_201	battle	式神	201		28	0	77.2	14,3,3,3,3,2	0.29	6.13
+vo_battle_204	battle	式神	204		30	0	91.8	12,3,3,2,2,2,2,2,2	0.27	6.02
+vo_battle_205	battle	式神	205		28	0	65.6	12,3,3,3,3,2,2	0.20	4.82
+vo_battle_206	battle	式神	206		29	0	74.0	12,3,3,3,2,2,2,2	0.15	5.45
+vo_battle_207	battle	式神	207		29	0	88.2	13,3,3,3,3,2,2	0.19	7.17
+vo_battle_208	battle	式神	208		35	0	90.8	15,3,3,3,3,2,2,2,2	0.27	4.35
+vo_battle_209	battle	式神	209		31	0	93.2	15,3,3,3,3,2,2	0.37	5.65
+vo_battle_210	battle	式神	210		30	0	70.8	16,3,3,3,3,2	0.36	5.74
+vo_battle_211	battle	式神	211		31	0	65.3	15,3,3,3,3,2,2	0.24	4.00
+vo_battle_212	battle	式神	212		32	0	76.9	14,3,3,3,3,2,2,2	0.27	6.06
+vo_battle_213	battle	式神	213		31	0	82.1	13,3,3,3,3,2,2,2	0.24	5.68
+vo_battle_214	battle	式神	214		28	0	96.0	13,3,3,3,2,2,2	0.47	6.19
+vo_battle_215	battle	式神	215		29	0	103.1	14,3,3,3,2,2,2	0.13	7.71
+vo_battle_216	battle	式神	216		37	0	125.2	9,3,3,3,3,3,3,2,2,2,2,2	0.30	6.73
+vo_battle_217	battle	式神	217		31	0	69.5	15,3,3,3,3,2,2	0.40	4.24
+vo_battle_220	battle	式神	220		34	0	110.1	12,3,3,3,3,2,2,2,2,1,1	0.43	6.26
+vo_battle_221	battle	式神	221		36	0	100.5	10,3,3,3,3,2,2,2,2,2,2,2	0.41	5.94
+vo_battle_224	battle	式神	224		31	0	95.1	11,3,3,2,2,2,2,2,2,2	0.29	6.90
+vo_battle_225	battle	式神	225		34	0	97.9	14,3,3,3,3,2,2,2,2	0.21	5.24
+vo_battle_226	battle	式神	226		30	0	77.8	16,3,3,3,3,2	0.24	7.02
+vo_battle_227	battle	式神	227		32	0	79.0	16,3,3,3,3,2,2	0.24	5.10
+vo_battle_228	battle	式神	228		32	0	97.5	18,3,3,3,3,2	0.15	7.48
+vo_battle_2280001_a	battle	式神	2280001	a	12	0	32.4	5,3,2,2	1.27	4.12
+vo_battle_2280001_b	battle	式神	2280001	b	12	0	32.2	5,3,2,2	1.24	4.30
+vo_battle_229	battle	式神	229		32	0	98.4	18,3,3,3,3,2	0.12	5.84
+vo_battle_2290001	battle	式神	2290001		12	0	46.0	5,3,2,2	1.97	7.04
+vo_battle_230	battle	式神	230		31	0	96.7	17,3,3,3,3,2	0.18	6.96
+vo_battle_231	battle	式神	231		30	0	66.2	16,3,3,3,3,2	0.18	4.83
+vo_battle_232	battle	式神	232		37	0	79.5	12,3,3,3,3,2,2,2,2,2,2,1	0.22	5.04
+vo_battle_233	battle	式神	233		32	0	86.2	14,3,3,3,3,2,2,2	0.18	6.13
+vo_battle_2330001	battle	式神	2330001		12	0	31.1	5,3,2,2	1.14	4.64
+vo_battle_235	battle	式神	235		32	0	80.9	17,3,3,3,2,2,2	0.30	5.01
+vo_battle_236	battle	式神	236		35	0	91.9	13,3,3,3,3,2,2,2,2,2	0.20	5.46
+vo_battle_238	battle	式神	238		49	0	137.1	7,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2	0.45	5.50
+vo_battle_239	battle	式神	239		27	0	68.2	13,3,3,3,3,2	0.26	5.99
+vo_battle_240	battle	式神	240		28	0	53.6	12,3,3,3,3,2,2	0.23	3.81
+vo_battle_241	battle	式神	241		27	0	45.5	13,3,3,3,3,2	0.23	4.23
+vo_battle_242	battle	式神	242		42	0	104.3	6,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2	0.21	7.32
+vo_battle_243	battle	式神	243		27	0	75.4	13,3,3,3,3,2	0.21	5.92
+vo_battle_244	battle	式神	244		28	0	68.0	9,3,3,3,3,2,2,1,1,1	0.20	4.88
+vo_battle_2440001	battle	式神	2440001		12	0	28.2	5,3,2,2	1.13	3.69
+vo_battle_245	battle	式神	245		27	0	67.0	13,3,3,3,3,2	0.26	5.10
+vo_battle_246	battle	式神	246		27	0	66.9	13,3,3,3,3,2	0.19	5.28
+vo_battle_2460001	battle	式神	2460001		11	0	31.1	5,2,2,2	1.69	4.03
+vo_battle_247	battle	式神	247		27	0	54.4	13,3,3,3,3,2	0.15	4.31
+vo_battle_2470001	battle	式神	2470001		11	0	26.1	5,2,2,2	1.33	5.15
+vo_battle_248	battle	式神	248		27	0	88.7	13,3,3,3,3,2	0.25	8.08
+vo_battle_249	battle	式神	249		27	0	81.9	13,3,3,3,3,2	0.61	6.34
+vo_battle_250	battle	式神	250		27	0	57.4	13,3,3,3,3,2	0.26	5.48
+vo_battle_251	battle	式神	251		27	0	62.3	13,3,3,3,3,2	0.17	5.99
+vo_battle_252	battle	式神	252		28	0	76.9	13,3,3,3,3,2,1	0.33	6.12
+vo_battle_253	battle	式神	253		27	0	58.2	13,3,3,3,3,2	0.26	5.96
+vo_battle_256	battle	式神	256		27	0	75.5	13,3,3,3,3,2	0.22	7.77
+vo_battle_2560001	battle	式神	2560001		11	0	32.0	5,2,2,2	0.82	5.83
+vo_battle_257	battle	式神	257		27	0	71.1	13,3,3,3,3,2	0.19	7.61
+vo_battle_258	battle	式神	258		27	0	82.6	13,3,3,3,3,2	0.47	6.33
+vo_battle_259	battle	式神	259		24	0	97.5	13,3,3,3,2	1.61	8.35
+vo_battle_260	battle	式神	260		25	0	61.3	14,3,3,3,2	1.23	4.25
+vo_battle_261	battle	式神	261		24	0	94.1	13,3,3,3,2	1.31	10.22
+vo_battle_262	battle	式神	262		24	0	92.9	13,3,3,3,2	1.79	6.33
+vo_battle_263	battle	式神	263		27	0	59.4	13,3,3,3,3,2	0.15	4.42
+vo_battle_2630001	battle	式神	2630001		10	0	19.2	5,2,2,1	0.50	3.04
+vo_battle_264	battle	式神	264		22	0	43.2	11,3,3,2,2,1	0.46	4.43
+vo_battle_265	battle	式神	265		24	0	53.9	12,3,3,2,2,2	0.33	4.74
+vo_battle_266	battle	式神	266		24	0	41.6	12,3,3,2,2,2	0.66	3.26
+vo_battle_267	battle	式神	267		24	0	42.9	12,3,3,2,2,2	0.69	3.87
+vo_battle_2670001	battle	式神	2670001		9	0	19.2	7,2	0.77	3.58
+vo_battle_268	battle	式神	268		22	0	36.3	13,3,2,2,2	0.27	4.37
+vo_battle_269	battle	式神	269		26	0	63.1	12,3,3,3,3,2	0.25	6.41
+vo_battle_271	battle	式神	271		22	0	52.2	13,3,2,2,2	0.31	4.90
+vo_battle_272	battle	式神	272		26	0	66.1	12,3,3,3,3,2	0.31	5.44
+vo_battle_2720001	battle	式神	2720001		11	0	36.5	5,2,2,2	1.11	5.80
+vo_battle_273	battle	式神	273		26	0	77.9	12,3,3,3,3,2	0.21	7.84
+vo_battle_2730001	battle	式神	2730001		11	0	29.1	5,2,2,2	0.87	4.83
+vo_battle_274	battle	式神	274		17	0	38.1	17	0.51	7.34
+vo_battle_275	battle	式神	275		21	0	46.9	14,3,2,2	0.59	5.28
+vo_battle_276	battle	式神	276		26	0	54.9	12,3,3,3,3,2	0.39	4.49
+vo_battle_2760001	battle	式神	2760001		11	0	29.6	5,2,2,2	1.24	4.91
+vo_battle_277	battle	式神	277		17	0	34.6	17	0.47	3.67
+vo_battle_278	battle	式神	278		21	0	50.8	14,3,2,2	0.30	6.01
+vo_battle_279	battle	式神	279		18	0	28.5	16,2	0.75	3.89
+vo_battle_280	battle	式神	280		21	0	52.3	14,3,2,2	0.14	5.36
+vo_battle_281	battle	式神	281		26	0	79.8	12,3,3,3,3,2	0.22	8.82
+vo_battle_2810001	battle	式神	2810001		11	0	25.4	5,2,2,2	0.79	4.20
+vo_battle_282	battle	式神	282		19	0	34.4	15,2,2	0.45	3.32
+vo_battle_283	battle	式神	283		20	0	53.2	14,2,2,2	0.29	6.55
+vo_battle_284	battle	式神	284		26	0	67.2	12,3,3,3,3,2	0.16	8.19
+vo_battle_2840001	battle	式神	2840001		11	0	34.0	5,2,2,2	0.94	7.01
+vo_battle_285	battle	式神	285		19	0	42.3	15,2,2	0.50	4.13
+vo_battle_286	battle	式神	286		20	0	32.2	14,2,2,2	0.24	2.92
+vo_battle_287	battle	式神	287		26	0	74.7	12,3,3,3,3,2	0.27	6.36
+vo_battle_2870001	battle	式神	2870001		11	0	30.1	5,2,2,2	0.77	6.06
+vo_battle_288	battle	式神	288		26	0	61.1	12,3,3,3,3,2	0.17	5.14
+vo_battle_2880001	battle	式神	2880001		11	0	28.4	5,2,2,2	0.88	7.79
+vo_battle_289	battle	式神	289		25	0	73.1	13,3,3,3,3	0.32	7.73
+vo_battle_2890001	battle	式神	2890001		11	0	33.0	5,2,2,2	0.50	5.81
+vo_battle_290	battle	式神	290		26	0	64.2	12,3,3,3,3,2	0.27	4.68
+vo_battle_291	battle	式神	291		26	0	95.6	12,3,3,3,3,2	0.23	7.41
+vo_battle_2910001	battle	式神	2910001		11	0	44.0	5,2,2,2	0.68	7.34
+vo_battle_292	battle	式神	292		27	0	96.2	12,4,3,3,3,2	0.22	9.23
+vo_battle_293	battle	式神	293		19	0	31.2	15,2,2	0.33	3.00
+vo_battle_294	battle	式神	294		19	0	41.7	15,2,2	0.50	4.19
+vo_battle_295	battle	式神	295		19	0	34.7	15,2,2	0.30	4.32
+vo_battle_296	battle	式神	296		19	0	53.7	15,2,2	0.37	8.36
+vo_battle_298	battle	式神	298		33	0	72.8	21,3,3,3,3	0.23	4.98
+vo_battle_298_nv	battle	式神	298	nv	33	0	79.2	21,3,3,3,3	0.22	5.78
+vo_battle_299	battle	式神	299		25	0	52.6	12,3,3,3,2,2	0.31	4.58
+vo_battle_322	battle	式神	322		9	0	6.8	9	0.23	1.37
+vo_battle_601	battle	式神	601		23	0	43.1	12,3,3,3,2	0.35	3.92
+vo_battle_602	battle	式神	602		26	0	69.5	12,3,3,3,3,2	0.23	6.61
+vo_battle_6020001	battle	式神	6020001		13	0	23.1	4,3,2,2,2	0.27	3.94
+vo_battle_603	battle	式神	603		22	0	77.8	14,3,3,2	1.00	9.52
+vo_battle_604	battle	式神	604		26	0	65.0	12,3,3,3,3,2	0.50	4.94
+vo_battle_605	battle	式神	605		26	0	86.7	12,3,3,3,3,2	0.20	9.44
+vo_battle_6050001	battle	式神	6050001		11	0	36.5	5,2,2,2	1.22	5.01
+vo_battle_606	battle	式神	606		22	0	60.4	14,3,3,2	0.20	4.83
+vo_battle_607	battle	式神	607		26	0	65.8	12,3,3,3,3,2	0.33	4.68
+vo_battle_608	battle	式神	608		24	0	59.3	13,3,3,3,2	0.70	5.86
+vo_battle_609	battle	式神	609		23	0	86.6	14,4,3,2	0.50	8.06
+vo_battle_610	battle	式神	610		26	0	79.7	12,3,3,3,3,2	0.22	6.42
+vo_battle_6100001	battle	式神	6100001		11	0	47.2	5,2,2,2	2.09	7.00
+vo_battle_611	battle	式神	611		25	0	55.2	14,4,3,2,2	0.27	5.50
+vo_battle_612	battle	式神	612		28	0	73.6	14,3,3,3,3,2	0.24	5.74
+vo_battle_6120001	battle	式神	6120001		13	0	31.3	4,3,2,2,2	0.41	4.18
+vo_battle_613	battle	式神	613		27	0	77.4	13,3,3,3,3,2	0.23	5.72
+vo_battle_6130001	battle	式神	6130001		13	0	38.0	4,3,2,2,2	0.39	6.42
+vo_battle_614	battle	式神	614		26	0	69.5	12,3,3,3,3,2	0.37	5.05
+vo_battle_6140001	battle	式神	6140001		11	0	34.2	5,2,2,2	1.47	5.48
+vo_battle_615	battle	式神	615		31	0	111.9	17,3,3,3,3,2	0.41	7.35
+vo_battle_6150001	battle	式神	6150001		13	0	38.0	4,3,2,2,2	0.50	5.62
+vo_battle_616	battle	式神	616		60	0	113.9	6,3,3,3,3,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2	0.20	4.66
+vo_battle_6160001	battle	式神	6160001		20	0	36.6	3,3,2,2,2,2,2,2,2	0.29	3.26
+vo_battle_617	battle	式神	617		27	0	81.3	13,3,3,3,3,2	0.16	6.91
+vo_battle_6170001	battle	式神	6170001		13	0	30.1	4,3,2,2,2	0.33	5.38
+vo_battle_618	battle	式神	618		27	0	98.2	13,3,3,3,3,2	0.20	10.66
+vo_battle_6180001	battle	式神	6180001		11	0	34.0	5,2,2,2	1.55	4.63
+vo_battle_619	battle	式神	619		25	0	61.1	14,3,3,3,2	0.22	6.00
+vo_battle_620	battle	式神	620		23	0	66.6	15,3,3,2	0.50	5.50
+vo_battle_621	battle	式神	621		31	0	107.7	18,3,3,3,2,2	0.20	6.87
+vo_battle_6210001	battle	式神	6210001		11	0	51.0	5,2,2,2	1.38	11.09
+vo_battle_622	battle	式神	622		25	0	88.3	15,3,3,2,2	0.41	8.83
+vo_battle_623	battle	式神	623		27	0	88.5	13,3,3,3,3,2	0.24	6.82
+vo_battle_6230001	battle	式神	6230001		11	0	59.9	5,2,2,2	2.99	9.11
+vo_battle_624	battle	式神	624		27	0	107.9	13,3,3,3,3,2	0.40	8.35
+vo_battle_6240001	battle	式神	6240001		11	0	55.1	5,2,2,2	0.46	10.50
+vo_battle_625	battle	式神	625		27	0	91.7	13,3,3,3,3,2	0.24	8.29
+vo_battle_626	battle	式神	626		23	0	48.3	13,3,3,2,2	0.21	6.19
+vo_battle_627	battle	式神	627		26	0	49.9	12,3,3,3,3,2	0.40	5.27
+vo_battle_628	battle	式神	628		26	0	68.6	12,3,3,3,3,2	0.50	6.96
+vo_battle_629	battle	式神	629		26	0	93.7	12,3,3,3,3,2	0.25	9.12
+vo_battle_6290001	battle	式神	6290001		11	0	47.4	5,2,2,2	2.02	7.20
+vo_battle_630	battle	式神	630		27	0	59.5	13,3,3,3,3,2	0.38	6.29
+vo_battle_6300001	battle	式神	6300001		11	0	39.8	5,2,2,2	1.92	5.83
+vo_battle_631	battle	式神	631		27	0	104.2	13,3,3,3,3,2	0.27	11.58
+vo_battle_6310001	battle	式神	6310001		11	0	46.7	5,2,2,2	1.73	7.48
+vo_battle_632	battle	式神	632		27	0	54.5	12,4,3,2,2,2,2	0.25	4.08
+vo_battle_633	battle	式神	633		24	0	67.9	13,3,3,3,2	0.20	5.75
+vo_battle_634	battle	式神	634		27	0	80.1	13,3,3,3,3,2	0.20	7.37
+vo_battle_635	battle	式神	635		30	0	64.8	16,3,3,3,3,2	0.48	5.42
+vo_battle_636	battle	式神	636		27	0	73.8	13,3,3,3,3,2	0.19	5.68
+vo_battle_637	battle	式神	637		25	0	53.2	12,3,3,3,2,2	0.35	5.00
+vo_battle_638	battle	式神	638		25	0	58.6	12,3,3,3,2,2	0.82	4.84
+vo_battle_639	battle	式神	639		31	0	101.3	18,3,3,3,2,2	0.32	7.74
+vo_battle_640	battle	式神	640		27	0	78.0	13,3,3,3,3,2	0.37	8.31
+vo_battle_641	battle	式神	641		26	0	88.2	12,3,3,3,3,2	0.18	7.48
+vo_battle_642	battle	式神	642		23	0	49.7	14,4,3,2	0.59	5.16
+vo_battle_643	battle	式神	643		22	0	57.8	14,3,3,2	0.38	4.65
+vo_battle_644	battle	式神	644		22	0	62.2	14,3,3,2	0.28	7.58
+vo_battle_645	battle	式神	645		27	0	80.5	13,3,3,3,3,2	0.41	6.24
+vo_battle_6450001	battle	式神	6450001		13	0	33.9	4,3,2,2,2	0.29	5.19
+vo_battle_646	battle	式神	646		22	0	59.8	14,3,3,2	0.69	5.24
+vo_battle_647	battle	式神	647		29	0	78.9	15,3,3,3,3,2	0.27	5.54
+vo_battle_6470001	battle	式神	6470001		11	0	34.7	5,2,2,2	1.67	6.54
+vo_battle_648	battle	式神	648		27	0	79.3	13,3,3,3,3,2	0.30	6.73
+vo_battle_649	battle	式神	649		26	0	58.8	12,3,3,3,3,2	0.27	6.06
+vo_battle_650	battle	式神	650		26	0	58.2	12,3,3,3,3,2	0.16	6.80
+vo_battle_651	battle	式神	651		26	0	64.0	12,3,3,3,3,2	0.18	5.03
+vo_battle_652	battle	式神	652		26	0	93.4	12,3,3,3,3,2	0.12	8.00
+vo_battle_653	battle	式神	653		39	0	125.9	32,3,2,2	0.60	7.36
+vo_battle_654	battle	式神	654		24	0	74.0	13,3,3,3,2	0.22	8.42
+vo_battle_655	battle	式神	655		20	0	55.2	15,3,2	0.22	7.08
+vo_battle_656	battle	式神	656		26	0	85.6	13,6,3,2,2	1.16	9.11
+vo_battle_657	battle	式神	657		24	0	78.8	13,3,3,3,2	0.30	7.31
+vo_battle_6570001	battle	式神	6570001		11	0	40.5	5,2,2,2	2.26	5.65
+vo_battle_658	battle	式神	658		24	0	61.8	13,3,3,3,2	0.23	5.28
+vo_battle_659	battle	式神	659		22	0	65.3	14,3,3,2	1.25	5.31
+vo_battle_6590001	battle	式神	6590001		11	0	36.9	5,2,2,2	1.29	5.19
+vo_battle_660	battle	式神	660		20	0	77.1	15,3,2	1.12	6.00
+vo_battle_661	battle	式神	661		24	0	71.5	14,3,3,2,2	0.55	6.33
+vo_battle_662	battle	式神	662		22	0	52.2	14,3,3,2	0.28	6.18
+vo_battle_663	battle	式神	663		27	0	63.0	12,4,3,3,3,2	0.23	4.14
+vo_battle_664	battle	式神	664		24	0	62.0	13,3,3,3,2	0.25	7.68
+vo_battle_665	battle	式神	665		25	0	51.7	14,3,3,3,2	0.12	4.26
+vo_battle_666	battle	式神	666		20	0	65.2	14,2,2,2	0.82	6.80
+vo_battle_667	battle	式神	667		20	0	39.0	15,3,2	0.17	4.67
+vo_battle_669	battle	式神	669		28	0	87.7	14,3,3,3,3,2	0.21	7.84
+vo_battle_670	battle	式神	670		21	0	51.0	13,2,2,2,2	0.08	8.62
+vo_battle_671	battle	式神	671		25	0	52.0	13,3,3,2,2,2	0.12	7.40
+vo_battle_672	battle	式神	672		24	0	61.4	14,2,2,2,2,2	0.18	6.70
+vo_battle_673	battle	式神	673		21	0	61.3	15,2,2,2	0.41	6.55
+vo_battle_75103_lianyou2	battle	式神	75103	lianyou2	10	0	8.9	5,3,2	0.27	3.01
+vo_battle_75115_fanqie	battle	式神	75115	fanqie	15	0	11.5	6,5,4	0.37	2.50
+vo_battle_75212_lianyou1	battle	式神	75212	lianyou1	14	0	20.9	6,5,3	0.31	4.38
+vo_battle_75217_daomuxiaogui	battle	式神	75217	daomuxiaogui	5	0	5.5	2,2,1	0.47	2.89
+vo_battle_75307_tianxiegui_blue	battle	式神	75307	tianxiegui_blue	8	0	8.0	5,2,1	0.36	1.76
+vo_battle_75308_tianxiegui_red	battle	式神	75308	tianxiegui_red	15	0	15.3	6,4,3,2	0.23	1.85
+vo_battle_75312_lianyou3	battle	式神	75312	lianyou3	12	0	14.9	5,4,3	0.42	3.38
+vo_battle_75313_denglonggui	battle	式神	75313	denglonggui	14	0	8.9	5,5,4	0.26	1.43
+vo_battle_75401_tangzhisanyao	battle	式神	75401	tangzhisanyao	9	0	10.5	5,2,2	0.33	2.60
+vo_battle_75407_tianxiegui_yellow	battle	式神	75407	tianxiegui_yellow	23	0	21.2	9,5,5,4	0.29	1.59
+vo_battle_75411_tianxiegui_green	battle	式神	75411	tianxiegui_green	5	0	5.4	3,1,1	0.54	1.45
+vo_battle_75501_chishe	battle	式神	75501	chishe	9	0	11.3	6,2,1	0.52	2.80
+vo_battle_75502_duyanxiaoseng	battle	式神	75502	duyanxiaoseng	11	0	12.9	5,4,2	0.24	3.36
+vo_battle_75504_jishenghun	battle	式神	75504	jishenghun	8	0	11.5	4,3,1	0.72	4.31
+vo_battle_75509_tidengxiaoseng	battle	式神	75509	tidengxiaoseng	5	0	5.5	2,2,1	0.45	1.87
+vo_battle_player_108_taohuayao	battle	玩家	108	taohuayao	4	0	10.3	4	1.16	4.08
+vo_battle_player_111_cimutongzi	battle	玩家	111	cimutongzi	8	0	14.4	8	0.53	2.66
+vo_battle_player_1180001_yimulian	battle	玩家	1180001	yimulian	8	0	17.4	8	0.48	3.57
+vo_battle_player_118_yimulian	battle	玩家	118	yimulian	8	0	17.9	8	0.31	3.50
+vo_battle_player_1190001_shuweng	battle	玩家	1190001	shuweng	4	0	16.1	4	2.99	4.64
+vo_battle_player_119_shuweng	battle	玩家	119	shuweng	4	0	12.8	4	1.87	4.42
+vo_battle_player_127_shantu	battle	玩家	127	shantu	4	0	9.1	4	0.79	4.61
+vo_battle_player_167_buzhihuo_sp	battle	玩家	167	buzhihuo_sp	4	0	8.3	4	0.36	3.73
+vo_battle_player_168_tianjingxia	battle	玩家	168	tianjingxia	10	0	22.6	6,2,2	0.94	2.95
+vo_battle_player_170_bianhua	battle	玩家	170	bianhua	8	0	28.4	8	0.90	6.07
+vo_battle_player_173_xixueji	battle	玩家	173	xixueji	8	0	20.6	8	0.62	4.50
+vo_battle_player_175_shanfeng	battle	玩家	175	shanfeng	9	0	19.8	7,2	0.97	3.97
+vo_battle_player_176_huiyeji	battle	玩家	176	huiyeji	8	0	22.4	8	1.54	3.79
+vo_battle_player_177_longyechaji	battle	玩家	177	longyechaji	8	0	21.1	8	0.33	4.64
+vo_battle_player_179_jiuciliang	battle	玩家	179	jiuciliang	8	0	30.7	8	0.93	5.88
+vo_battle_player_18032_lingluyuqian	battle	玩家	18032	lingluyuqian	8	0	23.7	8	2.09	4.79
+vo_battle_player_181_renmianshu	battle	玩家	181	renmianshu	8	0	27.0	8	0.69	7.02
+vo_battle_player_182_midouzi	battle	玩家	182	midouzi	6	0	5.1	2,2,2	0.65	1.36
+vo_battle_player_182_tanzhilang	battle	玩家	182	tanzhilang	4	0	7.9	4	1.46	2.27
+vo_battle_player_183_tiaotiaogege	battle	玩家	183	tiaotiaogege	8	0	24.4	8	1.44	4.71
+vo_battle_player_184_yinghuayao	battle	玩家	184	yinghuayao	8	0	22.2	8	1.06	4.36
+vo_battle_player_18536_sanmu	battle	玩家	18536	sanmu	8	0	17.3	8	1.13	3.10
+vo_battle_player_185_sanmu	battle	玩家	185	sanmu	8	0	23.9	8	1.38	6.18
+vo_battle_player_186_xun	battle	玩家	186	xun	8	0	22.9	8	1.59	3.52
+vo_battle_player_187_shimengmo	battle	玩家	187	shimengmo	8	0	25.2	8	1.54	4.59
+vo_battle_player_188_duyanxiaoseng	battle	玩家	188	duyanxiaoseng	8	0	24.5	8	1.32	4.25
+vo_battle_player_189_yuzhuanjin	battle	玩家	189	yuzhuanjin	8	0	13.6	8	0.34	2.60
+vo_battle_player_190_dayuewan	battle	玩家	190	dayuewan	8	0	16.8	8	0.50	3.16
+vo_battle_player_191_guiqie	battle	玩家	191	guiqie	8	0	17.1	8	0.45	3.06
+vo_battle_player_192_wugushi	battle	玩家	192	wugushi	8	0	34.6	8	1.91	6.12
+vo_battle_player_193_wushizhiling	battle	玩家	193	wushizhiling	8	0	17.5	8	1.04	4.08
+vo_battle_player_194_guishibai	battle	玩家	194	guishibai	8	0	14.3	8	0.83	3.53
+vo_battle_player_194_guishihei	battle	玩家	194	guishihei	8	0	21.9	8	0.81	4.67
+vo_battle_player_196_baimugui	battle	玩家	196	baimugui	8	0	18.4	8	0.92	3.99
+vo_battle_player_197_zhuiyueshen	battle	玩家	197	zhuiyueshen	8	0	15.1	8	0.45	3.16
+vo_battle_player_204_huoqumo	battle	玩家	204	huoqumo	8	0	21.6	8	1.21	3.65
+vo_battle_player_205_yuanjiulanghu	battle	玩家	205	yuanjiulanghu	8	0	19.6	8	1.28	4.84
+vo_battle_player_206_jingliuliyuqian	battle	玩家	206	jingliuliyuqian	8	0	20.8	8	0.65	4.84
+vo_battle_player_207_yingxueji	battle	玩家	207	yingxueji	8	0	14.6	8	1.11	4.24
+vo_battle_player_2080001_mianlingqi	battle	玩家	2080001	mianlingqi	8	0	21.6	8	1.10	4.79
+vo_battle_player_208_mianlingqi	battle	玩家	208	mianlingqi	8	0	20.4	8	1.04	4.09
+vo_battle_player_209_huibishou	battle	玩家	209	huibishou	8	0	21.8	8	1.08	3.98
+vo_battle_player_210_xieji	battle	玩家	210	xieji	8	0	18.3	8	1.32	3.13
+vo_battle_player_211_gouchang	battle	玩家	211	gouchang	8	0	15.4	8	1.13	2.54
+vo_battle_player_212_tieshu	battle	玩家	212	tieshu	8	0	18.3	8	1.18	4.13
+vo_battle_player_214_guitongwan	battle	玩家	214	guitongwan	8	0	19.4	8	0.74	4.01
+vo_battle_player_215_bore	battle	玩家	215	bore	8	0	20.8	8	1.09	3.64
+vo_battle_player_216_yuanjieshen	battle	玩家	216	yuanjieshen	8	0	26.6	8	1.38	4.05
+vo_battle_player_217_egui	battle	玩家	217	egui	8	0	21.0	8	1.06	4.90
+vo_battle_player_220_baqidashe	battle	玩家	220	baqidashe	8	0	26.3	8	0.93	6.21
+vo_battle_player_221_yuzaoqian	battle	玩家	221	yuzaoqian	8	0	15.7	8	0.46	4.88
+vo_battle_player_221_yuzaoqian_nv	battle	玩家	221	yuzaoqian_nv	9	0	24.9	7,2	0.91	5.27
+vo_battle_player_224_axiuluo	battle	玩家	224	axiuluo	8	0	25.1	8	0.94	5.27
+vo_battle_player_225_dishitian	battle	玩家	225	dishitian	8	0	16.2	8	0.43	3.17
+vo_battle_player_226_huangkulou	battle	玩家	226	huangkulou	8	0	12.3	8	0.48	2.40
+vo_battle_player_227_jinyuji	battle	玩家	227	jinyuji	8	0	16.1	8	0.96	2.83
+vo_battle_player_228_tengji_adult	battle	玩家	228	tengji_adult	8	0	16.9	8	0.83	3.46
+vo_battle_player_228_tengji_kid	battle	玩家	228	tengji_kid	8	0	17.3	8	0.85	3.38
+vo_battle_player_229_huaniaojuan	battle	玩家	229	huaniaojuan	8	0	29.9	8	1.12	5.93
+vo_battle_player_230_yanmo	battle	玩家	230	yanmo	8	0	23.1	8	0.85	4.41
+vo_battle_player_231_kuileishi	battle	玩家	231	kuileishi	8	0	21.9	8	1.13	5.56
+vo_battle_player_232_fengli	battle	玩家	232	fengli	8	0	20.4	8	1.25	3.39
+vo_battle_player_233_baizangzhu	battle	玩家	233	baizangzhu	8	0	22.7	8	1.42	4.45
+vo_battle_player_235_guanhu	battle	玩家	235	guanhu	8	0	25.5	8	1.83	4.40
+vo_battle_player_236_rulianshi	battle	玩家	236	rulianshi	8	0	20.6	8	1.00	4.09
+vo_battle_player_238_liangmianfo	battle	玩家	238	liangmianfo	16	0	54.1	2,2,2,2,2,2,2,2	1.35	4.43
+vo_battle_player_239_yi	battle	玩家	239	yi	8	0	19.4	8	1.02	4.35
+vo_battle_player_240_heitongzi	battle	玩家	240	heitongzi	8	0	18.6	8	0.86	3.16
+vo_battle_player_241_baitongzi	battle	玩家	241	baitongzi	8	0	20.4	8	1.29	3.98
+vo_battle_player_242_yunwaijing	battle	玩家	242	yunwaijing	9	0	21.1	7,2	1.01	3.67
+vo_battle_player_243_xiazhongshaonv	battle	玩家	243	xiazhongshaonv	8	0	25.0	8	1.62	6.68
+vo_battle_player_244_song_a	battle	玩家	244	song_a	8	0	18.6	8	0.89	3.66
+vo_battle_player_244_song_b	battle	玩家	244	song_b	8	0	21.0	8	0.81	4.26
+vo_battle_player_245_xiaosongwan	battle	玩家	245	xiaosongwan	8	0	21.4	8	1.73	4.63
+vo_battle_player_246_maoyou	battle	玩家	246	maoyou	8	0	17.6	8	0.64	3.08
+vo_battle_player_2470001_qianji	battle	玩家	2470001	qianji	8	0	20.1	8	0.82	4.22
+vo_battle_player_247_qianji	battle	玩家	247	qianji	8	0	13.6	8	0.77	3.20
+vo_battle_player_248_limao	battle	玩家	248	limao	8	0	26.4	8	1.11	4.31
+vo_battle_player_249_yixigong	battle	玩家	249	yixigong	8	0	23.2	8	1.15	4.61
+vo_battle_player_250_tuwan	battle	玩家	250	tuwan	8	0	25.2	8	1.03	5.26
+vo_battle_player_251_xingxiongtongzi	battle	玩家	251	xingxiongtongzi	8	0	15.9	8	1.00	2.89
+vo_battle_player_252_wuwan	battle	玩家	252	wuwan	8	0	21.4	8	1.13	4.80
+vo_battle_player_253_shiling	battle	玩家	253	shiling	8	0	14.9	8	1.02	2.71
+vo_battle_player_256_jinnaluo	battle	玩家	256	jinnaluo	8	0	23.9	8	0.98	4.77
+vo_battle_player_256_jinnaluo_sp	battle	玩家	256	jinnaluo_sp	8	0	23.4	8	1.24	5.73
+vo_battle_player_257_runeique	battle	玩家	257	runeique	8	0	20.7	8	1.02	3.92
+vo_battle_player_258_choushizhinv	battle	玩家	258	choushizhinv	8	0	29.4	8	1.30	5.64
+vo_battle_player_2630001_lingyanji	battle	玩家	2630001	lingyanji	4	0	6.9	3,1	0.94	2.36
+vo_battle_player_263_lingyanji	battle	玩家	263	lingyanji	8	0	17.1	8	1.11	3.69
+vo_battle_player_264_jicanghai	battle	玩家	264	jicanghai	4	0	9.2	4	1.03	3.21
+vo_battle_player_265_wuchen	battle	玩家	265	wuchen	4	0	10.5	4	1.52	3.91
+vo_battle_player_266_ninghongye	battle	玩家	266	ninghongye	4	0	7.6	4	0.55	3.63
+vo_battle_player_2670001_hutao	battle	玩家	2670001	hutao	4	0	10.1	4	1.53	3.79
+vo_battle_player_267_hutao	battle	玩家	267	hutao	4	0	9.8	4	1.68	3.38
+vo_battle_player_269_shuzhu	battle	玩家	269	shuzhu	9	0	26.1	7,2	1.05	4.75
+vo_battle_player_272_sanweihu	battle	玩家	272	sanweihu	8	0	24.2	8	1.23	5.27
+vo_battle_player_2730001_baize	battle	玩家	2730001	baize	8	0	30.2	8	0.80	5.93
+vo_battle_player_273_baize	battle	玩家	273	baize	8	0	28.8	8	0.97	7.51
+vo_battle_player_2760001_yitiao	battle	玩家	2760001	yitiao	8	0	21.5	8	1.02	4.92
+vo_battle_player_276_yitiao	battle	玩家	276	yitiao	8	0	21.6	8	1.48	4.05
+vo_battle_player_2810001_xuzuozhinan	battle	玩家	2810001	xuzuozhinan	4	0	12.6	4	1.71	3.97
+vo_battle_player_281_xuzuozhinan	battle	玩家	281	xuzuozhinan	4	0	7.7	4	1.16	3.05
+vo_battle_player_2840001_xienv	battle	玩家	2840001	xienv	4	0	10.2	4	1.08	4.16
+vo_battle_player_284_xienv	battle	玩家	284	xienv	4	0	9.3	4	1.37	3.87
+vo_battle_player_2870001_linghaidie	battle	玩家	2870001	linghaidie	4	0	13.3	4	1.57	6.37
+vo_battle_player_287_linghaidie	battle	玩家	287	linghaidie	4	0	20.1	4	3.50	6.71
+vo_battle_player_2880001_xunxiangxing	battle	玩家	2880001	xunxiangxing	4	0	12.1	4	1.46	4.44
+vo_battle_player_288_xunxiangxing	battle	玩家	288	xunxiangxing	4	0	12.0	4	2.64	3.55
+vo_battle_player_2890001_yaodaojizhouren	battle	玩家	2890001	yaodaojizhouren	4	0	11.2	4	1.41	5.83
+vo_battle_player_289_yaodaojizhouren	battle	玩家	289	yaodaojizhouren	4	0	14.5	4	1.88	4.50
+vo_battle_player_290_datiangougangfeng	battle	玩家	290	datiangougangfeng	4	0	15.7	4	2.57	5.86
+vo_battle_player_2910001_qingxingdenghuihuo	battle	玩家	2910001	qingxingdenghuihuo	4	0	11.2	4	1.31	4.24
+vo_battle_player_291_qingxingdenghuihuo	battle	玩家	291	qingxingdenghuihuo	4	0	16.6	4	2.59	6.48
+vo_battle_player_292_quanshenbailian	battle	玩家	292	quanshenbailian	4	0	17.2	4	2.05	6.49
+vo_battle_player_292_quanshenlizhan	battle	玩家	292	quanshenlizhan	4	0	17.2	4	2.05	6.49
+vo_battle_player_298_shenqilou	battle	玩家	298	shenqilou	4	0	8.3	4	1.31	2.84
+vo_battle_player_298_shenqilou_nv	battle	玩家	298	shenqilou_nv	4	0	9.5	4	1.77	3.28
+vo_battle_player_298_shenqilou_ying	battle	玩家	298	shenqilou_ying	4	0	10.9	4	1.59	3.43
+vo_battle_player_299_qingfangzhufanchen	battle	玩家	299	qingfangzhufanchen	4	0	6.4	4	0.89	2.16
+vo_battle_player_30006_qianji	battle	玩家	30006	qianji	8	0	23.7	8	0.91	3.92
+vo_battle_player_6020001_jiutuntongziwangkong	battle	玩家	6020001	jiutuntongziwangkong	4	0	8.4	4	1.26	3.73
+vo_battle_player_602_jiutuntongziwangkong	battle	玩家	602	jiutuntongziwangkong	4	0	8.5	4	1.40	3.03
+vo_battle_player_604_ji	battle	玩家	604	ji	4	0	25.2	4	3.78	10.29
+vo_battle_player_6050001_kongquemingwang	battle	玩家	6050001	kongquemingwang	4	0	10.8	4	1.30	3.64
+vo_battle_player_605_kongquemingwang	battle	玩家	605	kongquemingwang	4	0	17.6	4	1.77	7.26
+vo_battle_player_606_jiaotu	battle	玩家	606	jiaotu	4	0	9.1	4	1.94	2.71
+vo_battle_player_607_cimutongzilvli	battle	玩家	607	cimutongzilvli	4	0	20.2	4	2.10	7.06
+vo_battle_player_6100001_guhuoniaoyuxiang	battle	玩家	6100001	guhuoniaoyuxiang	4	0	9.8	4	1.63	3.44
+vo_battle_player_610_guhuoniaoyuxiang	battle	玩家	610	guhuoniaoyuxiang	4	0	15.0	4	1.66	6.29
+vo_battle_player_6120001_taohuayaoluoying	battle	玩家	6120001	taohuayaoluoying	4	0	12.6	4	2.58	4.28
+vo_battle_player_612_taohuayaoluoying	battle	玩家	612	taohuayaoluoying	4	0	11.5	4	1.89	4.63
+vo_battle_player_6130001_yimulianlinglai	battle	玩家	6130001	yimulianlinglai	4	0	11.7	4	2.08	3.94
+vo_battle_player_613_yimulianlinglai	battle	玩家	613	yimulianlinglai	4	0	15.5	4	2.76	5.31
+vo_battle_player_6140001_yanling	battle	玩家	6140001	yanling	4	0	13.4	4	2.04	6.44
+vo_battle_player_614_yanling	battle	玩家	614	yanling	4	0	13.9	4	2.23	4.82
+vo_battle_player_6150001_fangshi	battle	玩家	6150001	fangshi	4	0	15.5	4	2.24	6.25
+vo_battle_player_6150001_langyazi	battle	玩家	6150001	langyazi	4	0	15.5	4	2.24	6.25
+vo_battle_player_615_fangshi	battle	玩家	615	fangshi	4	0	15.6	4	2.72	6.11
+vo_battle_player_615_langyazi	battle	玩家	615	langyazi	4	0	15.6	4	2.72	6.11
+vo_battle_player_6160001_shantuzuofutongzi_s	battle	玩家	6160001	shantuzuofutongzi_s	4	0	13.0	4	1.29	4.88
+vo_battle_player_6160001_shantuzuofutongzi_z	battle	玩家	6160001	shantuzuofutongzi_z	4	0	11.1	4	1.16	4.94
+vo_battle_player_616_shantuzuofutongzi_s	battle	玩家	616	shantuzuofutongzi_s	4	0	5.0	4	0.58	1.54
+vo_battle_player_616_shantuzuofutongzi_z	battle	玩家	616	shantuzuofutongzi_z	4	0	9.9	4	1.69	3.74
+vo_battle_player_6170001_huangqiming	battle	玩家	6170001	huangqiming	4	0	13.3	4	1.48	5.11
+vo_battle_player_617_huangqiming	battle	玩家	617	huangqiming	4	0	16.1	4	2.46	5.67
+vo_battle_player_6180001_zhuiyueshenshuiyue	battle	玩家	6180001	zhuiyueshenshuiyue	4	0	16.9	4	1.90	5.81
+vo_battle_player_618_zhuiyueshenshuiyue	battle	玩家	618	zhuiyueshenshuiyue	4	0	8.7	4	1.62	2.93
+vo_battle_player_6210001_chen	battle	玩家	6210001	chen	4	0	21.0	4	1.38	11.60
+vo_battle_player_621_chen	battle	玩家	621	chen	4	0	15.4	4	2.85	5.95
+vo_battle_player_6230001_tianzhao	battle	玩家	6230001	tianzhao	4	0	16.1	4	2.45	6.23
+vo_battle_player_623_tianzhao	battle	玩家	623	tianzhao	4	0	16.0	4	2.93	5.37
+vo_battle_player_6240001_wushizhilingmaoshi	battle	玩家	6240001	wushizhilingmaoshi	4	0	22.3	4	2.15	7.50
+vo_battle_player_624_wushizhilingmaoshi	battle	玩家	624	wushizhilingmaoshi	4	0	24.2	4	4.13	8.86
+vo_battle_player_6290001_mianlingqixinsu	battle	玩家	6290001	mianlingqixinsu	4	0	19.2	4	2.72	7.14
+vo_battle_player_6290002_mianlingqixinsu	battle	玩家	6290002	mianlingqixinsu	4	0	18.6	4	4.14	5.15
+vo_battle_player_629_mianlingqixinsu	battle	玩家	629	mianlingqixinsu	4	0	18.3	4	2.70	7.00
+vo_battle_player_6300001_yingcaopupu	battle	玩家	6300001	yingcaopupu	4	0	15.8	4	2.86	5.96
+vo_battle_player_630_yingcaopupu	battle	玩家	630	yingcaopupu	4	0	15.2	4	2.42	7.09
+vo_battle_player_6310001_ertong	battle	玩家	6310001	ertong	4	0	19.5	4	3.96	6.04
+vo_battle_player_631_ertong	battle	玩家	631	ertong	4	0	16.5	4	2.17	5.13
+vo_battle_player_640_youning	battle	玩家	640	youning	4	0	18.7	4	3.26	7.61
+vo_battle_player_641_alaina	battle	玩家	641	alaina	4	0	15.8	4	1.51	5.41
+vo_battle_player_6450001_sibing	battle	玩家	6450001	sibing	4	0	17.5	4	2.57	5.73
+vo_battle_player_645_sibing	battle	玩家	645	sibing	4	0	18.9	4	2.98	6.78
+vo_battle_player_6470001_chili	battle	玩家	6470001	chili	4	0	12.9	4	2.01	3.96
+vo_battle_player_647_chili	battle	玩家	647	chili	4	0	10.0	4	1.76	3.50
+vo_battle_player_6480001_yuanjieshensuiyuan	battle	玩家	6480001	yuanjieshensuiyuan	4	0	10.5	4	1.54	3.40
+vo_battle_player_651_baizangzhulixin	battle	玩家	651	baizangzhulixin	4	0	12.1	4	1.58	5.44
+vo_battle_player_654_longjue	battle	玩家	654	longjue	4	0	19.3	4	3.71	6.09
+vo_battle_player_655_fengyangjun	battle	玩家	655	fengyangjun	4	0	14.3	4	2.52	4.39
+vo_battle_player_656_chanxinyunwaijing	battle	玩家	656	chanxinyunwaijing	4	0	13.9	4	2.43	5.41
+vo_battle_player_6570001_pinfashen	battle	玩家	6570001	pinfashen	4	0	13.8	4	2.11	4.41
+vo_battle_player_657_pinfashen	battle	玩家	657	pinfashen	4	0	16.8	4	1.92	6.97
+vo_battle_player_6580001_maozhangguihuanyan	battle	玩家	6580001	maozhangguihuanyan	4	0	9.5	4	1.95	3.04
+vo_battle_player_658_maozhangguihuanyan	battle	玩家	658	maozhangguihuanyan	4	0	9.5	4	1.95	3.04
+vo_battle_player_6590001_zhaocaimao	battle	玩家	6590001	zhaocaimao	4	0	10.1	4	1.94	3.17
+vo_battle_player_659_zhaocaimao	battle	玩家	659	zhaocaimao	4	0	13.4	4	3.02	3.72
+vo_battle_player_660_jintianyuzaoqian	battle	玩家	660	jintianyuzaoqian	4	0	13.9	4	2.13	5.02
+vo_battle_player_661_geliuduo	battle	玩家	661	geliuduo	4	0	30.3	4	2.51	16.39
+vo_battle_player_664_yinghuayaolijing	battle	玩家	664	yinghuayaolijing	4	0	10.8	4	1.11	3.84
+vo_battle_player_665_fenghuanghuojingyu	battle	玩家	665	fenghuanghuojingyu	4	0	11.2	4	2.05	3.50
+vo_battle_player_666_yinfanhuiyeji	battle	玩家	666	yinfanhuiyeji	4	0	14.8	4	2.44	5.22
+vo_battle_player_669_baizeyuanqi	battle	玩家	669	baizeyuanqi	4	0	16.3	4	2.39	7.51
+vo_battle_player_670_shenqihuang	battle	玩家	670	shenqihuang	4	0	19.9	4	3.75	7.77
+vo_battle_player_671_beimihu	battle	玩家	671	beimihu	4	0	15.2	4	2.14	5.19
+vo_battle_player_672_shiyaolongyechaji	battle	玩家	672	shiyaolongyechaji	4	0	23.3	4	3.21	8.16
+vo_battle_player_673_yuyanbore	battle	玩家	673	yuyanbore	4	0	14.0	4	0.97	5.85
+vo_battle_player_buzhihuo	battle	玩家		buzhihuo	7	0	10.3	7	1.19	1.74
+vo_battle_player_buzhihuopifu	battle	玩家		buzhihuopifu	4	0	15.5	4	2.57	6.16
+vo_battle_player_huang	battle	玩家		huang	8	0	25.3	8	0.54	5.22
+vo_battle_player_lingluyuqian	battle	玩家		lingluyuqian	8	0	18.2	8	0.81	3.19
+vo_battle_player_nianshou_child	battle	玩家		nianshou_child	9	0	5.8	3,2,2,2	0.34	1.93
+vo_battle_player_shaoyudatiangou	battle	玩家		shaoyudatiangou	9	0	22.7	9	1.23	3.87
+vo_battle_player_sp_wuwan	battle	玩家		sp_wuwan	8	0	22.0	8	1.92	5.02
+vo_battle_player_yixigong	battle	玩家		yixigong	8	0	23.2	8	1.15	4.61
+vo_battle_player_yuanjieshen	battle	玩家		yuanjieshen	9	0	23.5	9	0.67	4.83
+vo_biography	biography	式神			87	87	0.0	3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3	0.00	0.00
+vo_biography_133_lianyou	biography	式神	133	lianyou	3	3	0.0	3	0.00	0.00
+vo_biography_139_yatiangou	biography	式神	139	yatiangou	3	3	0.0	3	0.00	0.00
+vo_biography_163_xiaolunan	biography	式神	163	xiaolunan	3	3	0.0	3	0.00	0.00
+vo_biography_164_yanyanluo	biography	式神	164	yanyanluo	3	3	0.0	3	0.00	0.00
+vo_biography_166_rihefang	biography	式神	166	rihefang	3	3	0.0	3	0.00	0.00
+vo_biography_167_buzhihuo	biography	式神	167	buzhihuo	3	3	0.0	3	0.00	0.00
+vo_biography_168_tianjingxia	biography	式神	168	tianjingxia	3	3	0.0	3	0.00	0.00
+vo_biography_170_bianhua	biography	式神	170	bianhua	3	3	0.0	3	0.00	0.00
+vo_biography_171_mengpo	biography	式神	171	mengpo	3	3	0.0	3	0.00	0.00
+vo_biography_173_xixueji	biography	式神	173	xixueji	3	3	0.0	3	0.00	0.00
+vo_biography_175_shanfeng	biography	式神	175	shanfeng	3	3	0.0	3	0.00	0.00
+vo_biography_176_huiyeji	biography	式神	176	huiyeji	3	3	0.0	3	0.00	0.00
+vo_biography_177_longyechaji	biography	式神	177	longyechaji	3	3	0.0	3	0.00	0.00
+vo_biography_178_huang	biography	式神	178	huang	3	3	0.0	3	0.00	0.00
+vo_biography_179_jiuciliang	biography	式神	179	jiuciliang	3	3	0.0	3	0.00	0.00
+vo_biography_180_lingluyuqian	biography	式神	180	lingluyuqian	3	3	0.0	3	0.00	0.00
+vo_biography_181_renmianshu	biography	式神	181	renmianshu	3	3	0.0	3	0.00	0.00
+vo_biography_182_tanzhilang	biography	式神	182	tanzhilang	3	0	137.9	3	29.76	66.87
+vo_biography_183_tiaotiaogege	biography	式神	183	tiaotiaogege	3	3	0.0	3	0.00	0.00
+vo_biography_184_yinghuayao	biography	式神	184	yinghuayao	3	3	0.0	3	0.00	0.00
+vo_biography_185_sanmu	biography	式神	185	sanmu	3	0	193.8	3	50.06	89.00
+vo_biography_186_xun	biography	式神	186	xun	3	0	143.1	3	42.88	52.22
+vo_biography_187_shimengmo	biography	式神	187	shimengmo	3	3	0.0	3	0.00	0.00
+vo_biography_188_duyanxiaoseng	biography	式神	188	duyanxiaoseng	3	0	122.2	3	34.30	45.89
+vo_biography_189_yuzhuanjin	biography	式神	189	yuzhuanjin	3	0	260.2	3	75.44	102.57
+vo_biography_190_dayuewan	biography	式神	190	dayuewan	3	0	180.8	3	42.27	70.42
+vo_biography_191_guiqie	biography	式神	191	guiqie	3	0	161.3	3	36.25	73.38
+vo_biography_192_wugushi	biography	式神	192	wugushi	3	3	0.0	3	0.00	0.00
+vo_biography_193_wushizhiling	biography	式神	193	wushizhiling	3	3	0.0	3	0.00	0.00
+vo_biography_194_guishiheibai	biography	式神	194	guishiheibai	6	6	0.0	2,2,2	0.00	0.00
+vo_biography_196_baimugui	biography	式神	196	baimugui	3	3	0.0	3	0.00	0.00
+vo_biography_197_zhuiyueshen	biography	式神	197	zhuiyueshen	3	3	0.0	3	0.00	0.00
+vo_biography_201_jiumingmao	biography	式神	201	jiumingmao	3	0	89.5	3	24.76	35.95
+vo_biography_204_huoqumo	biography	式神	204	huoqumo	3	0	114.4	3	35.78	40.79
+vo_biography_205_yuanjiulanghu	biography	式神	205	yuanjiulanghu	3	0	115.2	3	29.94	47.62
+vo_biography_206_jingliuliyuqian	biography	式神	206	jingliuliyuqian	3	0	295.0	3	86.06	120.45
+vo_biography_207_yingxueji	biography	式神	207	yingxueji	3	0	205.2	3	49.26	79.17
+vo_biography_208_mianlingqi	biography	式神	208	mianlingqi	3	3	0.0	3	0.00	0.00
+vo_biography_209_huibishou	biography	式神	209	huibishou	3	0	116.8	3	27.17	47.72
+vo_biography_210_xieji	biography	式神	210	xieji	3	0	165.5	3	34.86	67.30
+vo_biography_211_gouchang	biography	式神	211	gouchang	3	0	251.8	3	60.90	96.89
+vo_biography_212_tieshu	biography	式神	212	tieshu	3	3	0.0	3	0.00	0.00
+vo_biography_213_hetong	biography	式神	213	hetong	3	3	0.0	3	0.00	0.00
+vo_biography_214_guitongwan	biography	式神	214	guitongwan	3	3	0.0	3	0.00	0.00
+vo_biography_215_bore	biography	式神	215	bore	3	3	0.0	3	0.00	0.00
+vo_biography_216_yuanjieshen	biography	式神	216	yuanjieshen	3	3	0.0	3	0.00	0.00
+vo_biography_217_egui	biography	式神	217	egui	3	0	132.6	3	31.36	58.33
+vo_biography_220_baqidashe	biography	式神	220	baqidashe	3	0	504.8	3	123.01	192.23
+vo_biography_221_yuzaoqian	biography	式神	221	yuzaoqian	3	0	198.4	3	62.25	68.90
+vo_biography_224_axiuluo	biography	式神	224	axiuluo	3	0	736.4	3	202.17	283.99
+vo_biography_225_dishitian	biography	式神	225	dishitian	3	0	724.9	3	215.24	277.06
+vo_biography_226_huangkulou	biography	式神	226	huangkulou	3	0	343.2	3	64.95	206.88
+vo_biography_227_jinyuji	biography	式神	227	jinyuji	3	0	157.9	3	39.88	68.37
+vo_biography_228_tengji	biography	式神	228	tengji	3	0	270.7	3	75.33	100.23
+vo_biography_229_huaniaojuan	biography	式神	229	huaniaojuan	3	0	131.0	3	34.40	54.10
+vo_biography_230_yanmo	biography	式神	230	yanmo	3	0	123.7	3	33.05	46.96
+vo_biography_231_kuileishi	biography	式神	231	kuileishi	3	0	130.9	3	33.32	58.17
+vo_biography_232_fengli	biography	式神	232	fengli	3	0	269.3	3	81.26	95.64
+vo_biography_233_baizangzhu	biography	式神	233	baizangzhu	3	0	273.1	3	78.79	104.21
+vo_biography_235_guanhu	biography	式神	235	guanhu	3	0	172.8	3	33.06	77.19
+vo_biography_236_rulianshi	biography	式神	236	rulianshi	3	0	167.0	3	50.71	64.65
+vo_biography_238_liangmianfo	biography	式神	238	liangmianfo	3	0	32.4	3	10.51	11.29
+vo_biography_239_yi	biography	式神	239	yi	3	0	148.6	3	39.24	59.30
+vo_biography_240_heitongzi	biography	式神	240	heitongzi	3	0	189.2	3	48.58	82.95
+vo_biography_241_baitongzi	biography	式神	241	baitongzi	3	0	254.5	3	77.20	95.40
+vo_biography_242_yunwaijing	biography	式神	242	yunwaijing	3	0	319.1	3	82.11	137.46
+vo_biography_243_xiazhongshaonv	biography	式神	243	xiazhongshaonv	3	0	176.3	3	55.97	61.14
+vo_biography_244_song	biography	式神	244	song	3	0	377.1	3	88.93	182.64
+vo_biography_245_xiaosongwan	biography	式神	245	xiaosongwan	3	0	113.9	3	28.72	47.92
+vo_biography_246_maoyou	biography	式神	246	maoyou	3	0	152.5	3	39.89	62.60
+vo_biography_247_qianji	biography	式神	247	qianji	3	0	323.6	3	104.83	113.24
+vo_biography_248_limao	biography	式神	248	limao	3	0	139.2	3	38.63	55.60
+vo_biography_249_yixigong	biography	式神	249	yixigong	3	0	650.0	3	157.27	324.73
+vo_biography_250_tuwan	biography	式神	250	tuwan	3	0	126.6	3	41.58	43.32
+vo_biography_251_xingxiongtongzi	biography	式神	251	xingxiongtongzi	3	0	237.7	3	50.33	99.03
+vo_biography_252_wuwan	biography	式神	252	wuwan	3	0	132.9	3	21.53	61.76
+vo_biography_253_shiling	biography	式神	253	shiling	3	0	371.0	3	99.83	149.09
+vo_biography_256_jinnaluo	biography	式神	256	jinnaluo	3	0	294.3	3	87.68	117.14
+vo_biography_257_runeique	biography	式神	257	runeique	3	0	320.5	3	84.72	134.06
+vo_biography_258_choushizhinv	biography	式神	258	choushizhinv	3	0	133.4	3	29.99	54.78
+vo_biography_259_guinvhongye	biography	式神	259	guinvhongye	3	0	117.0	3	34.10	41.98
+vo_biography_260_shouwu	biography	式神	260	shouwu	3	0	116.1	3	30.99	49.06
+vo_biography_261_yifanmumian	biography	式神	261	yifanmumian	3	0	226.0	3	70.04	81.91
+vo_biography_262_yecha	biography	式神	262	yecha	3	0	169.6	3	46.98	67.42
+vo_biography_263_lingyanji	biography	式神	263	lingyanji	3	0	726.0	3	159.97	332.22
+vo_biography_268_wannianzhu	biography	式神	268	wannianzhu	3	0	196.7	3	46.72	83.99
+vo_biography_269_shuzhu	biography	式神	269	shuzhu	3	0	155.7	3	41.46	68.15
+vo_biography_271_huangchuanzhizhu	biography	式神	271	huangchuanzhizhu	3	0	107.7	3	29.70	40.14
+vo_biography_272_sanweihu	biography	式神	272	sanweihu	3	0	167.3	3	43.31	75.01
+vo_biography_273_baize	biography	式神	273	baize	3	0	191.7	3	48.41	73.86
+vo_biography_274_hudiejing	biography	式神	274	hudiejing	3	0	148.1	3	42.99	56.14
+vo_biography_275_luoxinfu	biography	式神	275	luoxinfu	3	0	96.3	3	27.16	39.17
+vo_biography_276_yitiao	biography	式神	276	yitiao	3	0	109.4	3	26.28	48.16
+vo_biography_277_jialouluo	biography	式神	277	jialouluo	3	0	821.5	3	261.23	298.99
+vo_biography_278_huajing	biography	式神	278	huajing	3	0	185.1	3	45.10	83.10
+vo_biography_279_yinge	biography	式神	279	yinge	3	0	163.5	3	44.87	62.20
+vo_biography_280_bujianyue	biography	式神	280	bujianyue	3	0	371.6	3	94.23	142.16
+vo_biography_281_xuzuozhinan	biography	式神	281	xuzuozhinan	3	0	876.4	3	198.72	378.96
+vo_biography_282_liyujing	biography	式神	282	liyujing	3	0	86.1	3	25.71	33.97
+vo_biography_283_chongshi	biography	式神	283	chongshi	3	0	155.7	3	46.22	58.01
+vo_biography_284_xienv	biography	式神	284	xienv	3	0	267.9	3	78.59	105.11
+vo_biography_285_yujuchong	biography	式神	285	yujuchong	3	0	212.4	3	55.60	85.11
+vo_biography_286_hairen	biography	式神	286	hairen	3	0	437.0	3	124.96	160.51
+vo_biography_287_linghaidie	biography	式神	287	linghaidie	3	0	552.8	3	175.06	200.04
+vo_biography_288_xunxiangxing	biography	式神	288	xunxiangxing	3	0	1018.7	3	232.48	504.54
+vo_biography_293_gulonghuo	biography	式神	293	gulonghuo	3	0	88.4	3	22.00	34.43
+vo_biography_294_chuanyuan	biography	式神	294	chuanyuan	3	0	329.2	3	74.77	131.88
+vo_biography_295_erkounv	biography	式神	295	erkounv	3	0	146.4	3	40.14	63.84
+vo_biography_296_xiaoxiuzhishou	biography	式神	296	xiaoxiuzhishou	3	0	159.0	3	30.80	73.40
+vo_biography_298_shenqilou	biography	式神	298	shenqilou	3	0	364.6	3	104.42	150.16
+vo_biography_603_fenpopo	biography	式神	603	fenpopo	3	0	431.9	3	139.61	152.70
+vo_biography_604_ji	biography	式神	604	ji	3	0	1280.6	3	299.67	609.41
+vo_biography_605_kongquemingwang	biography	式神	605	kongquemingwang	3	0	159.1	3	44.56	58.92
+vo_biography_606_jiaotu	biography	式神	606	jiaotu	3	0	112.5	3	19.50	52.51
+vo_biography_608_huimingdeng	biography	式神	608	huimingdeng	3	0	570.0	3	174.43	209.61
+vo_biography_609_shifagui	biography	式神	609	shifagui	3	0	113.4	3	31.84	43.04
+vo_biography_611_tiannimei	biography	式神	611	tiannimei	3	0	381.7	3	118.96	132.31
+vo_biography_614_yanling	biography	式神	614	yanling	3	0	588.4	3	167.34	221.76
+vo_biography_615_fangshi	biography	式神	615	fangshi	3	0	518.9	3	149.21	218.04
+vo_biography_615_langyazi	biography	式神	615	langyazi	3	0	518.9	3	149.21	218.04
+vo_biography_619_gunv	biography	式神	619	gunv	3	0	160.5	3	45.76	61.51
+vo_biography_620_yunv	biography	式神	620	yunv	3	0	197.7	3	55.02	72.67
+vo_biography_621_chen	biography	式神	621	chen	3	0	169.3	3	40.51	74.53
+vo_biography_622_yuedu	biography	式神	622	yuedu	3	0	998.2	3	326.44	341.04
+vo_biography_623_tianzhao	biography	式神	623	tianzhao	3	0	814.4	3	176.02	405.93
+vo_biography_625_yixienamei	biography	式神	625	yixienamei	3	0	564.6	3	175.86	195.92
+vo_biography_626_daorenshen	biography	式神	626	daorenshen	3	0	293.2	3	70.73	119.17
+vo_biography_627_guishibai	biography	式神	627	guishibai	3	0	200.5	3	51.50	79.10
+vo_biography_628_guishihei	biography	式神	628	guishihei	3	0	106.4	3	26.35	45.05
+vo_biography_631_ertong	biography	式神	631	ertong	3	0	227.5	3	58.94	93.64
+vo_biography_633_zhiwu	biography	式神	633	zhiwu	3	0	249.3	3	76.72	87.85
+vo_biography_634_long	biography	式神	634	long	3	0	256.4	3	74.13	92.82
+vo_biography_638_fansi	biography	式神	638	fansi	3	0	282.8	3	83.29	108.59
+vo_biography_639_maochuan	biography	式神	639	maochuan	3	0	240.2	3	76.04	82.33
+vo_biography_644_huojinshen	biography	式神	644	huojinshen	3	0	138.1	3	28.80	70.91
+vo_biography_652_guijinyang	biography	式神	652	guijinyang	3	0	278.9	3	83.23	106.99
+vo_biography_653_longche	biography	式神	653	longche	3	0	215.3	3	64.02	76.76
+vo_biography_654_longjue	biography	式神	654	longjue	3	0	253.8	3	66.88	99.08
+vo_biography_655_fengyangjun	biography	式神	655	fengyangjun	3	0	208.3	3	51.05	79.17
+vo_biography_656_chanxinyunwaijing	biography	式神	656	chanxinyunwaijing	3	0	843.0	3	203.50	337.68
+vo_biography_657_pinfashen	biography	式神	657	pinfashen	3	0	248.0	3	68.73	104.29
+vo_biography_659_zhaocaimao	biography	式神	659	zhaocaimao	3	0	280.5	3	75.09	106.81
+vo_biography_660_jintianyuzaoqian	biography	式神	660	jintianyuzaoqian	3	0	229.6	3	62.65	99.90
+vo_biography_661_geliuduo	biography	式神	661	geliuduo	3	0	538.3	3	172.20	184.24
+vo_biography_662_chulingshanfeng	biography	式神	662	chulingshanfeng	3	0	410.3	3	109.03	157.33
+vo_biography_666_yinfanhuiyeji	biography	式神	666	yinfanhuiyeji	3	0	528.7	3	172.65	178.12
+vo_biography_667_daixiaoguhuoniao	biography	式神	667	daixiaoguhuoniao	3	0	363.7	3	107.89	139.30
+vo_biography_670_shenqihuang	biography	式神	670	shenqihuang	3	0	649.7	3	156.19	273.68
+vo_biography_671_beimihu	biography	式神	671	beimihu	3	0	589.4	3	153.23	259.40
+vo_biography_672_shiyaolongyechaji	biography	式神	672	shiyaolongyechaji	3	0	439.8	3	124.01	173.08
+vo_biography_673_yuyanbore	biography	式神	673	yuyanbore	3	0	303.2	3	78.91	113.58
+vo_biography_tiaotiaomeimei	biography	式神		tiaotiaomeimei	3	3	0.0	3	0.00	0.00
+vo_biography_yaohu	biography	式神		yaohu	3	3	0.0	3	0.00	0.00
+vo_emotion	emotion	式神			190	0	201.2	49,41,12,6,5,4,3,3,3,3,3,3,3,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,1,1,1,1,1,1,1,1,1,1,1,1,1,1	0.29	2.71
+vo_emotion_103_buzhihuo	emotion	式神	103	buzhihuo	22	0	18.4	22	0.28	1.63
+vo_emotion_105_datiangou	emotion	式神	105	datiangou	22	0	23.7	22	0.42	2.03
+vo_emotion_107_yingcao	emotion	式神	107	yingcao	21	0	24.5	21	0.38	1.81
+vo_emotion_108_taohuayao	emotion	式神	108	taohuayao	17	0	12.0	17	0.29	1.20
+vo_emotion_111_cimutongzi	emotion	式神	111	cimutongzi	21	0	19.4	21	0.41	2.35
+vo_emotion_118_yimulian	emotion	式神	118	yimulian	21	0	16.1	21	0.29	1.19
+vo_emotion_119_shuweng	emotion	式神	119	shuweng	42	0	42.9	42	0.34	2.63
+vo_emotion_120_jue	emotion	式神	120	jue	21	0	18.0	21	0.35	1.67
+vo_emotion_121_quanshen	emotion	式神	121	quanshen	22	0	31.0	22	0.65	3.09
+vo_emotion_126_ciqiqingwa	emotion	式神	126	ciqiqingwa	22	0	43.5	22	0.93	3.73
+vo_emotion_127_shantu	emotion	式神	127	shantu	21	0	21.1	21	0.27	1.74
+vo_emotion_128_yaoqinshi	emotion	式神	128	yaoqinshi	21	0	19.2	21	0.16	1.59
+vo_emotion_134_yaohu	emotion	式神	134	yaohu	21	0	25.1	21	0.56	3.59
+vo_emotion_146_tiaotiaomeimei	emotion	式神	146	tiaotiaomeimei	22	0	27.3	22	0.34	2.32
+vo_emotion_164_yanyanluo	emotion	式神	164	yanyanluo	40	0	40.6	40	0.31	2.17
+vo_emotion_167_buzhihuo	emotion	式神	167	buzhihuo	31	0	37.2	31	0.40	5.20
+vo_emotion_170_bianhua	emotion	式神	170	bianhua	22	0	32.8	22	0.30	3.62
+vo_emotion_177_longyechaji	emotion	式神	177	longyechaji	22	0	17.1	22	0.23	1.89
+vo_emotion_178_huang	emotion	式神	178	huang	22	0	22.5	22	0.54	1.81
+vo_emotion_179_jiuciliang	emotion	式神	179	jiuciliang	23	0	29.0	23	0.48	3.08
+vo_emotion_180_lingluyuqian	emotion	式神	180	lingluyuqian	22	0	21.9	22	0.46	2.16
+vo_emotion_181_renmianshu	emotion	式神	181	renmianshu	22	0	19.5	22	0.43	1.58
+vo_emotion_183_tiaotiaogege	emotion	式神	183	tiaotiaogege	24	0	36.6	24	0.56	2.98
+vo_emotion_184_yinghuayao	emotion	式神	184	yinghuayao	21	0	23.8	21	0.38	2.64
+vo_emotion_185_sanmu	emotion	式神	185	sanmu	21	0	33.0	19,2	0.56	2.69
+vo_emotion_186_xun	emotion	式神	186	xun	21	0	27.5	21	0.42	3.41
+vo_emotion_187_shimengmo	emotion	式神	187	shimengmo	21	0	25.8	21	0.51	1.56
+vo_emotion_188_duyanxiaoseng	emotion	式神	188	duyanxiaoseng	22	0	30.6	22	0.57	2.84
+vo_emotion_189_yuzhuanjin	emotion	式神	189	yuzhuanjin	21	0	19.4	21	0.26	3.10
+vo_emotion_190_dayuewan	emotion	式神	190	dayuewan	21	0	21.9	21	0.43	3.75
+vo_emotion_191_guiqie	emotion	式神	191	guiqie	21	0	19.9	21	0.23	2.38
+vo_emotion_192_wugushi	emotion	式神	192	wugushi	20	0	42.6	20	0.78	4.72
+vo_emotion_192_wugushi_b	emotion	式神	192	wugushi_b	24	0	25.6	24	0.35	2.04
+vo_emotion_193_wushizhiling	emotion	式神	193	wushizhiling	22	0	28.8	22	0.56	2.52
+vo_emotion_194_guishibai	emotion	式神	194	guishibai	22	0	23.0	22	0.36	1.61
+vo_emotion_194_guishihei	emotion	式神	194	guishihei	21	0	22.6	21	0.36	1.63
+vo_emotion_196_baimugui	emotion	式神	196	baimugui	21	0	25.4	21	0.49	2.71
+vo_emotion_197_zhuiyueshen	emotion	式神	197	zhuiyueshen	22	0	21.8	22	0.41	1.82
+vo_emotion_2	emotion	式神	2		366	1	572.9	48,41,23,21,13,12,12,12,10,10,9,9,8,8,8,7,7,6,6,6,5,5,5,5,5,4,4,4,4,4,3,3,3,3,3,2,2,2,2,2,2,2,2,2,2,2,2,2,1,1,1,1	0.17	5.99
+vo_emotion_201_jiumingmao	emotion	式神	201	jiumingmao	21	0	26.8	21	0.64	2.16
+vo_emotion_204_huoqumo	emotion	式神	204	huoqumo	37	0	45.8	37	0.57	2.37
+vo_emotion_205_yuanjiulanghu	emotion	式神	205	yuanjiulanghu	25	0	22.2	25	0.35	1.94
+vo_emotion_206_jingliuliyuqian	emotion	式神	206	jingliuliyuqian	24	0	25.2	24	0.36	2.43
+vo_emotion_207_yingxueji	emotion	式神	207	yingxueji	22	0	40.1	22	0.25	5.35
+vo_emotion_208_mianlingqi	emotion	式神	208	mianlingqi	21	0	18.8	21	0.33	1.66
+vo_emotion_209_huibishou	emotion	式神	209	huibishou	47	0	76.6	47	0.47	6.83
+vo_emotion_210_xieji	emotion	式神	210	xieji	34	0	39.4	34	0.34	3.32
+vo_emotion_211_gouchang	emotion	式神	211	gouchang	25	0	31.3	25	0.50	2.56
+vo_emotion_212_tieshu	emotion	式神	212	tieshu	21	0	21.9	21	0.37	1.44
+vo_emotion_213_hetong	emotion	式神	213	hetong	22	0	20.8	22	0.39	1.44
+vo_emotion_214_guitongwan	emotion	式神	214	guitongwan	21	0	22.4	21	0.33	1.71
+vo_emotion_215_bore	emotion	式神	215	bore	21	0	23.3	21	0.48	2.15
+vo_emotion_216_yuanjieshen	emotion	式神	216	yuanjieshen	22	0	27.5	22	0.48	2.24
+vo_emotion_217_egui	emotion	式神	217	egui	21	0	28.3	21	0.38	2.39
+vo_emotion_220_baqidashe	emotion	式神	220	baqidashe	21	0	20.3	21	0.47	1.78
+vo_emotion_221_yuzaoqian	emotion	式神	221	yuzaoqian	22	0	25.9	22	0.44	2.63
+vo_emotion_221_yuzaoqian_nv	emotion	式神	221	yuzaoqian_nv	23	0	27.1	23	0.50	2.73
+vo_emotion_224_axiuluo	emotion	式神	224	axiuluo	21	0	22.7	21	0.25	2.34
+vo_emotion_225_dishitian	emotion	式神	225	dishitian	23	0	19.9	23	0.33	1.56
+vo_emotion_226_huangkulou	emotion	式神	226	huangkulou	61	0	66.2	61	0.31	3.47
+vo_emotion_227_jinyuji	emotion	式神	227	jinyuji	21	0	22.0	21	0.37	1.92
+vo_emotion_228_tengji	emotion	式神	228	tengji	22	0	22.4	22	0.37	1.83
+vo_emotion_228_tengji_b	emotion	式神	228	tengji_b	22	0	20.5	22	0.39	1.45
+vo_emotion_229_huaniaojuan	emotion	式神	229	huaniaojuan	20	0	23.9	20	0.82	1.62
+vo_emotion_230_yanmo	emotion	式神	230	yanmo	24	0	23.0	24	0.34	1.79
+vo_emotion_231_kuileishi	emotion	式神	231	kuileishi	22	0	21.1	22	0.26	2.92
+vo_emotion_232_fengli	emotion	式神	232	fengli	21	0	23.1	21	0.34	1.98
+vo_emotion_233_baizangzhu	emotion	式神	233	baizangzhu	22	0	23.0	22	0.32	3.12
+vo_emotion_235_guanhu	emotion	式神	235	guanhu	22	0	32.9	22	0.59	2.43
+vo_emotion_236_rulianshi	emotion	式神	236	rulianshi	24	0	35.7	24	0.35	6.90
+vo_emotion_238_liangmianfo	emotion	式神	238	liangmianfo	43	0	59.1	43	0.53	3.92
+vo_emotion_239_yi	emotion	式神	239	yi	26	0	33.6	26	0.49	2.79
+vo_emotion_240_heitongzi	emotion	式神	240	heitongzi	26	0	36.1	26	0.55	4.29
+vo_emotion_241_baitongzi	emotion	式神	241	baitongzi	23	0	19.4	23	0.30	2.35
+vo_emotion_242_yunwaijing	emotion	式神	242	yunwaijing	42	0	37.3	42	0.28	2.11
+vo_emotion_243_xiazhongshaonv	emotion	式神	243	xiazhongshaonv	23	0	44.4	23	0.61	5.55
+vo_emotion_244_song	emotion	式神	244	song	52	0	61.9	52	0.43	3.88
+vo_emotion_245_xiaosongwan	emotion	式神	245	xiaosongwan	23	0	33.0	23	0.43	3.68
+vo_emotion_246_maoyou	emotion	式神	246	maoyou	23	0	26.4	23	0.32	3.08
+vo_emotion_247_qianji	emotion	式神	247	qianji	22	0	23.5	22	0.39	4.11
+vo_emotion_248_limao	emotion	式神	248	limao	22	0	29.7	22	0.52	2.71
+vo_emotion_249_yixigong	emotion	式神	249	yixigong	70	0	98.6	70	0.50	4.17
+vo_emotion_250_tuwan	emotion	式神	250	tuwan	22	0	27.6	22	0.47	2.78
+vo_emotion_251_xingxiongtongzi	emotion	式神	251	xingxiongtongzi	27	0	25.4	27	0.37	1.94
+vo_emotion_252_wuwan	emotion	式神	252	wuwan	32	0	41.5	32	0.53	3.04
+vo_emotion_253_shiling	emotion	式神	253	shiling	24	0	25.8	24	0.38	2.58
+vo_emotion_256_jinnaluo	emotion	式神	256	jinnaluo	23	0	22.1	23	0.25	2.02
+vo_emotion_257_runeique_qing	emotion	式神	257	runeique_qing	22	0	19.2	22	0.45	1.77
+vo_emotion_257_runeique_yan	emotion	式神	257	runeique_yan	21	0	16.4	21	0.35	1.63
+vo_emotion_258_choushizhinv	emotion	式神	258	choushizhinv	21	0	23.5	21	0.46	2.01
+vo_emotion_261_yifanmumian	emotion	式神	261	yifanmumian	2	0	4.1	2	0.57	3.56
+vo_emotion_263_lingyanji	emotion	式神	263	lingyanji	24	0	28.6	24	0.45	3.38
+vo_emotion_269_shuzhu	emotion	式神	269	shuzhu	24	0	25.9	24	0.39	2.63
+vo_emotion_272_sanweihu	emotion	式神	272	sanweihu	23	0	33.1	23	0.60	4.22
+vo_emotion_273_baize	emotion	式神	273	baize	24	0	27.0	24	0.28	4.04
+vo_emotion_276_yitiao	emotion	式神	276	yitiao	22	0	25.5	22	0.49	1.92
+vo_emotion_281_xuzuozhinan	emotion	式神	281	xuzuozhinan	22	0	22.9	22	0.35	2.95
+vo_emotion_284_xienv	emotion	式神	284	xienv	21	0	19.9	21	0.47	1.43
+vo_emotion_287_linghaidie	emotion	式神	287	linghaidie	23	0	25.0	23	0.45	1.94
+vo_emotion_288_xunxiangxing	emotion	式神	288	xunxiangxing	23	0	18.8	23	0.30	2.06
+vo_emotion_289_yaodaojizhouren	emotion	式神	289	yaodaojizhouren	21	0	20.6	21	0.35	2.84
+vo_emotion_290_datiangougangfeng	emotion	式神	290	datiangougangfeng	21	0	22.3	21	0.59	2.19
+vo_emotion_291_qingxingdenghuihuo	emotion	式神	291	qingxingdenghuihuo	21	0	23.0	21	0.47	1.77
+vo_emotion_292_quanshenbailian	emotion	式神	292	quanshenbailian	21	0	33.0	21	0.86	3.01
+vo_emotion_292_quanshenlizhan	emotion	式神	292	quanshenlizhan	21	0	33.0	21	0.86	3.01
+vo_emotion_298_shenqilou	emotion	式神	298	shenqilou	21	0	17.0	21	0.27	1.34
+vo_emotion_298_shenqilou_nv	emotion	式神	298	shenqilou_nv	21	0	15.3	21	0.26	1.17
+vo_emotion_298_shenqilou_ying	emotion	式神	298	shenqilou_ying	21	0	24.3	21	0.37	2.47
+vo_emotion_602_jiutuntongziwangkong	emotion	式神	602	jiutuntongziwangkong	21	0	16.7	21	0.33	1.48
+vo_emotion_604_ji	emotion	式神	604	ji	21	0	33.7	21	1.10	3.90
+vo_emotion_605_kongquemingwang	emotion	式神	605	kongquemingwang	21	0	20.4	21	0.39	2.60
+vo_emotion_607_cimutongzilvli	emotion	式神	607	cimutongzilvli	22	0	20.9	20,2	0.41	1.93
+vo_emotion_610_guhuoniaoyuxiang	emotion	式神	610	guhuoniaoyuxiang	23	0	32.7	23	0.58	2.88
+vo_emotion_612_taohuayaoluoying	emotion	式神	612	taohuayaoluoying	21	0	20.8	21	0.34	1.88
+vo_emotion_613_yimulianlinglai	emotion	式神	613	yimulianlinglai	21	0	17.3	21	0.22	1.58
+vo_emotion_614_yanling	emotion	式神	614	yanling	21	0	25.2	21	0.50	2.93
+vo_emotion_615_fangshi	emotion	式神	615	fangshi	21	0	23.7	21	0.37	2.35
+vo_emotion_615_langyazi	emotion	式神	615	langyazi	21	0	23.7	21	0.37	2.35
+vo_emotion_616_shantuzuofutongzi_z	emotion	式神	616	shantuzuofutongzi_z	21	0	16.6	21	0.22	1.49
+vo_emotion_617_huangqiming	emotion	式神	617	huangqiming	21	0	17.6	21	0.36	1.33
+vo_emotion_618_zhuiyueshenshuiyue	emotion	式神	618	zhuiyueshenshuiyue	22	0	18.2	22	0.25	1.93
+vo_emotion_621_chen	emotion	式神	621	chen	21	0	27.5	21	0.62	3.51
+vo_emotion_623_tianzhao	emotion	式神	623	tianzhao	21	0	23.2	21	0.24	2.94
+vo_emotion_624_wushizhilingmaoshi	emotion	式神	624	wushizhilingmaoshi	42	0	47.1	42	0.38	2.81
+vo_emotion_629_mianlingqixinsu	emotion	式神	629	mianlingqixinsu	23	0	23.5	23	0.36	2.88
+vo_emotion_630_yingcaopupu	emotion	式神	630	yingcaopupu	22	0	20.3	22	0.44	1.53
+vo_emotion_631_ertong	emotion	式神	631	ertong	23	0	28.0	23	0.31	3.36
+vo_emotion_645_sibing	emotion	式神	645	sibing	21	0	25.4	21	0.54	2.02
+vo_emotion_647_chili	emotion	式神	647	chili	21	0	21.0	21	0.38	3.35
+vo_emotion_652_guijinyang	emotion	式神	652	guijinyang	60	0	121.1	60	0.58	10.25
+vo_emotion_657_pinfashen	emotion	式神	657	pinfashen	21	0	29.5	21	0.50	2.22
+vo_emotion_659_zhaocaimao	emotion	式神	659	zhaocaimao	21	0	29.6	21	0.44	2.70
+vo_emotion_hemaoyixin	emotion	式神		hemaoyixin	22	0	19.1	22	0.19	1.49
+vo_emotion_hudiejing	emotion	式神		hudiejing	17	0	12.3	17	0.28	1.44
+vo_emotion_shanwa	emotion	式神		shanwa	22	0	31.7	22	0.60	2.59
+vo_emotion_shifagui	emotion	式神		shifagui	21	0	22.2	21	0.45	1.69
+vo_emotion_tianxieguichi	emotion	式神		tianxieguichi	21	0	26.2	21	0.30	2.69
+vo_emotion_tianxieguihuang	emotion	式神		tianxieguihuang	23	0	31.9	23	0.48	2.70
+vo_street_baizangzhu	street	式神		baizangzhu	16	0	45.0	16	1.15	5.44
+vo_street_cimutongzi	street	式神		cimutongzi	17	0	31.0	15,2	0.38	3.05
+vo_street_cimutongzi_char	street	式神		cimutongzi_char	12	0	12.2	4,3,3,2	0.41	2.35
+vo_street_datiangou	street	式神		datiangou	11	0	5.8	2,1,1,1,1,1,1,1,1,1	0.13	1.54
+vo_street_datiangou_char	street	式神		datiangou_char	7	0	5.5	2,2,2,1	0.33	1.79
+vo_street_huaniaojuan	street	式神		huaniaojuan	16	0	58.0	16	0.91	6.61
+vo_street_huiyeji	street	式神		huiyeji	32	0	64.4	5,5,3,3,3,3,2,2,2,2,1,1	0.49	4.43
+vo_street_huiyeji_char	street	式神		huiyeji_char	4	0	8.9	1,1,1,1	1.25	3.48
+vo_street_jinyuji	street	式神		jinyuji	34	0	49.0	6,5,3,3,3,2,2,2,2,2,2,2	0.33	3.78
+vo_street_jinyuji_char	street	式神		jinyuji_char	5	0	3.9	2,1,1,1	0.60	1.20
+vo_street_jiutuntongzi	street	式神		jiutuntongzi	18	0	13.9	15,3	0.44	1.38
+vo_street_jiutuntongzi_char	street	式神		jiutuntongzi_char	10	0	8.5	4,3,2,1	0.24	1.98
+vo_street_tengji	street	式神		tengji	16	0	45.8	16	0.99	4.69
+vo_street_yingcao	street	式神		yingcao	28	0	38.7	5,3,3,3,2,2,2,2,2,2,2	0.41	2.92
+vo_street_yingcao_char	street	式神		yingcao_char	7	0	7.8	3,2,1,1	0.61	1.79
